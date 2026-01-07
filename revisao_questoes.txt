@@ -1,0 +1,106 @@
+======================================================================
+RELATÓRIO DE REVISÃO DE QUESTÕES
+======================================================================
+
+RESUMO:
+  Total de questões: 200
+  Questões OK: 193 (96.5%)
+  Questões com problemas: 7 (3.5%)
+
+PROBLEMAS ENCONTRADOS:
+  COMANDO_VAZIO: 7
+
+======================================================================
+DETALHAMENTO DAS QUESTÕES COM PROBLEMAS
+======================================================================
+
+--- Questão 20 (ID: 3082939) ---
+Link: www.tecconcursos.com.br/questoes/3082939
+
+Problemas encontrados:
+  ⚠ COMANDO_VAZIO: Separação comando/enunciado pode ter falhado
+
+Campos:
+  Matéria: Direito Constitucional (CF/1988 e Doutrina)...
+  Assunto: Histórico das Constituições no Brasil...
+  Comando: ...
+  Enunciado: A República Liberal (1945-1964) foi um período marcado pela inclusão de novos setores da sociedade n...
+  Gabarito: Certo
+
+--- Questão 57 (ID: 3290531) ---
+Link: www.tecconcursos.com.br/questoes/3290531
+
+Problemas encontrados:
+  ⚠ COMANDO_VAZIO: Separação comando/enunciado pode ter falhado
+
+Campos:
+  Matéria: Direito Constitucional (CF/1988 e Doutrina)...
+  Assunto: Eficácia das Normas Constitucionais...
+  Comando: ...
+  Enunciado: Julgue o item a seguir, com base no disposto na Emenda Constitucional n.º 103/2019. As normas que tr...
+  Gabarito: Errado
+
+--- Questão 115 (ID: 3529687) ---
+Link: www.tecconcursos.com.br/questoes/3529687
+
+Problemas encontrados:
+  ⚠ COMANDO_VAZIO: Separação comando/enunciado pode ter falhado
+
+Campos:
+  Matéria: Direito Constitucional (CF/1988 e Doutrina)...
+  Assunto: Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da CF/1988)...
+  Comando: ...
+  Enunciado: A Constituição Federal de 1988 prevê como princípio que rege República Federativa do Brasil em suas ...
+  Gabarito: Certo
+
+--- Questão 116 (ID: 3529688) ---
+Link: www.tecconcursos.com.br/questoes/3529688
+
+Problemas encontrados:
+  ⚠ COMANDO_VAZIO: Separação comando/enunciado pode ter falhado
+
+Campos:
+  Matéria: Direito Constitucional (CF/1988 e Doutrina)...
+  Assunto: Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da CF/1988)...
+  Comando: ...
+  Enunciado: A Constituição Federal de 1988 prevê como princípio que rege República Federativa do Brasil em suas ...
+  Gabarito: Errado
+
+--- Questão 176 (ID: 3374005) ---
+Link: www.tecconcursos.com.br/questoes/3374005
+
+Problemas encontrados:
+  ⚠ COMANDO_VAZIO: Separação comando/enunciado pode ter falhado
+
+Campos:
+  Matéria: Direito Constitucional (CF/1988 e Doutrina)...
+  Assunto: Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988)...
+  Comando: ...
+  Enunciado: Em relação ao controle de constitucionalidade e aos direitos e garantias fundamentais, julgue o item...
+  Gabarito: Certo
+
+--- Questão 177 (ID: 3438934) ---
+Link: www.tecconcursos.com.br/questoes/3438934
+
+Problemas encontrados:
+  ⚠ COMANDO_VAZIO: Separação comando/enunciado pode ter falhado
+
+Campos:
+  Matéria: Direito Constitucional (CF/1988 e Doutrina)...
+  Assunto: Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988)...
+  Comando: ...
+  Enunciado: Julgue o item a seguir, considerando os princípios fundamentais da República Federativa do Brasil, o...
+  Gabarito: Errado
+
+--- Questão 180 (ID: 3492591) ---
+Link: www.tecconcursos.com.br/questoes/3492591
+
+Problemas encontrados:
+  ⚠ COMANDO_VAZIO: Separação comando/enunciado pode ter falhado
+
+Campos:
+  Matéria: Direito Constitucional (CF/1988 e Doutrina)...
+  Assunto: Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988)...
+  Comando: ...
+  Enunciado: Julgue o item seguinte com base na Constituição Federal de 1988 (CF) e na jurisprudência dos tribuna...
+  Gabarito: Errado
