@@ -1,19 +1,5 @@
 [
   {
-    "numero": 20,
-    "id_tec": "3082939",
-    "link": "www.tecconcursos.com.br/questoes/3082939",
-    "banca_orgao": "CEBRASPE (CESPE) - Diplomata/IRBr/2024",
-    "materia": "Direito Constitucional (CF/1988 e Doutrina)",
-    "assunto": "Histórico das Constituições no Brasil",
-    "comando": "",
-    "enunciado": "A República Liberal (1945-1964) foi um período marcado pela inclusão de novos setores da sociedade no cenário político e a intensificação das disputas por diferentes projetos de sociedade e de cidadania. A respeito desse período, julgue (C ou E) o item a seguir. A Constituição de 1946 reconheceu a educação básica como direito, estabeleceu a gratuidade do ensino primário, bem como definiu os percentuais da arrecadação fiscal que deveriam ser investidos no setor educacional pela União, estados e municípios.",
-    "gabarito": "Certo",
-    "_problemas": [
-      "COMANDO_VAZIO: Separação comando/enunciado pode ter falhado"
-    ]
-  },
-  {
     "numero": 57,
     "id_tec": "3290531",
     "link": "www.tecconcursos.com.br/questoes/3290531",
@@ -24,7 +10,7 @@
     "enunciado": "Julgue o item a seguir, com base no disposto na Emenda Constitucional n.º 103/2019. As normas que tratam das entidades de previdência complementar são autoaplicáveis, com eficácia direta e imediata.",
     "gabarito": "Errado",
     "_problemas": [
-      "COMANDO_VAZIO: Separação comando/enunciado pode ter falhado"
+      "COMANDO_VAZIO_CRITICO: Texto 'julgue' encontrado no enunciado"
     ]
   },
   {
@@ -38,7 +24,7 @@
     "enunciado": "A Constituição Federal de 1988 prevê como princípio que rege República Federativa do Brasil em suas relações internacionais o repúdio ao terrorismo e ao racismo.",
     "gabarito": "Certo",
     "_problemas": [
-      "COMANDO_VAZIO: Separação comando/enunciado pode ter falhado"
+      "COMANDO_VAZIO_INFO: Questão sem comando explícito (verificar se intencional)"
     ]
   },
   {
@@ -52,49 +38,7 @@
     "enunciado": "A Constituição Federal de 1988 prevê como princípio que rege República Federativa do Brasil em suas relações internacionais. a não concessão de extradição a estrangeiro por crime político ou de opinião.",
     "gabarito": "Errado",
     "_problemas": [
-      "COMANDO_VAZIO: Separação comando/enunciado pode ter falhado"
-    ]
-  },
-  {
-    "numero": 176,
-    "id_tec": "3374005",
-    "link": "www.tecconcursos.com.br/questoes/3374005",
-    "banca_orgao": "CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Direito/2025",
-    "materia": "Direito Constitucional (CF/1988 e Doutrina)",
-    "assunto": "Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988)",
-    "comando": "",
-    "enunciado": "Em relação ao controle de constitucionalidade e aos direitos e garantias fundamentais, julgue o item a seguir, com base na Constituição Federal de 1988 (CF) e na jurisprudência do STF. É constitucional lei que isenta pessoas reconhecidamente pobres do pagamento dos emolumentos devidos pela expedição de registro civil de nascimento e da respectiva primeira certidão, bem como pela emissão da carteira de identidade.",
-    "gabarito": "Certo",
-    "_problemas": [
-      "COMANDO_VAZIO: Separação comando/enunciado pode ter falhado"
-    ]
-  },
-  {
-    "numero": 177,
-    "id_tec": "3438934",
-    "link": "www.tecconcursos.com.br/questoes/3438934",
-    "banca_orgao": "CEBRASPE (CESPE) - Ana (EMBRAPA)/EMBRAPA/Direito e Auditoria/Assessoria Jurídica - Advogado/2025",
-    "materia": "Direito Constitucional (CF/1988 e Doutrina)",
-    "assunto": "Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988)",
-    "comando": "",
-    "enunciado": "Julgue o item a seguir, considerando os princípios fundamentais da República Federativa do Brasil, os direitos e garantias fundamentais, bem como a aplicabilidade das normas constitucionais. É inconstitucional a prática de desqualificar a mulher vítima de violência durante a instrução e o julgamento de crimes contra a dignidade sexual e de todos os crimes de violência contra a mulher; contudo, conforme a natureza do crime, é permitida eventual menção, inquirição ou fundamentação sobre a vida sexual pregressa ou ao modo de vida da vítima em audiências e decisões judiciais.",
-    "gabarito": "Errado",
-    "_problemas": [
-      "COMANDO_VAZIO: Separação comando/enunciado pode ter falhado"
-    ]
-  },
-  {
-    "numero": 180,
-    "id_tec": "3492591",
-    "link": "www.tecconcursos.com.br/questoes/3492591",
-    "banca_orgao": "CEBRASPE (CESPE) - Adm (PF)/PF/2025",
-    "materia": "Direito Constitucional (CF/1988 e Doutrina)",
-    "assunto": "Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF/1988)",
-    "comando": "",
-    "enunciado": "Julgue o item seguinte com base na Constituição Federal de 1988 (CF) e na jurisprudência dos tribunais superiores. É assegurado ao preso o direito à identificação dos responsáveis por sua prisão, exceto quando esta ocorrer no âmbito de operação sigilosa autorizada por autoridade competente.",
-    "gabarito": "Errado",
-    "_problemas": [
-      "COMANDO_VAZIO: Separação comando/enunciado pode ter falhado"
+      "COMANDO_VAZIO_INFO: Questão sem comando explícito (verificar se intencional)"
     ]
   }
 ]
