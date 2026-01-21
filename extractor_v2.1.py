@@ -17,8 +17,8 @@ Autor: Bruno
 Versão: 2.1 - Correção de regex para acentos + novos padrões de comando
 """
 
-import re
 import csv
+import re
 import json
 import sys
 from pathlib import Path
@@ -27,7 +27,10 @@ from pathlib import Path
 # CONFIGURAÇÃO - Altere aqui conforme necessário
 # =============================================================================
 
-CAMINHO_PDF = "Direito Constitucional - 1 a 200 - Certo ou Errado.pdf"
+#CAMINHO_PDF = "Direito Constitucional - 1 a 200 - Certo ou Errado.pdf"
+#CAMINHO_PDF = "Língua Portuguesa\Língua Portuguesa - 1 a 200 - Certo ou Errado.pdf"
+CAMINHO_PDF = "Raciocínio Lógico\Raciocínio Lógico - 1.pdf"
+
 NOME_SAIDA = "questoes_extraidas"  # Gera .csv e .json
 
 # =============================================================================
@@ -174,7 +177,7 @@ def separar_materia_assunto(texto: str) -> tuple:
     return texto.strip(), ""
 
 
-def separar_comando_enunciado(texto: str) -> tuple:
+#def separar_comando_enunciado(texto: str) -> tuple:
     """
     Separa o comando (instrução) do enunciado (assertiva).
     
@@ -290,7 +293,76 @@ def separar_comando_enunciado(texto: str) -> tuple:
     # Se nada funcionou, retorna tudo como enunciado (comando vazio)
     texto_limpo = re.sub(r'\s*(Certo\s+Errado|Certo|Errado)\s*$', '', texto).strip()
     return "", texto_limpo
+def separar_comando_enunciado(texto: str) -> tuple:
+    """
+    Separa o comando (instrução + texto de apoio) do enunciado (assertiva).
+    
+    Ajuste para Português:
+    - Captura o texto que precede o padrão "Julgue o item" para não perder
+      os textos de apoio (poemas, crônicas, etc).
+    """
+    # Remove número inicial se houver (ex: "1) ")
+    texto = re.sub(r'^\d+\)\s*', '', texto).strip()
+    
+    # Lookahead para maiúscula (incluindo acentuadas)
+    LOOK_MAIUSC = f'(?={MAIUSCULA})'
+    
+    # Lista de padrões para detectar a frase de comando
+    padroes_fim_comando = [
+        # Padrões com introdução (ex: "Acerca de X, julgue...")
+        rf'([Aa]\s+respeito\s+.+?julgue\s+o\s+item\s+(?:a\s+seguir|seguinte|subsequente|que\s+se\s+segue)[^.]*\.)\s+{LOOK_MAIUSC}',
+        rf'([Ee]m\s+rela[çc][ãa]o\s+.+?julgue\s+o\s+item\s+(?:a\s+seguir|seguinte|subsequente|que\s+se\s+segue)[^.]*\.)\s+{LOOK_MAIUSC}',
+        rf'([Nn]o\s+que\s+se\s+refere\s+.+?julgue\s+o\s+item\s+(?:a\s+seguir|seguinte|subsequente|que\s+se\s+segue)[^.]*\.)\s+{LOOK_MAIUSC}',
+        rf'([Cc]onsiderando\s+.+?julgue\s+o\s+item\s+(?:a\s+seguir|seguinte|subsequente|que\s+se\s+segue)[^.]*\.)\s+{LOOK_MAIUSC}',
+        rf'([Cc]om\s+base\s+.+?julgue\s+o\s+item\s+(?:a\s+seguir|seguinte|subsequente|que\s+se\s+segue)[^.]*\.)\s+{LOOK_MAIUSC}',
+        
+        # Padrões diretos (ex: "Julgue o item a seguir.")
+        # Removemos o [^.]* do início para não limitar a busca à mesma frase
+        rf'([Jj]ulgue\s+o\s+(?:próximo\s+)?item\s+(?:a\s+seguir|seguinte|subsequente|que\s+se\s+segue)[^.]*\.)\s+{LOOK_MAIUSC}',
+        rf'([Jj]ulgue\s+os\s+itens?\s+(?:a\s+seguir|seguintes?|que\s+se\s+seguem?)[^.]*\.)\s+{LOOK_MAIUSC}',
+        
+        # Fallback genérico para "Julgue"
+        rf'([Jj]ulgue[^.]+\.)\s+{LOOK_MAIUSC}',
+    ]
+    
+    for padrao in padroes_fim_comando:
+        # Usamos search para encontrar onde o padrão de comando ocorre no texto
+        match = re.search(padrao, texto, re.IGNORECASE)
+        if match:
+            # PONTO CRÍTICO CORRIGIDO:
+            # O 'comando_frase' é apenas a parte "Julgue o item...".
+            # O 'preambulo' é tudo que veio antes (o texto de apoio).
+            inicio_match = match.start()
+            fim_match = match.end()
+            
+            preambulo = texto[:inicio_match].strip()
+            comando_frase = match.group(1).strip()
+            
+            # Unimos o texto de apoio ao comando
+            comando_completo = f"{preambulo} {comando_frase}".strip()
+            
+            enunciado = texto[fim_match:].strip()
+            
+            # Limpeza final do enunciado (remove Certo/Errado do fim)
+            enunciado = re.sub(r'\s*(Certo\s+Errado|Certo|Errado)\s*$', '', enunciado).strip()
+            
+            if enunciado:
+                return comando_completo, enunciado
 
+    # =================================================================
+    # FALLBACK FINAL (Cuidado redobrado em Português)
+    # =================================================================
+    # Em textos de português, separar pelo primeiro ponto é perigoso 
+    # pois pode quebrar o texto de apoio no meio.
+    # Vamos tentar ser mais conservadores aqui.
+    
+    # Se não achou padrão "Julgue", assume que tudo é enunciado para não perder dados,
+    # ou tenta identificar se é múltipla escolha (não parece ser o caso aqui).
+    
+    texto_limpo = re.sub(r'\s*(Certo\s+Errado|Certo|Errado)\s*$', '', texto).strip()
+    
+    # Retorna vazio no comando e tudo no enunciado (melhor que cortar errado)
+    return "", texto_limpo
 
 def filtrar_linhas(texto: str) -> list:
     """
