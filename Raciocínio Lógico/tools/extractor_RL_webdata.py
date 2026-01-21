@@ -9,10 +9,9 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 
 # ================= CONFIGURAÇÃO =================
-# URL do Caderno (Comece na Questão 1)
 URL_CADERNO = "https://www.tecconcursos.com.br/questoes/cadernos/86161349" 
-ARQUIVO_SAIDA = "raciocinio_web_amostra_30.json"
-LIMITE_TESTE = 30  # TRAVA DE SEGURANÇA PARA O TESTE
+ARQUIVO_WEB = "raciocinio_web_data.json"
+BACKUP_INTERVALO = 50
 
 # Correção SSL
 os.environ['WDM_SSL_VERIFY'] = '0'
@@ -23,17 +22,56 @@ def limpar_texto(texto):
     return re.sub(r'\n{3,}', '\n\n', texto).strip()
 
 def extrair_id_tec_do_html(soup):
-    """
-    Busca o ID real da questão nos links internos do HTML (ex: href='/questoes/123456')
-    Isso é vital para cruzar com o PDF depois.
-    """
-    # Tenta achar link de 'Estatísticas', 'Comentários' ou 'Resolver'
     links = soup.find_all("a", href=re.compile(r"/questoes/\d+"))
     for link in links:
         match = re.search(r"/questoes/(\d+)", link['href'])
         if match:
             return match.group(1)
     return None
+
+def converter_tabelas_html(soup_element):
+    """
+    Localiza tabelas HTML e as transforma em tabelas Markdown estruturadas
+    antes da extração de texto plano.
+    """
+    tables = soup_element.find_all("table")
+    
+    for table in tables:
+        try:
+            trs = table.find_all("tr")
+            if not trs: continue
+
+            markdown_lines = []
+            num_cols = 0
+
+            # Processa linha a linha
+            for i, tr in enumerate(trs):
+                cells = tr.find_all(["th", "td"])
+                if not cells: continue
+
+                # Pega o texto limpo de cada célula
+                row_cells = [cell.get_text(" ", strip=True) for cell in cells]
+                
+                # Atualiza número de colunas baseado na primeira linha válida
+                if num_cols == 0:
+                    num_cols = len(row_cells)
+
+                # Monta a linha Markdown: | Célula | Célula |
+                markdown_lines.append("| " + " | ".join(row_cells) + " |")
+
+                # Se for a primeira linha, adiciona o separador de cabeçalho
+                if i == 0:
+                    # Cria: | --- | --- | --- |
+                    separator = "| " + " | ".join(["---"] * num_cols) + " |"
+                    markdown_lines.append(separator)
+
+            # Substitui a tag <table> original pelo bloco Markdown gerado
+            tabela_md = "\n\n" + "\n".join(markdown_lines) + "\n\n"
+            table.replace_with(tabela_md)
+            
+        except Exception as e:
+            print(f"Aviso: Erro ao converter tabela HTML: {e}")
+            # Se falhar, deixa como está para o get_text padrão pegar
 
 def processar_conteudo_rico(html_content, seq_interna):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -45,20 +83,23 @@ def processar_conteudo_rico(html_content, seq_interna):
     
     if not enunciado_div: return None
 
-    # 2. Resgata o ID Real (Chave de Segurança)
+    # 2. Resgata ID
     id_tec_real = extrair_id_tec_do_html(soup)
 
-    # 3. LaTeX (MathJax) -> $$...$$
+    # 3. Tratamento de Tabelas (A NOVIDADE AQUI) 🔥
+    # Executamos isso ANTES de extrair o texto final
+    converter_tabelas_html(enunciado_div)
+
+    # 4. LaTeX (MathJax) -> $$...$$
     tem_latex = False
     for script in enunciado_div.find_all("script", type="math/tex"):
         tem_latex = True
         script.replace_with(f" $${script.get_text()}$$ ")
     
-    # Limpa lixo visual do MathJax
     for tag in enunciado_div.find_all(class_=["MathJax_Preview", "MathJax"]):
         tag.decompose()
 
-    # 4. Imagens -> Markdown
+    # 5. Imagens
     tem_imagem = False
     urls_imagens = []
     for img in enunciado_div.find_all("img"):
@@ -68,13 +109,13 @@ def processar_conteudo_rico(html_content, seq_interna):
             urls_imagens.append(src)
             img.replace_with(f"\n![Imagem]({src})\n")
 
-    # 5. Texto Limpo
+    # 6. Texto Limpo (Agora já contendo as tabelas em Markdown)
     texto_rico = limpar_texto(enunciado_div.get_text(separator="\n"))
 
     return {
-        "numero": seq_interna,       # 1 a 30
-        "id_tec_html": id_tec_real,  # Ex: 219384 (Para JOIN com PDF)
-        "comando_rico": texto_rico,  # Texto com LaTeX e Imagens
+        "numero": seq_interna,
+        "id_tec_html": id_tec_real,
+        "comando_rico": texto_rico,
         "imagens_urls": urls_imagens,
         "tem_latex": tem_latex,
         "tem_imagem": tem_imagem
@@ -94,20 +135,18 @@ def main():
     coletados = []
     
     try:
-        print(f"--- PILOTO: EXTRAÇÃO DE {LIMITE_TESTE} QUESTÕES ---")
+        print("--- EXTRATOR WEB ROBUSTO (Com Tabelas) ---")
         driver.get("https://www.tecconcursos.com.br/entrar")
-        print("1. Realize o Login e resolva o Captcha.")
-        print("2. Aguarde carregar a Home.")
+        print("1. Login + Captcha.")
         input(">>> Pressione ENTER para iniciar...")
         
-        print(f"Acedendo ao caderno: {URL_CADERNO}")
         driver.get(URL_CADERNO)
         time.sleep(5)
         
         contador = 1
         
-        while contador <= LIMITE_TESTE:
-            # Scroll e Wait (Fundamental para LaTeX)
+        while True:
+            # Scroll e Wait
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(2.5) 
             
@@ -116,33 +155,34 @@ def main():
             
             if dados:
                 coletados.append(dados)
-                print(f"Q.{contador:02d} | ID TEC: {dados['id_tec_html']} | LaTeX: {dados['tem_latex']}")
+                # Log visual para debug
+                status = "Tabela Detectada" if "| --- |" in dados['comando_rico'] else "OK"
+                print(f"Q.{contador} | ID: {dados['id_tec_html']} | {status}")
             else:
-                print(f"Q.{contador:02d} ❌ Erro ao ler HTML")
                 coletados.append({"numero": contador, "erro": True})
 
-            # Se chegamos ao limite, paramos antes de clicar no próximo
-            if contador == LIMITE_TESTE:
-                print("Limite de teste alcançado.")
-                break
-
-            # Próxima Página
+            # Backup
+            if contador % BACKUP_INTERVALO == 0:
+                with open(ARQUIVO_WEB, "w", encoding="utf-8") as f:
+                    json.dump(coletados, f, indent=4, ensure_ascii=False)
+            
+            # Próxima
             try:
                 btn = driver.find_element(By.CSS_SELECTOR, "button.questao-navegacao-botao-proxima")
                 if not btn.is_enabled(): break
                 btn.click()
                 contador += 1
-            except Exception:
-                print("Botão Próximo não encontrado.")
+            except:
                 break
 
-        # Final
-        with open(ARQUIVO_SAIDA, "w", encoding="utf-8") as f:
+        with open(ARQUIVO_WEB, "w", encoding="utf-8") as f:
             json.dump(coletados, f, indent=4, ensure_ascii=False)
-        print(f"\nSucesso! Amostra salva em: {ARQUIVO_SAIDA}")
-
+            
     except Exception as e:
-        print(f"Erro fatal: {e}")
+        print(f"Erro: {e}")
+        if coletados:
+            with open(f"backup_{ARQUIVO_WEB}", "w", encoding="utf-8") as f:
+                json.dump(coletados, f, indent=4, ensure_ascii=False)
     finally:
         driver.quit()
 
