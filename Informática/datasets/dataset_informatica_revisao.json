@@ -1,0 +1,482 @@
+[
+    {
+        "numero": 619,
+        "id_tec": "354484",
+        "link": "www.tecconcursos.com.br/questoes/354484",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (INSS)/INSS/2016",
+        "materia": "Informática",
+        "assunto": "Antivírus e Antispyware",
+        "gabarito": "Errado",
+        "comando": "O próximo item, que aborda procedimentos de informática e conceitos de Internet e intranet, apresenta uma situação\nhipotética, seguida de uma assertiva a ser julgada.\nAo iniciar seu dia de trabalho, Daniel se deparou com inúmeros aplicativos abertos em seu computador de trabalho, o que deixava\nsua máquina lenta e sujeita a travamentos frequentes. Ele constatou, ainda, que somente um desses aplicativos era necessário\npara a execução de suas atividades. Nessa situação, para melhorar o desempenho do seu computador, Daniel deve utilizar um\naplicativo de antivírus instalado localmente, para eliminar os aplicativos que estiverem consumindo recursos além do normal.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 363,
+        "id_tec": "354485",
+        "link": "www.tecconcursos.com.br/questoes/354485",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (INSS)/INSS/2016",
+        "materia": "Informática",
+        "assunto": "Intranet e Extranet",
+        "gabarito": "Errado",
+        "comando": "O próximo item, que aborda procedimentos de informática e conceitos de Internet e intranet, apresenta uma situação\nhipotética, seguida de uma assertiva a ser julgada.\nA área administrativa do INSS informou a todos os servidores públicos lotados nesse órgão que o acesso a determinado sistema\nde consulta de dados cadastrais seria disponibilizado por meio da Internet, em substituição ao acesso realizado somente por meio\nda intranet do órgão. Nessa situação, não haverá similaridade entre os sistemas de consulta, porque sistemas voltados para\nintranet, diferentemente dos voltados para Internet, não são compatíveis com o ambiente web.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 572,
+        "id_tec": "419662",
+        "link": "www.tecconcursos.com.br/questoes/419662",
+        "banca_orgao": "CEBRASPE (CESPE) - TA (ANVISA)/ANVISA/2016",
+        "materia": "Informática",
+        "assunto": "Ameaças (Vírus, Worms, Trojans, Malware, etc.)",
+        "gabarito": "Certo",
+        "comando": "Acerca de aspectos e procedimentos relacionados à segurança da informação, julgue o item a seguir.\nCódigos maliciosos podem ter acesso aos dados armazenados no computador e executar ações em nome dos usuários, de acordo\ncom as permissões de operação de cada um destes.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 9,
+        "id_tec": "590134",
+        "link": "www.tecconcursos.com.br/questoes/590134",
+        "banca_orgao": "CEBRASPE (CESPE) - SM (PM MA)/PM MA/Combatente/2018",
+        "materia": "Informática",
+        "assunto": "Processador (CPU) e Arquitetura de Computador",
+        "gabarito": "Certo",
+        "comando": "Em um desktop foi instalada uma placa-mãe que contém quatro slots para memória DDR3 com suporte para dual-channel e\ncom um processador recente da Intel da linha Core. Após a instalação do sistema operacional, foram obtidas as informações\napresentadas na figura a seguir.\nConsiderando a situação hipotética e a figura precedentes, julgue o item seguinte, relativo a hardware e software para o ambiente\nde microinformática.\nOs processadores mais recentes possuem, entre outras funcionalidades, a capacidade de ajustar dinamicamente seu desempenho\nde acordo com a demanda exigida pelo processamento.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1223,
+        "id_tec": "626277",
+        "link": "www.tecconcursos.com.br/questoes/626277",
+        "banca_orgao": "CEBRASPE (CESPE) - TJ STJ/STJ/Apoio Especializado/Suporte Técnico/2018",
+        "materia": "TI",
+        "assunto": "Segurança da Informação - Backup",
+        "gabarito": "Errado",
+        "comando": "A respeito de fitas do tipo LTO, amplamente utilizadas em robôs de becape, julgue o item a seguir\nA oitava geração das fitas LTO suporta becape de até 50 terabaites sem compressão de dados, e o dobro, com compressão.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 995,
+        "id_tec": "665625",
+        "link": "www.tecconcursos.com.br/questoes/665625",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Port II (EMAP)/EMAP/Tecnologia da Informação/2018",
+        "materia": "TI",
+        "assunto": "Redes de Computadores - Cloud Computing (Computação em Nuvem)",
+        "gabarito": "Certo",
+        "comando": "A respeito de sistemas operacionais Windows, julgue o item a seguir.\nComo produto, a suíte Office comumente usada em uma nuvem pública, conhecida como Office 365, permite, de acordo com o\nplano de contratação escolhido, que softwares como Word e Excel possam ser instalados em um desktop ou executados pelo\nnavegador do usuário.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 109,
+        "id_tec": "684359",
+        "link": "www.tecconcursos.com.br/questoes/684359",
+        "banca_orgao": "CEBRASPE (CESPE) - PCF/PF/Área 1/2018",
+        "materia": "Informática",
+        "assunto": "Windows 10",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada, a respeito de sistemas\noperacionais, intranet e Internet.\nDepois de fazer login em uma estação de trabalho com Windows 10, o usuário de nome delegado verificou que estava sem\nacesso de escrita na pasta c:\\temp\\bo. Uma das possíveis causas seria o fato de o referido usuário não ser o dono da pasta\ne(ou) não ter acesso específico a ela. Nessa situação, o administrador da máquina pode eliminar essa restrição por meio do\ncomando chown +w delegado c:\\temp\\bo, executado no power shell do sistema operacional, que aceita tanto comandos DOS\nquanto alguns comandos Linux.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 359,
+        "id_tec": "684360",
+        "link": "www.tecconcursos.com.br/questoes/684360",
+        "banca_orgao": "CEBRASPE (CESPE) - PCF/PF/Área 1/2018",
+        "materia": "Informática",
+        "assunto": "Intranet e Extranet",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada, a respeito de sistemas\noperacionais, intranet e Internet.\nEm determinado computador, no histórico de navegação de um usuário do Google Chrome, observou-se que havia, na lista de\nendereços acessados, mais sítios com endereços iniciados com https:// do que com http://. Nessa situação, com base somente\nnessa informação, conclui-se que esse usuário acessa mais sítios de intranet do que de Internet, uma vez que uma das\nprerrogativas da intranet é o caráter limitado ao seu acesso.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 399,
+        "id_tec": "684361",
+        "link": "www.tecconcursos.com.br/questoes/684361",
+        "banca_orgao": "CEBRASPE (CESPE) - PCF/PF/Área 1/2018",
+        "materia": "Informática",
+        "assunto": "Google Chrome",
+        "gabarito": "Certo",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada, a respeito de sistemas\noperacionais, intranet e Internet.\nPor meio do Google Chrome mais recente, André necessita acessar, a partir do seu dispositivo móvel, os dados armazenados na\nsua estação de trabalho, referentes à navegação que ele realizou também usando o Google Chrome mais recente. Nessa situação,\nAndré terá sucesso se efetuar login no Google Chrome com o mesmo usuário na estação de trabalho e no dispositivo móvel, o\nque lhe permite ter acesso às senhas, ao histórico e aos favoritos em todos os dispositivos configurados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 165,
+        "id_tec": "684362",
+        "link": "www.tecconcursos.com.br/questoes/684362",
+        "banca_orgao": "CEBRASPE (CESPE) - PCF/PF/Área 14/2018",
+        "materia": "Informática",
+        "assunto": "Word 2016",
+        "gabarito": "Certo",
+        "comando": "No seguinte item, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada, com relação à edição de\ntextos, planilhas e apresentações.\nAo editar um documento utilizando o Microsoft Word 2016, um usuário verificou que estava gastando muito tempo para atualizar\nmanualmente o índice, com títulos e subtítulos e os respectivos números de páginas; isso porque, entre outros fatores, a inserção\nde novos textos ocorre ao longo de todo o documento, e não apenas ao seu final, o que muda os números das páginas em que se\nlocalizam os títulos a serem inseridos no índice. Nessa situação, para resolver o problema, o usuário pode utilizar a ferramenta do\nWord que permite criar índices automaticamente por meio do uso de estilos, tais como título 1 e título 2.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 244,
+        "id_tec": "684363",
+        "link": "www.tecconcursos.com.br/questoes/684363",
+        "banca_orgao": "CEBRASPE (CESPE) - PCF/PF/Área 1/2018",
+        "materia": "Informática",
+        "assunto": "Excel 2016",
+        "gabarito": "Certo",
+        "comando": "No seguinte item, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada, com relação à edição de\ntextos, planilhas e apresentações.\nCom o uso de uma planilha no Microsoft Excel 2016, será realizada a soma de dois valores numéricos advindos de duas planilhas\ndiferentes, mas ambas constantes do mesmo arquivo. A fórmula de soma será inserida na célula A1 da planilha Plan1, e os\ndados a serem somados estão na célula A1 de Plan2 e na célula A2 de Plan1. Nessa situação, a fórmula correta a ser inserida\nna célula A1 da planilha Plan1 é =SOMA(Plan2!A1;A2).\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 998,
+        "id_tec": "686216",
+        "link": "www.tecconcursos.com.br/questoes/686216",
+        "banca_orgao": "CEBRASPE (CESPE) - APF/PF/2018",
+        "materia": "TI",
+        "assunto": "Redes de Computadores - Cloud Computing (Computação em Nuvem)",
+        "gabarito": "Errado",
+        "comando": "Os gestores de determinado órgão público decidiram adotar a computação em nuvem como solução para algumas\ndificuldades de gerenciamento dos recursos de tecnologia da informação. Assim, para cada contexto, análises devem ser\nrealizadas a fim de compatibilizar os recursos de gerenciamento e segurança com os modelos técnicos de contratação.\nConsiderando essas informações, julgue o seguinte item\nSe, para enviar e receber emails sem precisar gerenciar recursos adicionais voltados ao software de email e sem precisar manter\nos servidores e sistemas operacionais nos quais o software de email estiver sendo executado, os gestores optarem por um serviço\nde email em nuvem embasado em webmail, eles deverão contratar, para esse serviço, um modelo de computação em nuvem do\ntipo plataforma como um serviço (PaaS).",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 111,
+        "id_tec": "694964",
+        "link": "www.tecconcursos.com.br/questoes/694964",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Min (MPE PI)/MPE PI/Administrativa/2018",
+        "materia": "Informática",
+        "assunto": "Windows 10",
+        "gabarito": "Certo",
+        "comando": "No item seguinte, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada, a respeito de noções de\nsistema operacional.\nFoi solicitado a Paulo criptografar um pendrive, que contém arquivos sensíveis no sistema operacional Windows 10, de modo a\nproteger os dados desse dispositivo contra ameaças de roubo.\nNessa situação, uma das formas de atender a essa solicitação é, por exemplo, utilizar a criptografia de unidade de disco BitLocker,\num recurso de proteção de dados nesse sistema operacional.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 469,
+        "id_tec": "694982",
+        "link": "www.tecconcursos.com.br/questoes/694982",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Min (MPE PI)/MPE PI/Administrativa/2018",
+        "materia": "Informática",
+        "assunto": "Conceitos e Tipos de Computação em Nuvem (Cloud Computing)",
+        "gabarito": "Certo",
+        "comando": "No item subsequente, concernente a redes de computadores, é apresentada uma situação hipotética, seguida de uma\nassertiva a ser julgada.\nUm usuário pretende contratar um serviço em nuvem no qual possa desenvolver e compilar aplicações.\nNessa situação, a PaaS (plataforma como serviço) será indicada, pois, assim como a IaaS (infraestrutura como serviço), a PaaS\ninclui infraestrutura de armazenamento e de rede, além de middleware e ferramentas de desenvolvimento.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 599,
+        "id_tec": "694990",
+        "link": "www.tecconcursos.com.br/questoes/694990",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Min (MPE PI)/MPE PI/Administrativa/2018",
+        "materia": "Informática",
+        "assunto": "Firewall e Proxy",
+        "gabarito": "Certo",
+        "comando": "No item seguinte, referente a conceitos de organização e de gerenciamento de informações e segurança da informação, é\napresentada uma situação hipotética, seguida de uma assertiva a ser julgada.\nMateus tem em seu computador o Windows 10 e um firewall pessoal instalado que funciona corretamente.\nNessa situação, embora esteja funcionando corretamente, o firewall não é suficiente para conter vírus e(ou) perdas de arquivos\ndevidas a eventual falta de becape.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1306,
+        "id_tec": "738435",
+        "link": "www.tecconcursos.com.br/questoes/738435",
+        "banca_orgao": "CEBRASPE (CESPE) - ET (BNB)/BNB/Analista de Sistemas/Desenvolvimento de Sistemas/2018",
+        "materia": "TI",
+        "assunto": "Segurança da Informação - Firewall, Roteadores, Proxy e DMZ",
+        "gabarito": "Errado",
+        "comando": "Com relação a firewalls de rede e suas funcionalidades, julgue o item subsecutivo.\nOs fluxos de rede que atravessam um firewall stateless são classificados e rotulados pelo firewall de acordo com o QoS marcado\nno cabeçalho MPLS.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 448,
+        "id_tec": "1625585",
+        "link": "www.tecconcursos.com.br/questoes/1625585",
+        "banca_orgao": "CEBRASPE (CESPE) - APF/PF/2021",
+        "materia": "Informática",
+        "assunto": "Conceitos e Tipos de Computação em Nuvem (Cloud Computing)",
+        "gabarito": "Errado",
+        "comando": "Acerca de computação na nuvem (cloud computing), julgue o item subsequente.\nAs desvantagens da cloud computing incluem a inflexibilidade relativa ao provisionamento de recursos computacionais: é\nnecessário estabelecê-los no momento da contratação e não há possibilidade de ajustes de escala, de acordo com a evolução das\nnecessidades, no mesmo contrato.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 163,
+        "id_tec": "1836922",
+        "link": "www.tecconcursos.com.br/questoes/1836922",
+        "banca_orgao": "CEBRASPE (CESPE) - Agepen (SERIS AL)/SERIS AL/2021",
+        "materia": "Informática",
+        "assunto": "Word 2016",
+        "gabarito": "Certo",
+        "comando": "No Word 2016, é possível inserir fórmulas que permitam, similarmente ao Excel 2016, somar números que aparecem em\nlinhas de uma tabela, usando-se, por exemplo, a seguinte fórmula.\n=SOMA(ESQUERDA)\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 71,
+        "id_tec": "1895197",
+        "link": "www.tecconcursos.com.br/questoes/1895197",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Amb (IBAMA)/IBAMA/2022",
+        "materia": "Informática",
+        "assunto": "Windows 10",
+        "gabarito": "Certo",
+        "comando": "Com relação ao ambiente Windows e suas ferramentas, julgue o item que se segue.\nNo Explorador de Arquivos, a opção Incluir na biblioteca permite que se organizem as pastas por grupos ou temas, de acordo com\no interesse do usuário do sistema.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 442,
+        "id_tec": "2000945",
+        "link": "www.tecconcursos.com.br/questoes/2000945",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (PGE RJ)/PGE RJ/Processual/2022",
+        "materia": "Informática",
+        "assunto": "Conceitos e Tipos de Computação em Nuvem (Cloud Computing)",
+        "gabarito": "Certo",
+        "comando": "Acerca do editor de texto LibreOffice Writer 7.1, do programa de correio eletrônico Mozilla Thunderbird e da computação em\nnuvem, julgue o item subsequente.\nUma das principais características da computação em nuvem é a elasticidade: uma empresa pode usar os recursos de acordo com\na sua demanda, inclusive aumentando ou diminuindo, dinamicamente, a sua capacidade computacional.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 82,
+        "id_tec": "2213133",
+        "link": "www.tecconcursos.com.br/questoes/2213133",
+        "banca_orgao": "CEBRASPE (CESPE) - Aud Con Sub (TCE PB)/TCE PB/2022",
+        "materia": "Informática",
+        "assunto": "Windows 10",
+        "gabarito": "Certo",
+        "comando": "Com relação a noções do sistema operacional Windows, sítios de busca na Internet e computação em nuvem, julgue o item a\nseguir\nNas configurações de privacidade do sistema operacional Windows 10 para uma câmera instalada no computador, é possível\ndeterminar especificamente que programas ou aplicativos instalados no sistema estarão autorizados a usar a câmera.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 443,
+        "id_tec": "2213134",
+        "link": "www.tecconcursos.com.br/questoes/2213134",
+        "banca_orgao": "CEBRASPE (CESPE) - Aud Con Sub (TCE PB)/TCE PB/2022",
+        "materia": "Informática",
+        "assunto": "Conceitos e Tipos de Computação em Nuvem (Cloud Computing)",
+        "gabarito": "Errado",
+        "comando": "Com relação a noções do sistema operacional Windows, sítios de busca na Internet e computação em nuvem, julgue o item\na seguir\nNo modelo SaaS de computação em nuvem, as atividades do provedor são essencialmente desenvolver, testar e implementar\naplicações para hospedagem em um sistema de nuvem.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 302,
+        "id_tec": "2224828",
+        "link": "www.tecconcursos.com.br/questoes/2224828",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (INSS)/INSS/2022",
+        "materia": "Informática",
+        "assunto": "Excel 2019",
+        "gabarito": "Certo",
+        "comando": "Na planilha mostrada na figura ao lado, que representa um conjunto de células no MS Excel 365, foi realizada a seguinte\nsequência de ações:\ntodas as células mostradas foram selecionadas;\nfoi selecionada a opção Remover Duplicadas;\nforam selecionadas todas as colunas na caixa de diálogo Remover Duplicadas e, em seguida, clicou-se no botão OK.\nNessa situação hipotética,\nnenhuma linha da planilha foi apagada.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 909,
+        "id_tec": "2637512",
+        "link": "www.tecconcursos.com.br/questoes/2637512",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Proc (DATAPREV)/DATAPREV/2023",
+        "materia": "TI",
+        "assunto": "Redes de Computadores - Cloud Computing (Computação em Nuvem)",
+        "gabarito": "Errado",
+        "comando": "Julgue o item a seguir, acerca de conceitos de computação em nuvem.\nEscalabilidade é a característica flexível de um serviço em nuvem que permite o redimensionamento de recursos de acordo com a\ndemanda do cliente em tempo real, de forma automatizada e instantânea.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 755,
+        "id_tec": "2638660",
+        "link": "www.tecconcursos.com.br/questoes/2638660",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (DATAPREV)/DATAPREV/Desenvolvimento de software/2023",
+        "materia": "TI",
+        "assunto": "Ciência de Dados e Inteligência Artificial - Conceitos Iniciais e Gerais de Inteligência Artificial",
+        "gabarito": "Errado",
+        "comando": "Acerca de blockchain, conceitos de inteligência artificial, arquitetura hexagonal e gestão de conteúdo, julgue o item a seguir.\nDe acordo com os conceitos de inteligência artificial, as máquinas reativas têm a capacidade compreender os seres humanos,\nentendendo seus estados mentais.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 836,
+        "id_tec": "2796718",
+        "link": "www.tecconcursos.com.br/questoes/2796718",
+        "banca_orgao": "CEBRASPE (CESPE) - APGIPI (INPI)/INPI/Gestão da Tecnologia da Informação/Desenvolvimento e Manutençao",
+        "materia": "TI",
+        "assunto": "Redes de Computadores - Cloud Computing (Computação em Nuvem)",
+        "gabarito": "Errado",
+        "comando": "Julgue o item seguinte, a respeito das características gerais de identidade, privacidade, conformidade e segurança na\nnuvem.\nA segurança da nuvem é compartilhada entre os provedores de serviço e os clientes, e as competências de cada um variam de\nacordo com o tipo de serviço oferecido; na plataforma como serviço (PaaS), por exemplo, os clientes são responsáveis por\nproteger tudo que está relacionado ao sistema operacional.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 748,
+        "id_tec": "3041837",
+        "link": "www.tecconcursos.com.br/questoes/3041837",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (BACEN)/BACEN/Tecnologia da Informação/\"Sem Especialidade\"/2024",
+        "materia": "TI",
+        "assunto": "Ciência de Dados e Inteligência Artificial - Conceitos Iniciais e Gerais de Inteligência Artificial",
+        "gabarito": "Errado",
+        "comando": "Em relação à privacidade em governança e ética de inteligência artificial, julgue o item seguinte.\nDe acordo com os princípios de governança e ética relativos à inteligência artificial, a opacidade sobre os algoritmos é encorajada\ncomo prática padrão para garantir a eficácia dos sistemas.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1269,
+        "id_tec": "3173492",
+        "link": "www.tecconcursos.com.br/questoes/3173492",
+        "banca_orgao": "CEBRASPE (CESPE) - ACE (TC DF)/TC DF/Especializada/Microinformática e Infraestrutura de TI/2024",
+        "materia": "TI",
+        "assunto": "Segurança da Informação - Firewall, Roteadores, Proxy e DMZ",
+        "gabarito": "Certo",
+        "comando": "Julgue o item a seguir, em relação a dispositivos de segurança e a softwares maliciosos.\nOs firewalls de rede fazem a filtragem de pacotes na rede e realizam um tipo de ação de acordo com as regras implementadas;\nem situações normais, trabalham nas camadas 3 e 4 da pilha TCP/IP.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 404,
+        "id_tec": "3258555",
+        "link": "www.tecconcursos.com.br/questoes/3258555",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ TRF6/TRF 6/Apoio Especializado/Tecnologia da Informação/2025",
+        "materia": "Informática",
+        "assunto": "Microsoft Edge",
+        "gabarito": "Errado",
+        "comando": "Em relação a sistemas operacionais, programas do Microsoft Office, navegadores e Microsoft Outlook, julgue os tem a\nseguir.\nAlém de limpar o histórico de navegação e o histórico de downloads, o modo InPrivate do navegador Microsoft Edge apaga os\ncookies, os arquivos baixados e os sites selecionados como favoritos durante uma sessão de navegação realizada em modo\nInPrivate.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 311,
+        "id_tec": "3258556",
+        "link": "www.tecconcursos.com.br/questoes/3258556",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ TRF6/TRF 6/Apoio Especializado/Tecnologia da Informação/2025",
+        "materia": "Informática",
+        "assunto": "Powerpoint 2019",
+        "gabarito": "Errado",
+        "comando": "Em relação a sistemas operacionais, programas do Microsoft Office, navegadores e Microsoft Outlook, julgue os tem a\nseguir.\nNo editor de apresentações Powerpoint, o slide mestre é um recurso inteligente para detectar imagens, gráficos ou tabelas\npresentes em um slide em edição, e oferecer sugestões ao usuário sobre como organizar os objetos com um layout otimizado.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 247,
+        "id_tec": "3258557",
+        "link": "www.tecconcursos.com.br/questoes/3258557",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ TRF6/TRF 6/Apoio Especializado/Tecnologia da Informação/2025",
+        "materia": "Informática",
+        "assunto": "Excel 2019",
+        "gabarito": "Errado",
+        "comando": "Em relação a sistemas operacionais, programas do Microsoft Office, navegadores e Microsoft Outlook, julgue os tem a\nseguir.\nNo Excel, para que as informações representadas em um gráfico sejam atualizadas, é necessário selecionar a tabela usada como\nfonte para o gráfico, já com os dados atualizados, e a seguir, clicar na opção Gráfico Dinâmico, da seção Gráficos, do menu\nInserir.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 801,
+        "id_tec": "3373810",
+        "link": "www.tecconcursos.com.br/questoes/3373810",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2025",
+        "materia": "TI",
+        "assunto": "Redes de Computadores - Cloud Computing (Computação em Nuvem)",
+        "gabarito": "Errado",
+        "comando": "A respeito de conceitos relacionados à computação em nuvem, julgue o item que se segue.\nEm computação em nuvem, escalabilidade é a capacidade que um sistema tem de se adaptar às alterações de carga de trabalho\npela alocação e liberação de recursos, criando-se um ambiente elástico, isto é, que permite que a alocação e a liberação dinâmica\nde recursos ocorram de acordo com a demanda.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    }
+]
