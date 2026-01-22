@@ -28,8 +28,8 @@ from pathlib import Path
 # =============================================================================
 
 #CAMINHO_PDF = "Direito Constitucional - 1 a 200 - Certo ou Errado.pdf"
-#CAMINHO_PDF = "Língua Portuguesa\Língua Portuguesa - 1 a 200 - Certo ou Errado.pdf"
-CAMINHO_PDF = "Raciocínio Lógico\Raciocínio Lógico - 1.pdf"
+CAMINHO_PDF = "Língua Portuguesa\Língua Portuguesa - 1.pdf"
+#CAMINHO_PDF = "Raciocínio Lógico\Raciocínio Lógico - 1.pdf"
 
 NOME_SAIDA = "questoes_extraidas"  # Gera .csv e .json
 

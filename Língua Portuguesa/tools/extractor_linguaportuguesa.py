@@ -1,183 +1,261 @@
+#!/usr/bin/env python3
+"""
+Extrator de Língua Portuguesa (Baseado na v2.1)
+===============================================
+Adaptação para processar TODOS os PDFs da pasta mantendo a lógica 
+de extração que obteve o melhor resultado de separação.
+"""
+
 import re
 import json
-import pdfplumber
 import glob
 import os
+import pdfplumber
 from pathlib import Path
 
-# ==============================================================================
+# =============================================================================
 # CONFIGURAÇÃO
-# ==============================================================================
-# Procura todos os PDFs na pasta pai (nível da matéria)
+# =============================================================================
+# Busca todos os PDFs que começam com "Língua Portuguesa" na pasta pai
 PADRAO_PDF = "../Língua Portuguesa - *.pdf"
-ARQUIVO_SAIDA = "dataset_portugues_v1.json"
+ARQUIVO_SAIDA = "dataset_portugues_final.json"
 
-# ==============================================================================
-# LÓGICA DE EXTRAÇÃO
-# ==============================================================================
+# =============================================================================
+# LÓGICA DO EXTRATOR V2.1 (Preservada)
+# =============================================================================
 
-def limpar_texto(texto):
-    """Remove quebras de linha excessivas e espaços duplos."""
-    if not texto: return ""
-    # Substitui quebras múltiplas por uma quebra dupla (parágrafo)
-    texto = re.sub(r'\n{3,}', '\n\n', texto)
-    return texto.strip()
-
-def separar_comando_enunciado(texto_completo):
-    """
-    Separa o Texto de Apoio (Comando) da Pergunta Específica (Enunciado).
-    Estratégia: Procura a frase imperativa 'Julgue o item' como divisor.
-    """
-    # Lista de gatilhos comuns do CESPE/Cebraspe
-    gatilhos = [
-        r'(Com base no texto.*?julgue os? itens?)',
-        r'(Julgue os? (próximos? )?itens?)', 
-        r'(Acerca d.*?julgue os? itens?)',
-        r'(Com relação a.*?julgue os? itens?)',
-        r'(No que se refere a.*?julgue os? itens?)',
-        r'(A respeito d.*?julgue os? itens?)'
-    ]
-    
-    divisor = None
-    match_pos = -1
-    tamanho_gatilho = 0
-
-    # Tenta encontrar o primeiro gatilho que aparece no texto
-    for g in gatilhos:
-        match = re.search(g, texto_completo, re.IGNORECASE | re.DOTALL)
-        if match:
-            if match_pos == -1 or match.start() < match_pos:
-                match_pos = match.start()
-                divisor = match
-                tamanho_gatilho = match.end() - match.start()
-
-    if divisor:
-        # Tudo antes do gatilho + o gatilho = COMANDO (Inclui o Texto de Apoio)
-        comando = texto_completo[:divisor.end()].strip()
-        
-        # Tudo depois = ENUNCIADO (A pergunta específica)
-        enunciado = texto_completo[divisor.end():].strip()
-        
-        # Limpeza fina
-        enunciado = re.sub(r'^[\.\s]+', '', enunciado) # Remove ponto inicial
-        
-        return comando, enunciado
-    
-    # Fallback: Se não achar "Julgue", retorna tudo como comando para não perder dados
-    return texto_completo, "[Enunciado não separado automaticamente]"
-
-def processar_pdf(caminho_pdf):
-    print(f"   📄 A processar: {os.path.basename(caminho_pdf)}...")
-    questoes = []
-    
+def extrair_texto_pdf(caminho):
+    """Lê o PDF e retorna texto bruto."""
+    print(f"   📄 Lendo: {os.path.basename(caminho)}...")
+    texto_completo = ""
     try:
-        texto_bruto = ""
-        with pdfplumber.open(caminho_pdf) as pdf:
+        with pdfplumber.open(caminho) as pdf:
             for page in pdf.pages:
                 t = page.extract_text()
-                if t: texto_bruto += t + "\n"
+                if t: texto_completo += t + "\n"
     except Exception as e:
         print(f"      ❌ Erro ao ler PDF: {e}")
-        return []
+    return texto_completo
 
+def filtrar_linhas(texto_bruto):
+    """Limpa linhas inúteis (cabeçalhos repetitivos)."""
     linhas = texto_bruto.split('\n')
+    linhas_uteis = []
+    ignorar = [
+        "https://www.tecconcursos.com.br",
+        "Ordenação: Por Matéria",
+        "Língua Portuguesa para Câmara"
+    ]
     
-    q_atual = {}
-    buffer_texto = []
-    
-    # Regex para identificar início de questão (ex: "1 Questão 123456")
-    regex_inicio = re.compile(r'^(\d+)\s+Questão\s+(\d+)', re.IGNORECASE)
-    
-    # Regex para Metadados (Banca - Órgão/Ano)
-    regex_meta = re.compile(r'([A-Z\s\(\)]+)\s+-\s+(.+?)/(\d{4})')
-    
-    # Regex para Gabarito
-    regex_gab = re.compile(r'^Gabarito:\s*(Certo|Errado|[A-E])', re.IGNORECASE)
-
     for linha in linhas:
         linha = linha.strip()
         if not linha: continue
+        if any(x in linha for x in ignorar): continue
+        linhas_uteis.append(linha)
+    return linhas_uteis
 
-        # 1. Início de Nova Questão
-        match_inicio = regex_inicio.match(linha)
-        if match_inicio:
-            # Salva a anterior
+def separar_comando_enunciado(texto_completo):
+    """
+    Lógica 'v2.1' de separação.
+    Tenta identificar onde termina o texto de apoio e começa a ordem.
+    """
+    # Gatilhos comuns no final dos textos de Português do Cespe
+    gatilhos = [
+        r'(Julgue o item a seguir.*?(:|\.))',
+        r'(Julgue os itens a seguir.*?(:|\.))',
+        r'(Julgue o próximo item.*?(:|\.))',
+        r'(Julgue os próximos itens.*?(:|\.))',
+        r'(Julgue os itens.*?(:|\.))',
+        r'(Com base no texto.*?julgue.*?)',
+        r'(Acerca d.*?julgue.*?)',
+        r'(A respeito d.*?julgue.*?)',
+        r'(Considerando.*?julgue.*?)'
+    ]
+    
+    divisor = None
+    posicao_divisor = -1
+
+    # Busca o gatilho que está mais próximo do fim do bloco, 
+    # mas que ainda deixa espaço para o enunciado.
+    for g in gatilhos:
+        # Encontra todas as ocorrências
+        iterator = re.finditer(g, texto_completo, re.IGNORECASE | re.DOTALL)
+        for match in iterator:
+            if match.start() > posicao_divisor:
+                posicao_divisor = match.start()
+                divisor = match
+
+    if divisor:
+        comando = texto_completo[:divisor.end()].strip()
+        enunciado = texto_completo[divisor.end():].strip()
+        
+        # Limpeza fina
+        enunciado = re.sub(r'^[\.\:\-\s]+', '', enunciado)
+        # Remove vazamento de gabarito
+        enunciado = re.sub(r'\s+(Certo|Errado)$', '', enunciado, flags=re.IGNORECASE)
+        
+        return comando, enunciado
+    
+    # Fallback da v2.1: Se não achar, tenta quebrar na última linha curta
+    partes = texto_completo.split('\n')
+    if len(partes) > 1:
+        ultimo_paragrafo = partes[-1]
+        # Se o último parágrafo for curto (< 300 chars) e o resto longo
+        if len(ultimo_paragrafo) < 300 and len(texto_completo) > 500:
+            enunciado = ultimo_paragrafo
+            comando = "\n".join(partes[:-1])
+            return comando, enunciado
+
+    return texto_completo, "[Enunciado não separado]"
+
+def processar_linhas(linhas):
+    questoes = []
+    
+    # Regex fundamentais
+    regex_url = re.compile(r'tecconcursos\.com\.br/questoes/(\d+)')
+    regex_inicio = re.compile(r'^(\d+)\)\s*(.*)') # "1) Texto..."
+    regex_gabarito = re.compile(r'^Gabarito:\s*(Certo|Errado|[A-E])', re.IGNORECASE)
+    
+    i = 0
+    total = len(linhas)
+    q_atual = None
+    buffer_texto = []
+
+    while i < total:
+        linha = linhas[i]
+
+        # 1. Identificou LINK (Início de bloco)
+        match_url = regex_url.search(linha)
+        if match_url:
+            # Salva anterior
             if q_atual:
-                full_text = "\n".join(buffer_texto)
-                
-                # Tenta extrair metadados do topo do texto se estiverem misturados
-                if not q_atual.get('banca_orgao'):
-                    match_meta = regex_meta.search(full_text)
-                    if match_meta:
-                        q_atual['banca_orgao'] = match_meta.group(0)
-                        # Removemos a linha de metadados do texto para não sujar o comando
-                        full_text = full_text.replace(match_meta.group(0), "")
-
-                comando, enunciado = separar_comando_enunciado(full_text)
-                q_atual['comando'] = limpar_texto(comando)
-                q_atual['enunciado'] = limpar_texto(enunciado)
+                full = "\n".join(buffer_texto)
+                cmd, enun = separar_comando_enunciado(full)
+                q_atual['comando'] = cmd
+                q_atual['enunciado'] = enun
                 questoes.append(q_atual)
+                q_atual = None
+                buffer_texto = []
+            
+            # Prepara nova
+            id_tec = match_url.group(1)
+            banca = ""
+            materia = "Língua Portuguesa (Português)"
+            assunto = ""
+            
+            # Tenta pegar metadados nas próximas linhas (Lookahead simples)
+            offset = 1
+            found_start = False
+            
+            while offset <= 6 and (i + offset) < total:
+                prox = linhas[i + offset]
+                
+                # Pega Banca
+                if not banca and ("CEBRASPE" in prox or "FGV" in prox):
+                    banca = prox
+                # Pega Assunto
+                elif " - " in prox and not assunto and ("Português" in prox):
+                    parts = prox.split(" - ", 1)
+                    if len(parts) > 1: assunto = parts[1]
 
-            # Inicia nova estrutura
-            q_atual = {
-                "numero": int(match_inicio.group(1)),
-                "id_tec": match_inicio.group(2),
-                "link": f"https://www.tecconcursos.com.br/questoes/{match_inicio.group(2)}",
-                "materia": "Língua Portuguesa",
-                "banca_orgao": "",
-                "gabarito": ""
-            }
-            buffer_texto = []
+                # Pega Início do Texto "1) ..."
+                match_num = regex_inicio.match(prox)
+                if match_num:
+                    numero = int(match_num.group(1))
+                    resto = match_num.group(2)
+                    
+                    q_atual = {
+                        "numero": numero,
+                        "id_tec": id_tec,
+                        "link": f"www.tecconcursos.com.br/questoes/{id_tec}",
+                        "banca_orgao": banca,
+                        "materia": materia,
+                        "assunto": assunto,
+                        "gabarito": ""
+                    }
+                    if resto: buffer_texto.append(resto)
+                    i += offset # Pula para cá
+                    found_start = True
+                    break
+                
+                offset += 1
+            
+            # Se não achou o "1)", avança só a linha do link
+            if not found_start:
+                 # Cria um placeholder para não perder o ID
+                 q_atual = {
+                        "numero": 0, "id_tec": id_tec,
+                        "link": f"www.tecconcursos.com.br/questoes/{id_tec}",
+                        "banca_orgao": banca, "materia": materia, "assunto": assunto,
+                        "gabarito": ""
+                    }
+            
+            i += 1
             continue
 
-        # 2. Captura de Gabarito
-        match_gab = regex_gab.search(linha)
+        # 2. Identificou Gabarito
+        match_gab = regex_gabarito.search(linha)
         if match_gab and q_atual:
             q_atual['gabarito'] = match_gab.group(1)
-            continue 
-
-        # 3. Acumula texto do corpo
-        if q_atual:
-            buffer_texto.append(linha)
-
-    # Salva a última do arquivo
-    if q_atual:
-        full_text = "\n".join(buffer_texto)
-        if not q_atual.get('banca_orgao'):
-            match_meta = regex_meta.search(full_text)
-            if match_meta:
-                q_atual['banca_orgao'] = match_meta.group(0)
-                full_text = full_text.replace(match_meta.group(0), "")
         
-        comando, enunciado = separar_comando_enunciado(full_text)
-        q_atual['comando'] = limpar_texto(comando)
-        q_atual['enunciado'] = limpar_texto(enunciado)
+        # 3. Corpo do texto
+        elif q_atual and "www.tecconcursos" not in linha:
+            buffer_texto.append(linha)
+        
+        i += 1
+
+    # Salva a última
+    if q_atual:
+        full = "\n".join(buffer_texto)
+        cmd, enun = separar_comando_enunciado(full)
+        q_atual['comando'] = cmd
+        q_atual['enunciado'] = enun
         questoes.append(q_atual)
 
     return questoes
 
+# =============================================================================
+# MAIN
+# =============================================================================
+
 def main():
-    print("--- EXTRATOR DE LÍNGUA PORTUGUESA ---")
-    lista_pdfs = glob.glob(PADRAO_PDF)
+    print("--- EXTRATOR PORTUGUÊS (LÓGICA V2.1 EM LOTE) ---")
+    arquivos = glob.glob(PADRAO_PDF)
     
-    if not lista_pdfs:
-        print(f"Nenhum PDF encontrado com o padrão: {PADRAO_PDF}")
+    if not arquivos:
+        print(f"Nenhum arquivo encontrado em: {PADRAO_PDF}")
         return
 
     todas_questoes = []
     
-    for arquivo in lista_pdfs:
-        questoes = processar_pdf(arquivo)
+    for arq in arquivos:
+        texto = extrair_texto_pdf(arq)
+        linhas = filtrar_linhas(texto)
+        questoes = processar_linhas(linhas)
         todas_questoes.extend(questoes)
+        print(f"      > Extraídas: {len(questoes)}")
 
-    # Reordena por ID do Tec (opcional, para organização)
-    todas_questoes.sort(key=lambda x: int(x['id_tec']) if x['id_tec'].isdigit() else 0)
-
-    print(f"\n💾 Salvando {len(todas_questoes)} questões em {ARQUIVO_SAIDA}...")
-    with open(ARQUIVO_SAIDA, 'w', encoding='utf-8') as f:
-        json.dump(todas_questoes, f, indent=4, ensure_ascii=False)
+    # Remove duplicatas (caso haja sobreposição de PDFs)
+    # Usa id_tec como chave única
+    unicas = {}
+    for q in todas_questoes:
+        if q.get('id_tec'):
+            unicas[q['id_tec']] = q
     
-    print("Concluído.")
+    lista_final = list(unicas.values())
+    
+    # Ordena por número (se disponível) ou ID
+    lista_final.sort(key=lambda x: int(x['id_tec']) if x['id_tec'].isdigit() else 0)
+
+    print("-" * 50)
+    print(f"TOTAL BRUTO: {len(todas_questoes)}")
+    print(f"TOTAL ÚNICO: {len(lista_final)}")
+    print("-" * 50)
+
+    with open(ARQUIVO_SAIDA, 'w', encoding='utf-8') as f:
+        json.dump(lista_final, f, indent=4, ensure_ascii=False)
+    
+    print(f"Salvo em: {ARQUIVO_SAIDA}")
 
 if __name__ == "__main__":
     main()
