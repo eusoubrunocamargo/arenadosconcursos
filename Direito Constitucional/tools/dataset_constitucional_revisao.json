@@ -1,0 +1,512 @@
+[
+    {
+        "numero": 991,
+        "id_tec": "1611281",
+        "link": "www.tecconcursos.com.br/questoes/1611281",
+        "banca_orgao": "CEBRASPE (CESPE) - PRF/PRF/2021",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Habeas Data",
+        "gabarito": "Certo",
+        "comando": "Acerca de direitos fundamentais, garantias e remédios constitucionais, julgue o item a seguir.\nDe acordo com o Supremo Tribunal Federal, não é cabível habeas data para a obtenção de informações a respeito da identidade\nde responsáveis por agressões e denúncias feitas contra o impetrante.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1731,
+        "id_tec": "1624334",
+        "link": "www.tecconcursos.com.br/questoes/1624334",
+        "banca_orgao": "CEBRASPE (CESPE) - DPF/PF/2021",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Da Advocacia Pública (arts. 131 e 132 da CF/1988)",
+        "gabarito": "Certo",
+        "comando": "Compete à Advocacia-Geral da União exercer as atividades de consultoria e assessoramento jurídico à Polícia Federal.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1844,
+        "id_tec": "1657028",
+        "link": "www.tecconcursos.com.br/questoes/1657028",
+        "banca_orgao": "CEBRASPE (CESPE) - AgFEP (DEPEN)/SENAPPEN/2021",
+        "materia": "Legislação Penal e Processual Penal Especial",
+        "assunto": "Lei nº 13.869/2019 - Lei de Abuso de Autoridade (antiga Lei nº",
+        "gabarito": "Certo",
+        "comando": "o item que se segue, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada, acerca da legislação\nespecial penal.\nO Ministério Público perdeu o prazo para oferecer denúncia relativa a um crime de abuso de autoridade. Nessa situação, apesar\nde esse tipo de ação ser pública e incondicionada, admite-se a apresentação de ação penal privada subsidiária.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 102,
+        "id_tec": "1897887",
+        "link": "www.tecconcursos.com.br/questoes/1897887",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Amb (IBAMA)/IBAMA/2022",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "LDO - Lei de Diretrizes Orçamentárias (CF/1988 e Lei nº",
+        "gabarito": "Certo",
+        "comando": "Quanto ao orçamento público no Brasil, julgue o item a seguir.\nDe acordo com a Constituição Federal de 1988, a lei de diretrizes orçamentárias deve compreender as metas e prioridades da\nadministração pública federal e estabelecer as diretrizes de política fiscal e respectivas metas, em consonância com trajetória\nsustentável da dívida pública.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1122,
+        "id_tec": "2020025",
+        "link": "www.tecconcursos.com.br/questoes/2020025",
+        "banca_orgao": "CEBRASPE (CESPE) - ERM (ANM)/ANM/\"Sem Área\"/2022",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Perda e Suspensão dos Direitos Políticos",
+        "gabarito": "Errado",
+        "comando": "O item apresenta uma situação hipotética seguida de uma assertiva, a ser julgada com base nos direitos e garantias\nfundamentais assegurados na Constituição Federal de 1988 (CF).\nHeyd, em razão de convicção filosófica, alegou imperativo de consciência para não cumprir o serviço militar obrigatório e se\ndispôs a prestar serviço alternativo. Nessa situação, caso Heyd não cumpra a prestação alternativa, seus direitos políticos poderão\nser cassados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1040,
+        "id_tec": "2020055",
+        "link": "www.tecconcursos.com.br/questoes/2020055",
+        "banca_orgao": "CEBRASPE (CESPE) - ERM (ANM)/ANM/\"Sem Área\"/2022",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Direitos Coletivos dos Trabalhadores (arts. 8º a 11 da CF/1988)",
+        "gabarito": "Certo",
+        "comando": "O item apresenta uma situação hipotética seguida de uma assertiva, a ser julgada com base nos direitos e garantias\nfundamentais assegurados na Constituição Federal de 1988 (CF).\nA mineradora Y tem reduzido seu quadro de funcionários contratados, em razão de contenção de despesas, e Ivo, empregado\nsindicalizado, estava na lista para ser dispensado, porém foi eleito como suplente para cargo de direção do sindicato. Nessa\nsituação, com a sua eleição, Ivo não poderá ser dispensado até um ano após o final do mandato, salvo se cometer falta grave.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1049,
+        "id_tec": "2020056",
+        "link": "www.tecconcursos.com.br/questoes/2020056",
+        "banca_orgao": "CEBRASPE (CESPE) - ERM (ANM)/ANM/\"Sem Área\"/2022",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Espécies de Nacionalidade (Brasileiros Natos e Naturalizados)",
+        "gabarito": "Errado",
+        "comando": "O item apresenta uma situação hipotética seguida de uma assertiva, a ser julgada com base nos direitos e garantias\nfundamentais assegurados na Constituição Federal de 1988 (CF).\nWil renunciou à nacionalidade estadunidense, naturalizou-se brasileiro e casou-se com Amélia, brasileira, com quem atualmente\nvive no Brasil. Nessa situação, se o casal tiver um filho, este poderá ser registrado na embaixada ou em consulado dos Estados\nUnidos da América no Brasil, de modo a ter dupla cidadania.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 211,
+        "id_tec": "2292495",
+        "link": "www.tecconcursos.com.br/questoes/2292495",
+        "banca_orgao": "CEBRASPE (CESPE) - AFT (SEFAZ SE)/SEFAZ SE/Geral/2022",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "Tópicos Mesclados de PPA, LDO e LOA",
+        "gabarito": "Errado",
+        "comando": "No que se refere a políticas públicas, ao orçamento federal e às funções econômicas do Estado, julgue o item a seguir.\nDe acordo com a Constituição Federal de 1988, o orçamento público abrange a execução de três leis — o plano plurianual (PPA),\na lei de diretrizes orçamentárias (LDO) e a Lei de Responsabilidade Fiscal (LRF) —, as quais, em conjunto, formalizam o\nplanejamento e a execução das políticas públicas.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1649,
+        "id_tec": "2395745",
+        "link": "www.tecconcursos.com.br/questoes/2395745",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Administrativa/2023",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Do Superior Tribunal de Justiça - STJ (arts. 104 e 105 da",
+        "gabarito": "Errado",
+        "comando": "Julgue o item subsequente, a respeito dos Poderes da República.\nDe acordo com a CF, no recurso especial, haverá a relevância da questão federal infraconstitucional nas ações que tratem de\ndireito do consumidor.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1193,
+        "id_tec": "2421554",
+        "link": "www.tecconcursos.com.br/questoes/2421554",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (CNMP)/CNMP/Apoio Jurídico/Direito/2023",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "União: Bens e Competências Exclusivas, Privativas, Comuns e",
+        "gabarito": "Certo",
+        "comando": "Acerca das normas constitucionais ambientais, julgue o item a seguir.\nA competência comum da União, dos estados, do Distrito Federal e dos municípios para proteger o meio ambiente e combater a\npoluição em todas as suas formas deve ser exercida de acordo com lei complementar, que fixará normas para a cooperação entre\nesses entes federativos.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 228,
+        "id_tec": "2521467",
+        "link": "www.tecconcursos.com.br/questoes/2521467",
+        "banca_orgao": "CEBRASPE (CESPE) - ATM (Pref Fortaleza)/Pref Fortaleza/2023",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "Vedações Constitucionais em Matéria Orçamentária (Art. 167",
+        "gabarito": "Certo",
+        "comando": "Considerando os princípios orçamentários, julgue o item seguinte.\nDe acordo com o Supremo Tribunal Federal, a regra de ouro não impede a contratação de operações de crédito para o custeio de\ndespesas correntes, desde que o total da contratação não exceda o montante das despesas de capital.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 804,
+        "id_tec": "2609052",
+        "link": "www.tecconcursos.com.br/questoes/2609052",
+        "banca_orgao": "CEBRASPE (CESPE) - Mus (FUB)/FUB/2023",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da",
+        "gabarito": "Errado",
+        "comando": "A respeito do conceito, das classificações e dos princípios fundamentais de Constituição, julgue o item seguinte.\nDe acordo com a Constituição Federal de 1988, diminuir a pobreza constitui um dos objetivos fundamentais do Brasil.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1346,
+        "id_tec": "2613262",
+        "link": "www.tecconcursos.com.br/questoes/2613262",
+        "banca_orgao": "CEBRASPE (CESPE) - ATS (MCom)/MCom/2022",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Dos Servidores Públicos (arts. 39 a 41 da CF/1988)",
+        "gabarito": "Certo",
+        "comando": "A respeito dos princípios fundamentais, dos direitos e das garantias fundamentais, da organização político-administrativa\ndo Estado brasileiro e da administração pública, julgue o item a seguir.\nPara a fixação dos padrões de vencimento, podem-se considerar os requisitos para a investidura no cargo, de acordo com a\nConstituição Federal de 1988.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1464,
+        "id_tec": "2781695",
+        "link": "www.tecconcursos.com.br/questoes/2781695",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (CAU BR)/CAU BR/Técnico/2024",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Questões Mescladas de Processo Legislativo (arts. 59 a 69 da",
+        "gabarito": "Errado",
+        "comando": "À luz das normas constitucionais sobre o Poder Legislativo, julgue o item a seguir.\nO presidente da República pode solicitar urgência constitucional na tramitação para a apreciação de proposições legislativas de\nqualquer parlamentar, desde que o autor do projeto esteja de acordo.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 835,
+        "id_tec": "2841466",
+        "link": "www.tecconcursos.com.br/questoes/2841466",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Min (MPE TO)/MPE TO/Especializado/Administração de Banco de Dados/2024",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Características (Direitos Fundamentais)",
+        "gabarito": "Certo",
+        "comando": "No que se refere aos direitos e às garantias fundamentais, julgue o item seguinte.\nDe acordo com a teoria dos limites, um direito fundamental pode ser restringido desde que preservado o seu núcleo essencial.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1260,
+        "id_tec": "2981584",
+        "link": "www.tecconcursos.com.br/questoes/2981584",
+        "banca_orgao": "CEBRASPE (CESPE) - ASist (Pref Cach Itapemirim)/Pref Cach Itapemirim/2024",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Disposições Gerais (Administração Pública - arts. 37 e 38 da",
+        "gabarito": "Errado",
+        "comando": "Acerca de disposições gerais pertinentes aos servidores públicos, julgue o item que se segue.\nA investidura em cargo em comissão depende de aprovação prévia em concurso público de provas ou de provas e títulos, de\nacordo com a natureza e a complexidade do cargo.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 201,
+        "id_tec": "3008041",
+        "link": "www.tecconcursos.com.br/questoes/3008041",
+        "banca_orgao": "CEBRASPE (CESPE) - AGP (SEPLAG CE)/SEPLAG CE/Gestão de Desenvolvimento de Pessoas/2024",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "Tópicos Mesclados de PPA, LDO e LOA",
+        "gabarito": "Certo",
+        "comando": "No que se refere à lei de diretrizes orçamentárias (LDO) e à lei orçamentária anual (LOA), julgue o item seguinte.\nA LDO constitui um elo entre o plano plurianual (PPA) e o orçamento, na medida em que fornece diretrizes para a elaboração do\norçamento anual e possibilita que as metas do PPA sejam transformadas em ações concretas, de acordo com as limitações\nfinanceiras.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 203,
+        "id_tec": "3075587",
+        "link": "www.tecconcursos.com.br/questoes/3075587",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Adm (TCE AC)/TCE AC/Direito/2024",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "Tópicos Mesclados de PPA, LDO e LOA",
+        "gabarito": "Certo",
+        "comando": "Em relação ao direito financeiro, julgue o item a seguir, com base na Constituição Federal de 1988 (CF) e na jurisprudência\ndo Supremo Tribunal Federal (STF).\nDe acordo com o STF, as regras de processo legislativo relativas à elaboração das leis orçamentárias, no âmbito da União, são\nnormas de reprodução obrigatória que devem ser observadas pelos demais entes federados.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 731,
+        "id_tec": "3078802",
+        "link": "www.tecconcursos.com.br/questoes/3078802",
+        "banca_orgao": "CEBRASPE (CESPE) - ACE (TCE AC)/TCE AC/Administração/2024",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "Planejamento e Orçamento Público (arts. 3º a 10 da LRF)",
+        "gabarito": "Certo",
+        "comando": "Julgue o item seguinte, no que diz respeito ao sistema de planejamento e orçamento, ao plano plurianual, à lei de diretrizes\norçamentárias, ao orçamento anual e aos créditos ordinários e adicionais.\nDe acordo com a LRF, a lei de diretrizes orçamentárias deve dispor sobre critérios e forma de limitação de empenho, normas\nrelativas ao controle de custos e à avaliação dos resultados dos programas financiados com recursos dos orçamentos e demais\ncondições e exigências para transferências de recursos a entidades públicas e privadas.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1188,
+        "id_tec": "3082343",
+        "link": "www.tecconcursos.com.br/questoes/3082343",
+        "banca_orgao": "CEBRASPE (CESPE) - Diplomata/IRBr/2024",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "União: Bens e Competências Exclusivas, Privativas, Comuns e",
+        "gabarito": "Errado",
+        "comando": "No ano de 2024, intensificou-se o debate público sobre a Proposta de Emenda à Constituição (PEC) n.º 3/2022, que visa\nmodificar a Constituição Federal de 1988, estabelecendo novas diretrizes para a propriedade e gestão dos terrenos de marinha. O\ndebate começou com uma audiência pública no Senado Federal para debater a PEC, ocasião em que a Secretaria de Patrimônio\nda União do Ministério da Gestão e da Inovação em Serviços Públicos se posicionou contra a proposta.\nInternet: <gov.br> (com adaptações).\nEm relação aos terrenos de marinha no Brasil e à sua gestão ambiental, julgue (C ou E) o próximo item.\nSegundo a Constituição Federal de 1988, os terrenos de marinha podem ser públicos ou privados, garantindo o texto\nconstitucional que as propriedades privadas definidas como terrenos de marinha sejam passíveis de demarcação, escrituração,\nvenda, aluguel, doação ou herança.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1676,
+        "id_tec": "3186031",
+        "link": "www.tecconcursos.com.br/questoes/3186031",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ STJ/STJ/Administrativa/\"Sem Especialidade\"/2024",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Funções Institucionais (Ministério Público)",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito ao Poder Judiciário e às funções essenciais à justiça, julgue os itens seguintes.\nDe acordo com a CF, compete ao Ministério Público exercer os controles interno e externo da atividade policial.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1480,
+        "id_tec": "3199222",
+        "link": "www.tecconcursos.com.br/questoes/3199222",
+        "banca_orgao": "CEBRASPE (CESPE) - Proc (MPTC DF)/TC DF/2024",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Competências para Fiscalização e Tribunal de Contas da União",
+        "gabarito": "Errado",
+        "comando": "A respeito de aspectos relativos ao direito financeiro e ao orçamento público, bem como à despesa e à receita públicas,\njulgue os itens que se seguem.\nDe acordo com a Constituição Federal de 1988, é permitido ao TCU realizar inspeções de natureza operacional no âmbito dos\ntribunais regionais federais, as quais poderão ser requeridas diretamente pelo STF.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1593,
+        "id_tec": "3199224",
+        "link": "www.tecconcursos.com.br/questoes/3199224",
+        "banca_orgao": "CEBRASPE (CESPE) - Proc (MPTC DF)/TC DF/2024",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Dos Precatórios (art. 100 da CF/1988)",
+        "gabarito": "Certo",
+        "comando": "A respeito de aspectos relativos ao direito financeiro e ao orçamento público, bem como à despesa e à receita públicas,\njulgue os itens que se seguem.\nDe acordo com a Constituição Federal de 1988, é permitido à União, desde que na forma de lei, assumir débitos oriundos de\nprecatórios dos estados, refinanciando-os diretamente.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1161,
+        "id_tec": "3319349",
+        "link": "www.tecconcursos.com.br/questoes/3319349",
+        "banca_orgao": "CEBRASPE (CESPE) - ERM (ANM)/ANM/Direito/Sem Especialidade/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "União: Bens e Competências Exclusivas, Privativas, Comuns e",
+        "gabarito": "Errado",
+        "comando": "A respeito de controle de constitucionalidade, da administração pública e sua organização e do Poder Legislativo, julgue o\nitem seguinte, conforme a Constituição Federal de 1988 e a jurisprudência do STF\nCompete ao Distrito Federal organizar e manter a Polícia Civil, a Polícia Penal, a Polícia Militar e o Corpo de Bombeiros Militar do\nDistrito Federal.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 969,
+        "id_tec": "3361106",
+        "link": "www.tecconcursos.com.br/questoes/3361106",
+        "banca_orgao": "CEBRASPE (CESPE) - AA (IBAMA)/IBAMA/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Mandado de Segurança",
+        "gabarito": "Certo",
+        "comando": "Em relação à ordem econômica e financeira, aos direitos e deveres individuais e coletivos e ao Ministério Público, julgue o\nitem a seguir, considerando as disposições da CF e o entendimento do Supremo Tribunal Federal (STF).\nDe acordo com a CF, é permitida a impetração de mandado de segurança para a proteção de direito líquido e certo, não protegido\npor habeas corpus ou habeas data, quando o responsável pela ilegalidade for agente de pessoa jurídica no exercício de\natribuições do poder público.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1103,
+        "id_tec": "3378382",
+        "link": "www.tecconcursos.com.br/questoes/3378382",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Min (MPE CE)/MPE CE/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Inelegibilidades (Direitos Políticos)",
+        "gabarito": "Certo",
+        "comando": "Julgue o item seguinte, referentes à nacionalidade, à cidadania e aos direitos políticos.\nÉ possível, de acordo com o texto constitucional, que um cidadão preencha as condições de elegibilidade para ser vereador, mas\nnão as condições de elegibilidade para ser deputado federal.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 602,
+        "id_tec": "3442943",
+        "link": "www.tecconcursos.com.br/questoes/3442943",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ (STM)/STM/Apoio Especializado/Administração/2025",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "Programação e Descentralização Orçamentária e Financeira",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito à programação financeira e às alterações orçamentárias no setor público, julgue o item a seguir.\nA programação financeira é um instrumento que permite alterar a dotação orçamentária aprovada, de acordo com a arrecadação\nrealizada.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 381,
+        "id_tec": "3442981",
+        "link": "www.tecconcursos.com.br/questoes/3442981",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ (STM)/STM/Apoio Especializado/Administração/2025",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "Conceitos Gerais (Orçamentária e Extraorçamentária,",
+        "gabarito": "Errado",
+        "comando": "Acerca da receita e da despesa públicas, julgue o item que se seguem.\nO exercício da soberania estatal confere ao poder público o direito de arrecadar recursos financeiros de forma impositiva, os quais\nsão classificados, de acordo com a doutrina, como receitas públicas originárias.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 72,
+        "id_tec": "3495230",
+        "link": "www.tecconcursos.com.br/questoes/3495230",
+        "banca_orgao": "CEBRASPE (CESPE) - Adm (FUB)/FUB/2025",
+        "materia": "AFO, Direito Financeiro e Contabilidade Pública",
+        "assunto": "LDO - Lei de Diretrizes Orçamentárias (CF/1988 e Lei nº",
+        "gabarito": "Errado",
+        "comando": "Julgue o item a seguir, relativo ao orçamento público.\nInstrumento de médio prazo, a lei de diretrizes orçamentárias visa nortear a elaboração de orçamentos anuais de acordo com as\nmetas e prioridades financeiras da administração pública.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1717,
+        "id_tec": "3514035",
+        "link": "www.tecconcursos.com.br/questoes/3514035",
+        "banca_orgao": "CEBRASPE (CESPE) - Adv (CAU MG)/CAU MG/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Questões Mescladas de Ministério Público (arts. 127 a 130 da",
+        "gabarito": "Certo",
+        "comando": "A respeito da organização do Estado, da administração Pública, da organização dos poderes e das funções essenciais à\njustiça, julgue item seguinte.\nMembro do Ministério Público do Distrito Federal e Territórios maior de trinta e cinco anos de idade pode ser nomeado pelo\npresidente da República como procurador-geral da República (chefe do Ministério Público da União), após a aprovação de seu\nnome pela maioria absoluta dos membros do Senado Federal.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1169,
+        "id_tec": "3514036",
+        "link": "www.tecconcursos.com.br/questoes/3514036",
+        "banca_orgao": "CEBRASPE (CESPE) - Adv (CAU MG)/CAU MG/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "União: Bens e Competências Exclusivas, Privativas, Comuns e",
+        "gabarito": "Errado",
+        "comando": "A respeito da organização do Estado, da administração Pública, da organização dos poderes e das funções essenciais à\njustiça, julgue item seguinte.\nOs sítios arqueológicos e pré-históricos constituem bens da União, ao passo que as cavidades naturais subterrâneas pertencem\naos estados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1312,
+        "id_tec": "3514037",
+        "link": "www.tecconcursos.com.br/questoes/3514037",
+        "banca_orgao": "CEBRASPE (CESPE) - Adv (CAU MG)/CAU MG/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Dos Servidores Públicos (arts. 39 a 41 da CF/1988)",
+        "gabarito": "Errado",
+        "comando": "A respeito da organização do Estado, da administração Pública, da organização dos poderes e das funções essenciais à\njustiça, julgue item seguinte.\nO servidor abrangido por regime próprio de previdência social terá direito a aposentadoria no âmbito da União, dos estados, do\nDistrito Federal e dos municípios, aos 62 anos de idade, se mulher, e aos 65 anos de idade, se homem.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 783,
+        "id_tec": "3529687",
+        "link": "www.tecconcursos.com.br/questoes/3529687",
+        "banca_orgao": "CEBRASPE (CESPE) - Diplomata/IRBr/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da",
+        "gabarito": "Certo",
+        "comando": "A Constituição Federal de 1988 prevê como princípio que rege República Federativa do Brasil em suas relações\ninternacionais\no repúdio ao terrorismo e ao racismo.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 784,
+        "id_tec": "3529688",
+        "link": "www.tecconcursos.com.br/questoes/3529688",
+        "banca_orgao": "CEBRASPE (CESPE) - Diplomata/IRBr/2025",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Dos Princípios Fundamentais da Constituição (arts. 1º a 4º da",
+        "gabarito": "Errado",
+        "comando": "A Constituição Federal de 1988 prevê como princípio que rege República Federativa do Brasil em suas relações\ninternacionais.\na não concessão de extradição a estrangeiro por crime político ou de opinião.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    }
+]
