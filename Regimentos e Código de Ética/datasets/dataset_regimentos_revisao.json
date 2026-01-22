@@ -1,0 +1,1472 @@
+[
+    {
+        "numero": 341,
+        "id_tec": "252804",
+        "link": "www.tecconcursos.com.br/questoes/252804",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Comissões (arts. 22 a 64 do RICD)",
+        "gabarito": "Certo",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com bas no\nRegimento Interno da Câmara dos Deputados.\nUm terço dos membros da Câmara dos Deputados requereu ao presidente da Casa a constituição de comissão parlamentar de\ninquérito para apurar determinado fato. Ao receber o requerimento, o presidente devolveu-o ao autor, por entender que não\nhaviam sido satisfeitos os requisitos regimentais necessários. Nessa situação, caberá recurso ao Plenário da Câmara dos\nDeputados da decisão do presidente; o recurso deverá ser interposto no prazo de cinco sessões; e a Comissão de Constituição e\nJustiça e de Cidadania deverá ser ouvida.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 253,
+        "id_tec": "252805",
+        "link": "www.tecconcursos.com.br/questoes/252805",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Mesa, Colégio de Líderes, Secretarias, Procuradoria, Ouvidoria e Outros",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com bas no\nRegimento Interno da Câmara dos Deputados.\nUma lei entrou em vigor no ano de 2002 e a Mesa Diretora da Câmara dos Deputados propôs, nesse mesmo ano, ação direta de\ninconstitucionalidade contra essa lei, por entender que ela contrariava dispositivos constitucionais vigentes. Nessa situação, a\nMesa Diretora era parte ilegítima para propor a referida ação, que só poderia ser apresentada, no âmbito da citada Casa\nlegislativa, pelo seu presidente.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 201,
+        "id_tec": "252806",
+        "link": "www.tecconcursos.com.br/questoes/252806",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Disposições Preliminares (arts. 1º a 13 do RICD)",
+        "gabarito": "Certo",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com base no\nRegimento Interno da Câmara dos Deputados.\nUm deputado federal eleito em 2010 e empossado no ano seguinte teve seu mandato cassado após seis meses de exercício no\nnovo cargo. Dado não haver suplente, foi eleito novo deputado para assumir o cargo vago. Nessa situação, o novo deputado\neleito terá trinta dias, a contar da diplomação, para tomar posse, podendo, mediante requerimento próprio, prorrogar esse prazo\npor igual período.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 491,
+        "id_tec": "252807",
+        "link": "www.tecconcursos.com.br/questoes/252807",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com bas no\nRegimento Interno da Câmara dos Deputados.\nAlguns deputados apresentaram à Câmara dos Deputados uma proposição coletiva cujas respectivas assinaturas foram apostas\npor meio eletrônico. Todas as comissões competentes para opinar sobre o mérito declararam-se favoráveis à proposição. Nessa\nsituação, deve haver o requerimento de todos os subscritores da proposição para que ela possa ser retirada.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 492,
+        "id_tec": "252809",
+        "link": "www.tecconcursos.com.br/questoes/252809",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Certo",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com bas no\nRegimento Interno da Câmara dos Deputados.\nUm projeto de lei de iniciativa popular apresentado à Câmara dos Deputados não recebeu parecer das comissões competentes.\nNessa situação, caso finde a legislatura, o referido projeto não poderá ser arquivado e, na legislatura seguinte, retomará a\ntramitação no estágio em que se encontrava.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 202,
+        "id_tec": "252810",
+        "link": "www.tecconcursos.com.br/questoes/252810",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Disposições Preliminares (arts. 1º a 13 do RICD)",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com base no\nRegimento Interno da Câmara dos Deputados.\nUm deputado federal empossado no ano de 2011 foi eleito membro da Mesa Diretora da Câmara dos Deputados para o biênio\n2013-2014. Nessa situação, se o deputado for reeleito nas eleições de 2014, a ele será vedado ocupar o mesmo cargo na referida\nmesa para o biênio imediatamente subsequente (2015-2016).\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 342,
+        "id_tec": "252811",
+        "link": "www.tecconcursos.com.br/questoes/252811",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Comissões (arts. 22 a 64 do RICD)",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com bas no\nRegimento Interno da Câmara dos Deputados.\nA Comissão de Constituição e Justiça e de Cidadania da Câmara dos Deputados decidiu dividir-se, em vez de em subcomissões,\nem duas turmas, excluído o presidente. Nessa situação, as turmas terão poder decisório nos assuntos que lhe forem distribuídos,\ndesde que esteja presente mais da metade de seus membros.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 493,
+        "id_tec": "252812",
+        "link": "www.tecconcursos.com.br/questoes/252812",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com base no\nRegimento Interno da Câmara dos Deputados.\nUm deputado federal propôs projeto de lei que passou a tramitar em uma das comissões permanentes da Câmara dos Deputados.\nNessa situação, para que o referido projeto seja discutido e votado, é necessário que a comissão emita o parecer por escrito, uma\nvez que o parecer não poderá ser verbal.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 343,
+        "id_tec": "252813",
+        "link": "www.tecconcursos.com.br/questoes/252813",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Comissões (arts. 22 a 64 do RICD)",
+        "gabarito": "Certo",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com base no\nRegimento Interno da Câmara dos Deputados.\nUma deputada federal propôs projeto de lei para alterar artigos do Código Civil de 2002, tendo sido esse projeto discutido pela\ncomissão permanente da Câmara dos Deputados da qual ela faz parte. Nessa situação, na referida discussão a deputada não\npoderia ter sido relatora da proposição, ainda que substituta ou parcial.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 494,
+        "id_tec": "252815",
+        "link": "www.tecconcursos.com.br/questoes/252815",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com base no\nRegimento Interno da Câmara dos Deputados.\nUm deputado federal, dada a proximidade do término de sua legislatura, solicitou a discussão e votação no Plenário da Câmara\ndos Deputados de determinado processo em tramitação na Casa. Nessa situação, é correto afirmar que a solicitação foi feita\nmediante requerimento ao presidente da Casa, a quem cabe decidir a respeito, independentemente de deliberação da Mesa\nDiretora e do Plenário, pois consiste em prerrogativa exclusiva do cargo tal decisão.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 828,
+        "id_tec": "252817",
+        "link": "www.tecconcursos.com.br/questoes/252817",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Da Licença (arts. 235 a 237 do RICD)",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com base no\nRegimento Interno da Câmara dos Deputados.\nUm deputado federal requereu licença da Câmara dos Deputados para desempenhar missão temporária de caráter diplomático.\nNessa situação, caberá ao presidente da Casa decidir sobre a concessão da licença.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 797,
+        "id_tec": "252818",
+        "link": "www.tecconcursos.com.br/questoes/252818",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2014",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Matérias Sujeitas a Disposições Especiais (arts. 201 a 225 do RICD)",
+        "gabarito": "Errado",
+        "comando": "No item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva, que deve ser julgada com base no\nRegimento Interno da Câmara dos Deputados.\nUm cidadão denunciou à Câmara dos Deputados o presidente da República pelo cometimento de crime de responsabilidade.\nNessa situação, para que seja aceita, a referida denúncia deverá estar assinada pelo denunciante, independentemente de\nreconhecimento de firma, e acompanhada de documentos que comprovem o alegado; além disso, se o presidente da Casa\nlegislativa indeferir o recebimento, a decisão será irrecorrível.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 66,
+        "id_tec": "1227015",
+        "link": "www.tecconcursos.com.br/questoes/1227015",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "Tec",
+        "assunto": "TL (SEN)/SEN/Processo Legislativo/2020",
+        "gabarito": "Certo",
+        "comando": "“Nas deliberações, os votos da Câmara dos Deputados e do Senado Federal serão sempre computados separadamente”.\nAcerca das deliberações, nos termos do Regimento Comum do Congresso Nacional, Resolução nº 1 de 1970, jugue o item:\nO voto contrário de uma das Casas importará a rejeição da matéria e a votação começará pela Câmara dos Deputados. Tratando-\nse, porém, de projeto de lei vetado de iniciativa de Senadores, a votação começará pelo Senado.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 31,
+        "id_tec": "1227026",
+        "link": "www.tecconcursos.com.br/questoes/1227026",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "Tec",
+        "assunto": "TL (SEN)/SEN/Processo Legislativo/2020",
+        "gabarito": "Errado",
+        "comando": "Acerca da deliberação na Comissão mista:\nComissão Mista deliberará por maioria absoluta de votos, presente a maioria de seus membros, tendo o Presidente somente voto\nde desempate.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 76,
+        "id_tec": "1764544",
+        "link": "www.tecconcursos.com.br/questoes/1764544",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Errado",
+        "comando": "Em sessão do Congresso Nacional destinada à apreciação de determinadas matérias,\nna discussão, os oradores devem falar na ordem de inscrição, sendo a palavra concedida primeiramente aos congressistas\nfavoráveis à matéria e, após o encerramento de seus discursos, aos contrários.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 77,
+        "id_tec": "1764545",
+        "link": "www.tecconcursos.com.br/questoes/1764545",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "Em sessão do Congresso Nacional destinada à apreciação de determinadas matérias,\nem regra, o período de discussão encerra-se somente depois de ser proferido o discurso do último orador inscrito; todavia,\nadmitem-se requerimentos para antecipação do fim da discussão.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 78,
+        "id_tec": "1764546",
+        "link": "www.tecconcursos.com.br/questoes/1764546",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "Em sessão do Congresso Nacional destinada à apreciação de determinadas matérias,\nmesmo quando já iniciada a votação, admite-se a retirada da matéria da pauta, desde que requerida por seu autor.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 79,
+        "id_tec": "1764547",
+        "link": "www.tecconcursos.com.br/questoes/1764547",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Errado",
+        "comando": "Em sessão do Congresso Nacional destinada à apreciação de determinadas matérias,\nos votos da Câmara e do Senado serão tomados conjuntamente, quando da votação do Plenário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 80,
+        "id_tec": "1764548",
+        "link": "www.tecconcursos.com.br/questoes/1764548",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "Em sessão do Congresso Nacional destinada à apreciação de determinadas matérias, via de regra, a votação deve ocorrer por\nmeio do processo simbólico.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 81,
+        "id_tec": "1764551",
+        "link": "www.tecconcursos.com.br/questoes/1764551",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Errado",
+        "comando": "Em sessão do Congresso Nacional destinada à apreciação de determinadas matérias,\na discussão de proposição principal deve anteceder à das emendas e das subemendas, as quais devem ser discutidas em\nconjunto.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 6,
+        "id_tec": "1764552",
+        "link": "www.tecconcursos.com.br/questoes/1764552",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Direção, Objeto e Convocação das Sessões Conjuntas (arts. 1º a 3º do",
+        "gabarito": "Errado",
+        "comando": "De acordo com o disposto no Regimento Comum do Congresso Nacional, cabe ao presidente do Congresso marcar reunião do\ncolegiado para\npromulgar as emendas constitucionais se o presidente da República não o fizer.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 103,
+        "id_tec": "1764553",
+        "link": "www.tecconcursos.com.br/questoes/1764553",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões Solenes (arts. 53 a 71 do RCCN)",
+        "gabarito": "Errado",
+        "comando": "De acordo com o disposto no Regimento Comum do Congresso Nacional, cabe ao presidente do Congresso marcar reunião\ndo colegiado para\npromulgar as leis complementares.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 104,
+        "id_tec": "1764555",
+        "link": "www.tecconcursos.com.br/questoes/1764555",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões Solenes (arts. 53 a 71 do RCCN)",
+        "gabarito": "Errado",
+        "comando": "De acordo com o disposto no Regimento Comum do Congresso Nacional, cabe ao presidente do Congresso marcar reunião\ndo colegiado para\ninaugurar e encerrar a sessão legislativa.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 7,
+        "id_tec": "1764556",
+        "link": "www.tecconcursos.com.br/questoes/1764556",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Direção, Objeto e Convocação das Sessões Conjuntas (arts. 1º a 3º do",
+        "gabarito": "Certo",
+        "comando": "De acordo com o disposto no Regimento Comum do Congresso Nacional, cabe ao presidente do Congresso marcar reunião do\ncolegiado para\ndar posse ao presidente e ao vice-presidente da República eleitos.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 82,
+        "id_tec": "1764557",
+        "link": "www.tecconcursos.com.br/questoes/1764557",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Errado",
+        "comando": "No caso de determinada matéria ser votada por votação secreta no Congresso Nacional,\no parlamentar que estiver presente à votação poderá deixar de votar se não tiver interesse pessoal na matéria.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 83,
+        "id_tec": "1764558",
+        "link": "www.tecconcursos.com.br/questoes/1764558",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "No caso de determinada matéria ser votada por votação secreta no Congresso Nacional,\nas cédulas de votação estarão na cabina de votação.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 84,
+        "id_tec": "1764559",
+        "link": "www.tecconcursos.com.br/questoes/1764559",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "Após o encerramento da discussão de determinada matéria no Congresso Nacional,\na votação deve ser iniciada pelo projeto, que antecede, portanto, a votação dos destaques e das emendas.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 85,
+        "id_tec": "1764560",
+        "link": "www.tecconcursos.com.br/questoes/1764560",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Errado",
+        "comando": "Após o encerramento da discussão de determinada matéria no Congresso Nacional,\na votação das emendas deve ser feita por grupos, conforme se originem da Câmara ou do Senado.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 86,
+        "id_tec": "1764561",
+        "link": "www.tecconcursos.com.br/questoes/1764561",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "Após o encerramento da discussão de determinada matéria no Congresso Nacional,\no substitutivo de autoria de alguma comissão, caso exista, deverá ser posto em votação antes do próprio projeto original.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 87,
+        "id_tec": "1764562",
+        "link": "www.tecconcursos.com.br/questoes/1764562",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "Após o encerramento da discussão de determinada matéria no Congresso Nacional,\na redação final do projeto deverá ser elaborada pela respectiva comissão mista.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 88,
+        "id_tec": "1764563",
+        "link": "www.tecconcursos.com.br/questoes/1764563",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Processo Legislativo e Gestão/2012",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Sessões em Geral (arts. 22 a 52 do RCCN)",
+        "gabarito": "Certo",
+        "comando": "Após o encerramento da discussão de determinada matéria no Congresso Nacional,\na votação poderá ser encaminhada por quatro senadores e quatro deputados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 527,
+        "id_tec": "1779521",
+        "link": "www.tecconcursos.com.br/questoes/1779521",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Errado",
+        "comando": "As emendas\npoderão ser destacadas para que venham a constituir grupos diferentes daqueles a que pertençam.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 528,
+        "id_tec": "1779523",
+        "link": "www.tecconcursos.com.br/questoes/1779523",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Errado",
+        "comando": "As emendas\nque tenham recebido pareceres divergentes somente serão votadas se houver recurso apresentado por um décimo dos\ndeputados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 717,
+        "id_tec": "1779524",
+        "link": "www.tecconcursos.com.br/questoes/1779524",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Da Apreciação das Proposições (arts. 131 a 200 do RICD)",
+        "gabarito": "Certo",
+        "comando": "As emendas\nque receberem parecer no sentido de constituírem projeto em separado serão sempre votadas destacadamente.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 529,
+        "id_tec": "1779527",
+        "link": "www.tecconcursos.com.br/questoes/1779527",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Certo",
+        "comando": "As emendas\ndispensam relatório em seus pareceres.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 165,
+        "id_tec": "1779536",
+        "link": "www.tecconcursos.com.br/questoes/1779536",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Resolução CN nº 3/1990 - Comissão Representativa do Congresso Nacional",
+        "gabarito": "Certo",
+        "comando": "O item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada.\nO presidente da Comissão Representativa do Congresso Nacional leu, em reunião da Comissão, documento da liderança do\npartido X, solicitando a substituição de membro da sua bancada naquele órgão, tendo sido negada tal providência. Nessa\nsituação, foi correta a negativa do presidente.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 807,
+        "id_tec": "1779537",
+        "link": "www.tecconcursos.com.br/questoes/1779537",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Matérias Sujeitas a Disposições Especiais (arts. 201 a 225 do RICD)",
+        "gabarito": "Certo",
+        "comando": "O item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada.\nA Comissão de Economia, Indústria e Comércio aprovou requerimento solicitando ao Tribunal de Contas da União (TCU) a\nrealização de auditoria em sociedade instituída e mantida pelo poder público. Nessa situação, tal requerimento deverá ser\nremetido ao presidente da Câmara, que o encaminhará ao TCU.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 359,
+        "id_tec": "1779538",
+        "link": "www.tecconcursos.com.br/questoes/1779538",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Comissões (arts. 22 a 64 do RICD)",
+        "gabarito": "Certo",
+        "comando": "O item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada.\nEm reunião secreta da Comissão de Relações Exteriores e de Defesa Nacional, um deputado questionou a respeito da presença de\num senador. O presidente da Comissão, entretanto, garantiu que a presença do senador estava regimentalmente amparada.\nNessa situação, procede o esclarecimento do presidente da Comissão.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 360,
+        "id_tec": "1779539",
+        "link": "www.tecconcursos.com.br/questoes/1779539",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Comissões (arts. 22 a 64 do RICD)",
+        "gabarito": "Certo",
+        "comando": "O item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada.\nApesar de indicado pela liderança de seu partido, o presidente da Câmara dos Deputados não designou um certo deputado, 4.º\nsecretário da Mesa, para integrar, como suplente, a Comissão Especial destinada a emitir parecer a respeito da proposta de\nemenda à Constituição que regulou a edição de medidas provisórias. Nessa situação, foi correta a atitude do presidente da\nCâmara.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 530,
+        "id_tec": "1779540",
+        "link": "www.tecconcursos.com.br/questoes/1779540",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área I/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Proposições (arts. 100 a 130 do RICD)",
+        "gabarito": "Errado",
+        "comando": "O item a seguir, é apresentada uma situação hipotética, seguida de uma assertiva a ser julgada.\nUm deputado, primeiro signatário de proposta de emenda à Constituição que regula determinado artigo da Constituição da\nRepública, apresentou requerimento, solicitando a retirada da proposição. O presidente da Câmara dos Deputados deferiu o\npedido. Nessa situação, foi correta a atitude do presidente da Casa.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 808,
+        "id_tec": "1781024",
+        "link": "www.tecconcursos.com.br/questoes/1781024",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Matérias Sujeitas a Disposições Especiais (arts. 201 a 225 do RICD)",
+        "gabarito": "Certo",
+        "comando": "Acerca das eleições na Câmara dos Deputados, é correto afirmar que\nos membros da Comissão Representativa do Congresso Nacional serão eleitos na última sessão ordinária do período legislativo\nanual.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 261,
+        "id_tec": "1781025",
+        "link": "www.tecconcursos.com.br/questoes/1781025",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Mesa, Colégio de Líderes, Secretarias, Procuradoria, Ouvidoria e Outros",
+        "gabarito": "Certo",
+        "comando": "Acerca das eleições na Câmara dos Deputados, é correto afirmar que\na Mesa da Câmara dos Deputados será eleita na primeira e na terceira sessões legislativas ordinárias.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 809,
+        "id_tec": "1781026",
+        "link": "www.tecconcursos.com.br/questoes/1781026",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Das Matérias Sujeitas a Disposições Especiais (arts. 201 a 225 do RICD)",
+        "gabarito": "Errado",
+        "comando": "Acerca das eleições na Câmara dos Deputados, é correto afirmar que\na Câmara dos Deputados elege dois cidadãos para integrarem o Conselho da República, devendo as indicações dos nomes dos\nconcorrentes obedecer ao princípio da proporcionalidade partidária.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 262,
+        "id_tec": "1781027",
+        "link": "www.tecconcursos.com.br/questoes/1781027",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Mesa, Colégio de Líderes, Secretarias, Procuradoria, Ouvidoria e Outros",
+        "gabarito": "Errado",
+        "comando": "Acerca das eleições na Câmara dos Deputados, é correto afirmar que\nserá realizada nova eleição em caso de vaga em cargos da Mesa, salvo se faltarem menos de três meses para o término do\nmandato.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 209,
+        "id_tec": "1781028",
+        "link": "www.tecconcursos.com.br/questoes/1781028",
+        "banca_orgao": "CEBRASPE (CESPE) - AL (CAM DEP)/CAM DEP/Consultor Legislativo/Área II/2002",
+        "materia": "Legislação das Casas Legislativas",
+        "assunto": "Disposições Preliminares (arts. 1º a 13 do RICD)",
+        "gabarito": "Errado",
+        "comando": "Acerca das eleições na Câmara dos Deputados, é correto afirmar que\nnão pode haver mais de um escrutínio para a eleição do presidente da Mesa da Câmara dos Deputados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 43,
+        "id_tec": "2570251",
+        "link": "www.tecconcursos.com.br/questoes/2570251",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "No que diz respeito às Comissões Mistas do Congresso Nacional, pode-se afirmar:\nqualquer Congressista, a partir da instalação da Comissão, poderá apresentar emendas, as quais, não sendo aceitas por despacho\nda Presidência, ensejam ao Autor a interposição de recurso ao colegiado, desde que com apoiamento de outros seis membros da\nComissão.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 44,
+        "id_tec": "2570252",
+        "link": "www.tecconcursos.com.br/questoes/2570252",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito às Comissões Mistas do Congresso Nacional, pode-se afirmar:\nas deliberações da Comissão serão adotadas por maioria de votos, presente a maioria dos membros representantes de cada Casa,\ncomputando- se separadamente os votos dos Senadores e dos Deputados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 45,
+        "id_tec": "2570254",
+        "link": "www.tecconcursos.com.br/questoes/2570254",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito às Comissões Mistas do Congresso Nacional, pode-se afirmar:\no prazo destinado aos trabalhos da Comissão expira com a apresentação do seu parecer escrito ou oral na sessão conjunta.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 46,
+        "id_tec": "2570256",
+        "link": "www.tecconcursos.com.br/questoes/2570256",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito às Comissões Mistas do Congresso Nacional, pode-se afirmar:\no parecer da Comissão que concluir pela inconstitucionalidade da proposição, dotado de efeito terminativo, prescinde da análise\ndo mérito da matéria.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 47,
+        "id_tec": "2570258",
+        "link": "www.tecconcursos.com.br/questoes/2570258",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito às Comissões Mistas do Congresso Nacional, pode-se afirmar:\nna constituição das Comissões Parlamentares Mistas de Inquérito devem obedecer-se aos princípios da proporcionalidade\npartidária e numérica de Deputados e Senadores.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 543,
+        "id_tec": "2571074",
+        "link": "www.tecconcursos.com.br/questoes/2571074",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Em relação às proposições, no âmbito da Câmara dos Deputados, pode-se afirmar:\no quorum regimental ou constitucional necessário para a iniciativa coletiva das proposições perfaz-se mediante as assinaturas\nindividuais de Deputados ou de Líderes, representando estes o número de integrantes de sua legenda partidária ou parlamentar,\nno ato da apresentação da proposição.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 544,
+        "id_tec": "2571075",
+        "link": "www.tecconcursos.com.br/questoes/2571075",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Em relação às proposições, no âmbito da Câmara dos Deputados, pode-se afirmar:\na retirada de proposição com pareceres favoráveis das Comissões competentes para opinar sobre o mérito dependerá do\napoiamento de um décimo dos Deputados ou de Líderes que representem esse número.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 545,
+        "id_tec": "2571076",
+        "link": "www.tecconcursos.com.br/questoes/2571076",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Em relação às proposições, no âmbito da Câmara dos Deputados, pode-se afirmar:\nquando diferentes matérias se encontrarem num mesmo projeto, a Comissão de Constituição e Justiça e de Redação ou, se esta\nnão o fizer, qualquer outra Comissão poderá dividi-las para formarem proposições separadas.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 729,
+        "id_tec": "2571097",
+        "link": "www.tecconcursos.com.br/questoes/2571097",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "As proposições em tramitação na Câmara dos Deputados serão analisadas quanto às preliminares de constitucionalidade ou\njuridicidade e de adequação financeira ou orçamentária. A este propósito pode-se afirmar:\ntratando-se de matéria com evidente inadequação ou incompatibilidade financeira ou orçamentária, o Presidente da Câmara\ndevolverá a proposição ao Autor, que poderá recorrer ao Plenário no prazo de cinco sessões da publicação do despacho, ouvindo-\nse a Comissão de Finanças e Tributação, em igual prazo.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 730,
+        "id_tec": "2571099",
+        "link": "www.tecconcursos.com.br/questoes/2571099",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "As proposições em tramitação na Câmara dos Deputados serão analisadas quanto às preliminares de constitucionalidade ou\njuridicidade e de adequação financeira ou orçamentária. A este propósito pode-se afirmar:\nsalvo o recurso regimental, o parecer da Comissão de Constituição e Justiça e de Redação é terminativo no que diz respeito ao\nexame de constitucionalidade, esteja a matéria sujeita à deliberação conclusiva das Comissões ou à apreciação do Plenário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 731,
+        "id_tec": "2571100",
+        "link": "www.tecconcursos.com.br/questoes/2571100",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "As proposições em tramitação na Câmara dos Deputados serão analisadas quanto às preliminares de constitucionalidade ou\njuridicidade e de adequação financeira ou orçamentária. A este propósito pode-se afirmar:\numa vez provido recurso contra o parecer da Comissão de Constituição e Justiça e de Redação no sentido da inadmissibilidade da\nproposição, significa que a constitucionalidade da matéria não mais poderá ser arguida em contrário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 732,
+        "id_tec": "2571102",
+        "link": "www.tecconcursos.com.br/questoes/2571102",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "As proposições em tramitação na Câmara dos Deputados serão analisadas quanto às preliminares de constitucionalidade ou\njuridicidade e de adequação financeira ou orçamentária. A este propósito pode-se afirmar:\nem caso de rejeição da emenda saneadora de vício de inadequação orçamentária apresentada pela Comissão de Finanças e\nTributação, a proposição será definitivamente arquivada.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 733,
+        "id_tec": "2571103",
+        "link": "www.tecconcursos.com.br/questoes/2571103",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "As proposições em tramitação na Câmara dos Deputados serão analisadas quanto às preliminares de constitucionalidade ou\njuridicidade e de adequação financeira ou orçamentária. A este propósito pode-se afirmar:\nà Comissão Especial constituída para dar parecer sobre projeto de lei, na hipótese regimental, incumbe apreciá-lo quanto à\nadmissibilidade e ao mérito, substituindo-se respectivamente às Comissões de Constituição e Justiça e de Redação e Finanças e\nTributação, e às demais Comissões competentes em razão da matéria.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 375,
+        "id_tec": "2571105",
+        "link": "www.tecconcursos.com.br/questoes/2571105",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Cada Comissão Permanente da Câmara dos Deputados tem um campo temático ou área de atividade própria, enfim,\natribuições que lhe são específicas. A este respeito, é lícito afirmar:\nquando alguma Comissão manifestar-se sobre o que não for de sua atribuição específica, considerar- se-á como não escrito o\nparecer ou parte dele.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 376,
+        "id_tec": "2571106",
+        "link": "www.tecconcursos.com.br/questoes/2571106",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Cada Comissão Permanente da Câmara dos Deputados tem um campo temático ou área de atividade própria, enfim,\natribuições que lhe são específicas. A este respeito, é lícito afirmar:\ndepois de definitivamente aprovado pelos órgãos técnicos o substitutivo a determinada proposição, sujeita à apreciação conclusiva\ndas Comissões, em decisão irrecorrida, eventual reclamação sobre infringência a campo temático de algum desses colegiados\ndeve ser apresentada ao Presidente da Câmara.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 377,
+        "id_tec": "2571108",
+        "link": "www.tecconcursos.com.br/questoes/2571108",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Cada Comissão Permanente da Câmara dos Deputados tem um campo temático ou área de atividade própria, enfim,\natribuições que lhe são específicas. A este respeito, é lícito afirmar:\ndepois de definitivamente aprovado pelos órgãos técnicos o substitutivo a determinada proposição, sujeita à apreciação conclusiva\ndas Comissões, em decisão irrecorrida, eventual reclamação sobre infringência a campo temático de algum desses colegiados\ndeve ser apresentada ao Presidente da Câmara.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 378,
+        "id_tec": "2571109",
+        "link": "www.tecconcursos.com.br/questoes/2571109",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Cada Comissão Permanente da Câmara dos Deputados tem um campo temático ou área de atividade própria, enfim,\natribuições que lhe são específicas. A este respeito, é lícito afirmar:\né privativo da Comissão específica para examinar a matéria constante de projeto de lei que tenha tramitado como projeto de\ncódigo, elaborar a redação final da proposição, em lugar da Comissão de Constituição e Justiça e de Redação.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 379,
+        "id_tec": "2571110",
+        "link": "www.tecconcursos.com.br/questoes/2571110",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Cada Comissão Permanente da Câmara dos Deputados tem um campo temático ou área de atividade própria, enfim,\natribuições que lhe são específicas. A este respeito, é lícito afirmar:\nà Comissão competente para a análise do mérito da proposição que versa sobre matéria financeira e orçamentária pública cabe\npronunciar-se sobre a preliminar de inadequação ou incompatibilidade financeira ou orçamentária.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 380,
+        "id_tec": "2571114",
+        "link": "www.tecconcursos.com.br/questoes/2571114",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Cada Comissão Permanente da Câmara dos Deputados tem um campo temático ou área de atividade própria, enfim,\natribuições que lhe são específicas. A este respeito, é lícito afirmar:\numa Comissão poderá requerer a outra que se manifeste sobre determinada matéria de seu campo temático, devendo indicar\nprecisamente a questão sobre a qual deseja o pronunciamento.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 381,
+        "id_tec": "2571115",
+        "link": "www.tecconcursos.com.br/questoes/2571115",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Em relação às matérias que se sujeitam à tramitação especial na Câmara dos Deputados pode-se dizer:\na emenda do Senado à proposta de emenda à Constituição oriunda da Câmara terá a sua admissibilidade apreciada pela\nComissão Especial designada pelo Presidente da Câmara para o exame do mérito da proposição original.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 813,
+        "id_tec": "2571116",
+        "link": "www.tecconcursos.com.br/questoes/2571116",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Em relação às matérias que se sujeitam à tramitação especial na Câmara dos Deputados pode-se dizer:\na apreciação preliminar em Plenário prescinde de requerimento do Autor, se a Comissão de Constituição e Justiça e de Redação\napresentar emenda para sanar vício de admissibilidade da proposta de emenda à Constituição.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 814,
+        "id_tec": "2571118",
+        "link": "www.tecconcursos.com.br/questoes/2571118",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Em relação às matérias que se sujeitam à tramitação especial na Câmara dos Deputados pode-se dizer:\no projeto de lei que altera código terá tramitação semelhante ao projeto de código.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 815,
+        "id_tec": "2571120",
+        "link": "www.tecconcursos.com.br/questoes/2571120",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Em relação às matérias que se sujeitam à tramitação especial na Câmara dos Deputados pode-se dizer:\nultimada a votação em turno único do projeto de resolução que altera ou reforma o Regimento Interno, a redação final compete à\nComissão Especial que o houver elaborado, ou à Mesa, nos demais casos.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 816,
+        "id_tec": "2571122",
+        "link": "www.tecconcursos.com.br/questoes/2571122",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Em relação às matérias que se sujeitam à tramitação especial na Câmara dos Deputados pode-se dizer:\na uma Comissão especial eleita, da qual participem representantes de todos os partidos, observada a respectiva proporção,\ncaberá opinar, em caso de o Presidente da Câmara receber a denúncia de qualquer cidadão contra Ministro de Estado por crime\nde responsabilidade.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 817,
+        "id_tec": "2571123",
+        "link": "www.tecconcursos.com.br/questoes/2571123",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "As matérias, na Câmara dos Deputados, obedecem a determinado regime de tramitação e ordem dê preferência, na\ndiscussão, ou na votação, em razão do que se pode afirmar:\ndifere o requerimento de urgência do de prioridade pela exigência de apoiamento maior ao primeiro, diverso encaminhamento de\nvotação e delimitação das hipóteses de sua apresentação.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 818,
+        "id_tec": "2571126",
+        "link": "www.tecconcursos.com.br/questoes/2571126",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "As matérias, na Câmara dos Deputados, obedecem a determinado regime de tramitação e ordem dê preferência, na\ndiscussão, ou na votação, em razão do que se pode afirmar:\né privativo do Presidente da República requerer a extinção do regime de urgência dos projetos de sua iniciativa, com solicitação\nde urgência.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 819,
+        "id_tec": "2571128",
+        "link": "www.tecconcursos.com.br/questoes/2571128",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "As matérias, na Câmara dos Deputados, obedecem a determinado regime de tramitação e ordem dê preferência, na\ndiscussão, ou na votação, em razão do que se pode afirmar:\nos projetos em regime de prioridade precedem os projetos de tramitação ordinária para os quais tenha sido concedida\npreferência.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 820,
+        "id_tec": "2571131",
+        "link": "www.tecconcursos.com.br/questoes/2571131",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "As matérias, na Câmara dos Deputados, obedecem a determinado regime de tramitação e ordem dê preferência, na\ndiscussão, ou na votação, em razão do que se pode afirmar:\na matéria destacada (destaque para votação em separado) precede, na votação, a matéria principal, e somente integrará o texto\nse for aprovada.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 821,
+        "id_tec": "2571132",
+        "link": "www.tecconcursos.com.br/questoes/2571132",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "As matérias, na Câmara dos Deputados, obedecem a determinado regime de tramitação e ordem dê preferência, na\ndiscussão, ou na votação, em razão do que se pode afirmar:\nentre os projetos em prioridade, os de iniciativa do Poder Executivo, do Poder Judiciário, do Ministério Público, da Mesa, de\nComissão Permanente ou Especial, do Senado Federal ou dos cidadãos, têm preferência sobre os demais.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 734,
+        "id_tec": "2571133",
+        "link": "www.tecconcursos.com.br/questoes/2571133",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "De acordo com o Regimento Interno da Câmara dos Deputados, emenda é a proposição apresentada como acessória de\noutra, sendo a principal qualquer uma dentre as seguintes: proposta de emenda à Constituição, projetos de lei ordinária, de lei\ncomplementar,de decreto legislativo e de resolução. Sobre as emendas, é correto afirmar-se que:\npodem ser oferecidas ao substitutivo do Relator na Comissão, por qualquer dos seus membros ou Líder.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 735,
+        "id_tec": "2571135",
+        "link": "www.tecconcursos.com.br/questoes/2571135",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "De acordo com o Regimento Interno da Câmara dos Deputados, emenda é a proposição apresentada como acessória de\noutra, sendo a principal qualquer uma dentre as seguintes: proposta de emenda à Constituição, projetos de lei ordinária, de lei\ncomplementar,de decreto legislativo e de resolução. Sobre as emendas, é correto afirmar-se que:\nem Plenário, poderão ser apresentadas durante a discussão em apreciação preliminar, turno único, primeiro e segundo turnos, e à\nredação final , sendo que, em todos esses casos, poderá fazê-lo o Líder que represente pelo menos um décimo dos Deputados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 736,
+        "id_tec": "2571138",
+        "link": "www.tecconcursos.com.br/questoes/2571138",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "De acordo com o Regimento Interno da Câmara dos Deputados, emenda é a proposição apresentada como acessória de\noutra, sendo a principal qualquer uma dentre as seguintes: proposta de emenda à Constituição, projetos de lei ordinária, de lei\ncomplementar,de decreto legislativo e de resolução. Sobre as emendas, é correto afirmar-se que:\nas emendas à proposta de emenda à Constituição poderão ser apresentadas, com o mesmo quórum mínimo de assinaturas,\nperante a Comissão de Constituição e Justiça e de Redação, para sanar vício de inconstitucionalidade, ou à Comissão Especial,\nquando se tratar do mérito da proposição.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 737,
+        "id_tec": "2571140",
+        "link": "www.tecconcursos.com.br/questoes/2571140",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "De acordo com o Regimento Interno da Câmara dos Deputados, emenda é a proposição apresentada como acessória de\noutra, sendo a principal qualquer uma dentre as seguintes: proposta de emenda à Constituição, projetos de lei ordinária, de lei\ncomplementar,de decreto legislativo e de resolução. Sobre as emendas, é correto afirmar-se que:\nno caso de projeto sujeito à deliberação do Plenário, as emendas podem ser apresentadas, a partir da distribuição,\nsucessivamente a cada uma das Comissões, de acordo com a matéria de sua competência, por qualquer Deputado,\nindividualmente ou com o apoiamento necessário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 738,
+        "id_tec": "2571142",
+        "link": "www.tecconcursos.com.br/questoes/2571142",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "De acordo com o Regimento Interno da Câmara dos Deputados, emenda é a proposição apresentada como acessória de\noutra, sendo a principal qualquer uma dentre as seguintes: proposta de emenda à Constituição, projetos de lei ordinária, de lei\ncomplementar,de decreto legislativo e de resolução. Sobre as emendas, é correto afirmar-se que:\no exame do mérito, bem como das preliminares de admissibilidade, no tocante a emendas oferecidas em Plenário, pode ser feito,\npor delegação dos colegiados técnicos competentes, mediante parecer apresentado diretamente em Plenário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 546,
+        "id_tec": "2571144",
+        "link": "www.tecconcursos.com.br/questoes/2571144",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Regimentalmente, proposição é toda matéria sujeita à deliberação da Câmara dos Deputados. A este respeito, é lícito\nafirmar:\nalém de outras modalidades de caráter legislativo, as proposições poderão consistir em questões de ordem, destaques, consultas,\nmoções e representações.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 547,
+        "id_tec": "2571145",
+        "link": "www.tecconcursos.com.br/questoes/2571145",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Regimentalmente, proposição é toda matéria sujeita à deliberação da Câmara dos Deputados. A este respeito, é lícito\nafirmar:\nos projetos de decreto legislativo prestam-se a regular as matérias de competência exclusiva do Congresso Nacional e, a sua vez,\nos projetos de resolução destinam-se a regular matérias da competência privativa da Câmara dos Deputados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 548,
+        "id_tec": "2571151",
+        "link": "www.tecconcursos.com.br/questoes/2571151",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Regimentalmente, proposição é toda matéria sujeita à deliberação da Câmara dos Deputados. A este respeito, é lícito\nafirmar:\nas indicações objetivam consulta a Comissão sobre interpretação e aplicação de lei, ou acerca de atos de outro Poder, seus órgãos\ne autoridades.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 549,
+        "id_tec": "2571152",
+        "link": "www.tecconcursos.com.br/questoes/2571152",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Regimentalmente, proposição é toda matéria sujeita à deliberação da Câmara dos Deputados. A este respeito, é lícito\nafirmar:\no projeto de lei subscrito pela maioria da composição da Câmara dos Deputados, que tenha sido rejeitado, poderá ser\nreapresentado na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 550,
+        "id_tec": "2571153",
+        "link": "www.tecconcursos.com.br/questoes/2571153",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Regimentalmente, proposição é toda matéria sujeita à deliberação da Câmara dos Deputados. A este respeito, é lícito\nafirmar:\nparecer é a proposição com que uma Comissão se pronuncia sobre qualquer matéria sujeita a seu estudo, quer se trate de\nproposição principal, de acessória, ou de matéria ainda não objetivada em proposição.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 382,
+        "id_tec": "2571156",
+        "link": "www.tecconcursos.com.br/questoes/2571156",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Sobre as Comissões da Câmara dos Deputados, pode-se afirmar:\nas Comissões Parlamentares de Inquérito, investidas de poderes jurisdicionais, destinam-se à apuração de denúncias e\nrepresentações da sociedade civil contra abusos ou omissões do Poder Público.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 383,
+        "id_tec": "2571159",
+        "link": "www.tecconcursos.com.br/questoes/2571159",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Sobre as Comissões da Câmara dos Deputados, pode-se afirmar:\nno caso de matéria distribuída por dependência para tramitação conjunta, cada Comissão competente, em seu parecer, deve\nlimitar-se às proposições apensadas, compreendidas em seu campo temático ou área de atividades.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 384,
+        "id_tec": "2571161",
+        "link": "www.tecconcursos.com.br/questoes/2571161",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Sobre as Comissões da Câmara dos Deputados, pode-se afirmar:\nesgotados ou não os prazos que lhe estão assinalados para examinar uma proposição e sobre ela decidir, a Comissão poderá\nincluir a matéria na Ordem do Dia para apreciação imediata, atendidos os requisitos e condições regimentais.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 385,
+        "id_tec": "2571165",
+        "link": "www.tecconcursos.com.br/questoes/2571165",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Sobre as Comissões da Câmara dos Deputados, pode-se afirmar:\ndiversamente do Presidente da Câmara, ao Presidente de Comissão incumbe votar nas deliberações da Comissão, prevalecendo o\nseu voto em caso de empate.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 386,
+        "id_tec": "2571166",
+        "link": "www.tecconcursos.com.br/questoes/2571166",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "Compreendem-se no campo temático ou áreas de atividade da Comissão de Fiscalização Financeira e Controle da Câmara\ndos Deputados:\nrequisição, diretamente aos órgãos e entidades da administração federal, de balanços e inspeções sobre as respectivas contas ou\nautorizações de despesas.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 387,
+        "id_tec": "2571167",
+        "link": "www.tecconcursos.com.br/questoes/2571167",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Compreendem-se no campo temático ou áreas de atividade da Comissão de Fiscalização Financeira e Controle da Câmara\ndos Deputados:\nplanos e programas de desenvolvimento nacional ou regional, para subsidiar o exame, pelas demais Comissões, dos programas\nque lhes disserem respeito.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 388,
+        "id_tec": "2571168",
+        "link": "www.tecconcursos.com.br/questoes/2571168",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Compreendem-se no campo temático ou áreas de atividade da Comissão de Fiscalização Financeira e Controle da Câmara\ndos Deputados:\nproposições que importem aumento ou diminuição da receita ou da despesa pública, quanto à sua compatibilidade ou adequação\nfinanceira ou orçamentária.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 389,
+        "id_tec": "2571170",
+        "link": "www.tecconcursos.com.br/questoes/2571170",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "Compreendem-se no campo temático ou áreas de atividade da Comissão de Fiscalização Financeira e Controle da Câmara\ndos Deputados:\nprestação de contas do Presidente da República, sem prejuízo da competência da Comissão Mista Permanente a que se refere o\nart. 166, § 1°, da Constituição.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 739,
+        "id_tec": "2571171",
+        "link": "www.tecconcursos.com.br/questoes/2571171",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "A urgência no Plenário é a dispensa de exigências, interstícios ou formalidades regimentais em geral, na tramitação de\ncertas proposições, para que sejam de logo apreciadas. Pode-se afirmar, com relação à proposição em regime de urgência:\nsão indispensáveis a publicação e a distribuição, em avulsos ou por cópias, da proposição principal e, se houver, das acessórias,\ncom os pareceres das Comissões ou dos Relatores designados.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 740,
+        "id_tec": "2571172",
+        "link": "www.tecconcursos.com.br/questoes/2571172",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "A urgência no Plenário é a dispensa de exigências, interstícios ou formalidades regimentais em geral, na tramitação de\ncertas proposições, para que sejam de logo apreciadas. Pode-se afirmar, com relação à proposição em regime de urgência:\nas proposições urgentes em virtude da natureza da matéria distinguem-se, por terem tratamento e trâmite regimental próprios,\ndas proposições urgentes em razão de requerimento aprovado pelo Plenário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 741,
+        "id_tec": "2571173",
+        "link": "www.tecconcursos.com.br/questoes/2571173",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "A urgência no Plenário é a dispensa de exigências, interstícios ou formalidades regimentais em geral, na tramitação de\ncertas proposições, para que sejam de logo apreciadas. Pode-se afirmar, com relação à proposição em regime de urgência:\na possibilidade regimental de incluir-se matéria na Ordem do Dia para discussão e votação imediata, ainda que iniciada a sessão\nem que for apresentada, caracteriza também a urgência em virtude de requerimento aprovado pelo Plenário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 742,
+        "id_tec": "2571174",
+        "link": "www.tecconcursos.com.br/questoes/2571174",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Certo",
+        "comando": "A urgência no Plenário é a dispensa de exigências, interstícios ou formalidades regimentais em geral, na tramitação de\ncertas proposições, para que sejam de logo apreciadas. Pode-se afirmar, com relação à proposição em regime de urgência:\nencerrada a discussão com emendas, a apreciação destas poderá ser feita, por delegação dos colegiados técnicos a que tenham\nsido distribuídas, mediante parecer apresentado diretamente em Plenário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 743,
+        "id_tec": "2571176",
+        "link": "www.tecconcursos.com.br/questoes/2571176",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "CEFOR",
+        "assunto": "AL (CAM DEP)/CAM DEP/Consultor de Orçamento e Fiscalização Financeira/1998",
+        "gabarito": "Errado",
+        "comando": "A urgência no Plenário é a dispensa de exigências, interstícios ou formalidades regimentais em geral, na tramitação de\ncertas proposições, para que sejam de logo apreciadas. Pode-se afirmar, com relação à proposição em regime de urgência:\né suscetível de deliberação do Plenário o requerimento de urgência subscrito por dois terços dos membros de Comissão\ncompetente para opinar sobre a admissibilidade ou o mérito da proposição.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 620,
+        "id_tec": "2614503",
+        "link": "www.tecconcursos.com.br/questoes/2614503",
+        "banca_orgao": "Questões Inéditas",
+        "materia": "Tec Literal",
+        "assunto": "AL (CAM DEP)/CAM DEP/2023",
+        "gabarito": "Certo",
+        "comando": "Julgue o item a seguir de acordo com a Resolução nº 17, de 1989, que aprova o Regimento Interno da Câmara dos\nDeputados\nNo processo simbólico, nenhuma questão de ordem, reclamação ou qualquer outra intervenção será considerada pela Mesa antes\nde consultar o Plenário sobre um possível pedido de verificação.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    }
+]
