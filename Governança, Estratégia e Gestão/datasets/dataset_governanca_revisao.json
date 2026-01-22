@@ -1,0 +1,317 @@
+[
+    {
+        "numero": 1080,
+        "id_tec": "595254",
+        "link": "www.tecconcursos.com.br/questoes/595254",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ (STM)/STM/Administrativa/2018",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Administração de Pessoas no Setor Público",
+        "gabarito": "Errado",
+        "comando": "Atento às tendências no campo da gestão de pessoas, um órgão público decidiu reconfigurar seus subsistemas de\nadministração de recursos humanos, especialmente os de seleção e concurso público, de capacitação e desenvolvimento e de\navaliação de desempenho, a partir das premissas e preceitos do modelo da gestão de pessoas por competências.\nNessa situação hipotética,\no processo de seleção interna para ocupação de postos gerenciais no órgão deverá privilegiar a participação em ações de\ncapacitação, sem as quais não se pode atestar que os candidatos possuem os repertórios necessários ao exercício das funções de\ngestão determinadas.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1281,
+        "id_tec": "695651",
+        "link": "www.tecconcursos.com.br/questoes/695651",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana I (IPHAN)/IPHAN/Área 3/2018",
+        "materia": "Gestão de Projetos (PMBOK)",
+        "assunto": "Estrutura Organizacional na Gestão de Projetos",
+        "gabarito": "Certo",
+        "comando": "Julgue o item que se segue, relativo a gestão de projetos.\nSituação hipotética: A estrutura organizacional de um instituto de desenvolvimento combina dois tipos de estrutura: a funcional\ne a por projetos, o que caracteriza uma estrutura matricial, na qual há compartilhamento de recursos entre as duas estruturas,\nbem como a tomada de decisão por ambas. Para o gerenciamento dos projetos estratégicos do instituto, adota-se o modelo de\nestrutura matricial forte. Assertiva: Nesse caso, de acordo com o guia PMBOK (project management body of knowledge), os\ngerentes de projetos têm maior autoridade sobre os projetos que os gerentes funcionais, além de poderem atuar, juntamente com\nsuas equipes de administração, em tempo integral no projeto, cabendo aos gerentes de projetos a administração do orçamento\ndos projetos.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 841,
+        "id_tec": "844319",
+        "link": "www.tecconcursos.com.br/questoes/844319",
+        "banca_orgao": "CEBRASPE (CESPE) - AAP (PGE PE)/PGE PE/Gestão Pública/2019",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Outros Temas e Tópicos Mesclados em Gestão por Processos",
+        "gabarito": "Errado",
+        "comando": "No item a seguir apresenta uma situação hipotética, seguida de uma assertiva a ser julgada, a respeito de gerenciamento\nde processos.\nDe acordo com o ranking de instituições por índice de reclamações, a organização pública Y recebeu muitas reclamações dos\nclientes quanto ao desempenho dos serviços prestados. Nessa situação, a organização Y deverá primeiramente identificar os\ndesvios no desempenho dos processos e pesquisar processos semelhantes que apresentem desempenho superior, a fim de\nidentificar as melhores práticas, por meio do ciclo PDCA de melhorias; em seguida, com a ferramenta benchmarking, a referida\norganização deverá desenvolver uma abordagem analítica e metodológica a fim de escolher as ferramentas mais adequadas para\nprover apropriados mecanismos de análise e medição de desempenho.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 915,
+        "id_tec": "1906158",
+        "link": "www.tecconcursos.com.br/questoes/1906158",
+        "banca_orgao": "CEBRASPE (CESPE) - APC (FUNPRESP-EXE)/FUNPRESP-EXE/Administrativa (Logistica, Recursos Humanos e",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Gerenciamento da Diversidade nas Organizações",
+        "gabarito": "Certo",
+        "comando": "O item seguinte é apresentada uma situação hipotética seguida de uma assertiva a ser julgada acerca dos aspectos de\ngestão de pessoas.\nUma organização destina vagas de emprego para pessoas com deficiência, negros, indígenas e estagiários de escolas públicas.\nNessa situação, a organização demonstra, com essas políticas de gestão de pessoas, engajamento com a diversidade e a inclusão\nsocial.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1267,
+        "id_tec": "1935410",
+        "link": "www.tecconcursos.com.br/questoes/1935410",
+        "banca_orgao": "CEBRASPE (CESPE) - PPNS (PETROBRAS)/PETROBRAS/Administração/2022",
+        "materia": "Gestão de Projetos (PMBOK)",
+        "assunto": "Ciclo de Vida de Projetos",
+        "gabarito": "Errado",
+        "comando": "O item que se segue, é apresentada uma situação hipotética acerca de gerenciamento de projetos, seguida de uma\nassertiva a ser julgada.\nRafael, consultor de projetos, afirma a seus contratantes que a incerteza relativa aos prazos e custos de projeto tende a aumentar\ncom o término de cada fase. Com relação a esse assunto, a afirmação de Rafael está correta.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1268,
+        "id_tec": "1935412",
+        "link": "www.tecconcursos.com.br/questoes/1935412",
+        "banca_orgao": "CEBRASPE (CESPE) - PPNS (PETROBRAS)/PETROBRAS/Administração/2022",
+        "materia": "Gestão de Projetos (PMBOK)",
+        "assunto": "Ciclo de Vida de Projetos",
+        "gabarito": "Errado",
+        "comando": "O item que se segue, é apresentada uma situação hipotética acerca de gerenciamento de projetos, seguida de uma\nassertiva a ser julgada.\nGabriel, novo integrante de uma equipe de projetos, trabalha em uma fase do processo responsável por materializar tudo o que\nfoi delineado em um projeto, na qual é consumida a maior parte do orçamento e do esforço desse projeto e em que se evidencia\nqualquer erro cometido nas fases anteriores. Considerando-se as características mencionadas, é correto afirmar que Gabriel\ntrabalha na fase de monitoramento e controle do projeto.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1291,
+        "id_tec": "1972848",
+        "link": "www.tecconcursos.com.br/questoes/1972848",
+        "banca_orgao": "CEBRASPE (CESPE) - Esp GT (TELEBRAS)/TELEBRAS/Administrativo/2022",
+        "materia": "Gestão de Projetos (PMBOK)",
+        "assunto": "O Papel do Gerente de Projetos",
+        "gabarito": "Certo",
+        "comando": "No item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada. Julgue-o, tendo como\nbase o gerenciamento de projetos.\nManuel, gestor de implementação de projeto em operadora telefônica, pretende aplicar a aceitação ativa de risco para ampliar sua\nbase de clientes.\nNessa situação, Manuel deve estar consciente de que, embora não haja ação de prevenção ao risco, um plano de contingência\ndeverá ser executado caso o risco ocorra.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1327,
+        "id_tec": "2013516",
+        "link": "www.tecconcursos.com.br/questoes/2013516",
+        "banca_orgao": "CEBRASPE (CESPE) - ACE (TCE RJ)/TCE RJ/Organizacional/Tecnologia da Informação/2022",
+        "materia": "Gestão de Projetos (PMBOK)",
+        "assunto": "PMBOK 7ª Edição (Tópicos Específicos)",
+        "gabarito": "Certo",
+        "comando": "Acerca de ITIL v4 e PMBOK 7, julgue o item a seguir.\nDe acordo com o PMBOK 7, os modelos de liderança situacional descrevem maneiras de adaptar o estilo de liderança de alguém\npara atender às necessidades dos indivíduos e da equipe do projeto.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1068,
+        "id_tec": "2395840",
+        "link": "www.tecconcursos.com.br/questoes/2395840",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Apoio Especializado/Administração/2023",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Administração de Pessoas no Setor Público",
+        "gabarito": "Certo",
+        "comando": "A respeito da gestão estratégica de pessoas na administração pública, julgue o item a seguir.\nO servidor que, no seu órgão de lotação, é comprometido com os resultados a alcançar, de acordo com os objetivos estratégicos,\ne é persistente perante obstáculos ou dificuldades possui competência individual orientada a resultados.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 619,
+        "id_tec": "2520698",
+        "link": "www.tecconcursos.com.br/questoes/2520698",
+        "banca_orgao": "CEBRASPE (CESPE) - ATM (Pref Fortaleza)/Pref Fortaleza/2023",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Motivação",
+        "gabarito": "Certo",
+        "comando": "Segundo relatório de 2023 do Achievers Workforce Institute, 79% dos funcionários preferem permanecer em um emprego\nem que se sintam valorizados, mesmo que isso signifique ganhar menos dinheiro.\nInternet: <startse.com/artigos> (com adaptações).\nConsiderando a informação precedente, julgue o item que se segue, no que concerne a motivação e liderança.\nDe acordo com a teoria motivacional de Hezberg, que trata de fatores higiênicos e motivacionais, a remuneração é um fator\nhigiênico e não basta para motivar uma pessoa a permanecer em um trabalho, o que pode explicar o dado divulgado pelo\nAchievers Workforce Institute.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 504,
+        "id_tec": "2935314",
+        "link": "www.tecconcursos.com.br/questoes/2935314",
+        "banca_orgao": "CEBRASPE (CESPE) - Ap Adm (CM Maceió)/CM Maceió/2024",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Introdução ao Comportamento Organizacional (Definição e Características)",
+        "gabarito": "Certo",
+        "comando": "Julgue o item subsequente, a respeito de gestão de pessoas.\nColaboradores que apresentam percepção e flexibilidade comportamental para lidar com os outros, de acordo com as\nnecessidades de cada situação, demonstram ter desenvolvido competência interpessoal.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 511,
+        "id_tec": "3008114",
+        "link": "www.tecconcursos.com.br/questoes/3008114",
+        "banca_orgao": "CEBRASPE (CESPE) - AGP (SEPLAG CE)/SEPLAG CE/Gestão de Desenvolvimento de Pessoas/2024",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Introdução ao Comportamento Organizacional (Definição e Características)",
+        "gabarito": "Certo",
+        "comando": "No que se refere aos aspectos da teoria comportamental, julgue o item a seguir.\nAs diretrizes da teoria comportamental coadunam-se com as principais teorias da liderança ágil, de acordo com as quais as\norganizações devem fomentar estruturas menos hierárquicas e com formas de liderança mais horizontais, em que o movimento\ndecisório ocorre mais por consenso que por imposição do gestor.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 612,
+        "id_tec": "3008206",
+        "link": "www.tecconcursos.com.br/questoes/3008206",
+        "banca_orgao": "CEBRASPE (CESPE) - AGP (SEPLAG CE)/SEPLAG CE/Gestão de Desenvolvimento de Pessoas/2024",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Motivação",
+        "gabarito": "Errado",
+        "comando": "Acerca da gestão por competências, da readaptação profissional, da motivação e da qualidade de vida no trabalho, julgue o\nitem que se segue.\nDe acordo com o entendimento teórico majoritário da área, a motivação humana para o trabalho se fundamenta no atendimento\ndas necessidades humanas.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 615,
+        "id_tec": "3206639",
+        "link": "www.tecconcursos.com.br/questoes/3206639",
+        "banca_orgao": "CEBRASPE (CESPE) - TJ TSE/TSE/Administrativa/\"Sem Especialidade\"/2024",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Motivação",
+        "gabarito": "Errado",
+        "comando": "Acerca de motivação e liderança, julgue o item a seguir.\nDe acordo com a teoria X de McGregor, os líderes acreditam que os empregados são naturalmente motivados e responsáveis e,\npor isso, requerem pouca ou nenhuma supervisão direta.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 587,
+        "id_tec": "3238003",
+        "link": "www.tecconcursos.com.br/questoes/3238003",
+        "banca_orgao": "CEBRASPE (CESPE) - AAAPC (PC DF)/PC DF/Agente Administrativo/2025",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Motivação",
+        "gabarito": "Errado",
+        "comando": "Julgue o item a seguir, acerca da relação dos recursos humanos com outros sistemas organizacionais, das políticas de\nrecursos humanos e do comportamento organizacional relacionado à motivação e liderança.\nDe acordo com a teoria da expectância ou expectativa, os objetivos finais alcançados por um colaborador são independentes dos\nobjetivos intermediários relacionados ao esforço dispendido para a obtenção de resultados.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1172,
+        "id_tec": "3292126",
+        "link": "www.tecconcursos.com.br/questoes/3292126",
+        "banca_orgao": "CEBRASPE (CESPE) - APC (FUNPRESP-EXE)/FUNPRESP-EXE/Infraestrutura e Cibersegurança/2025",
+        "materia": "Gestão de Projetos (PMBOK)",
+        "assunto": "Noções Introdutórias de Administração ou Gestão de Projetos",
+        "gabarito": "Errado",
+        "comando": "Acerca de processos do PMBOK, julgue o item subsequente.\nDe acordo com o PMBOK, projetos maiores apresentam menos processos críticos devido à divisão de execução em fases do ciclo\nde execução de projetos.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1185,
+        "id_tec": "3342081",
+        "link": "www.tecconcursos.com.br/questoes/3342081",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ TRT10/TRT 10/Administrativa/Contabilidade/2025",
+        "materia": "Gestão de Projetos (PMBOK)",
+        "assunto": "Noções Introdutórias de Administração ou Gestão de Projetos",
+        "gabarito": "Certo",
+        "comando": "No que se refere ao processo organizacional, à gestão de projetos, às teorias da administração, à sustentabilidade pública\ne à gestão estratégica do Poder Judiciário estabelecida pela Resolução CNJ n.º 325/2020, julgue o item que se segue.\nA elaboração, a análise, a avaliação e o gerenciamento de projetos são etapas fundamentais da gestão de projetos para que os\nobjetivos propostos sejam realizados de acordo com o prazo, o orçamento e os recursos disponíveis.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 315,
+        "id_tec": "3348222",
+        "link": "www.tecconcursos.com.br/questoes/3348222",
+        "banca_orgao": "CEBRASPE (CESPE) - TJ TRT10/TRT 10/Administrativa/\"Sem Especialidade\"/2025",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Balanced Scorecard (BSC)",
+        "gabarito": "Certo",
+        "comando": "No que concerne a fundamentos de estratégia, balanced scorecard (BSC), melhoria de processos e elaboração de projetos,\njulgue o item subsequente.\nDe acordo com a metodologia BSC, o estabelecimento de um objetivo estratégico que vise assegurar o tratamento adequado de\nconflitos trabalhistas fica corretamente vinculado à perspectiva de processos internos da organização.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 215,
+        "id_tec": "3412578",
+        "link": "www.tecconcursos.com.br/questoes/3412578",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (EMBRAPA)/EMBRAPA/Gestão Estratégica/Riscos, Conformidade e",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Diagnóstico de Ambiente Organizacional - Matriz SWOT",
+        "gabarito": "Errado",
+        "comando": "Uma empresa de tecnologia especializada em softwares para pequenas e médias empresas enfrentava dificuldades para\ncrescer no mercado devido aos seguintes fatores:\n• falta de direcionamento estratégico: não havia metas claras;\n• baixa retenção de clientes: clientes não renovavam os contratos;\n• concorrência acirrada: empresas maiores dominavam o setor; e\n• desalinhamento interno: equipes trabalhavam sem objetivos comuns.\nA diretoria da empresa decidiu, então, promover um planejamento estratégico para os próximos cinco anos e, para analisar o\ncenário da organização com relação aos seus fatores internos (forças, fraquezas) e externos (oportunidades, ameaças), de forma\na identificar cada um desses pontos, utilizou a matriz SWOT.\nCom base no caso hipotético precedente, julgue o item a seguir, referente ao planejamento estratégico e à inteligência\nestratégica.\nDe acordo com a matriz SWOT, o fator “concorrência acirrada”, que se caracteriza como um evento interno, constitui uma\nfraqueza.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 184,
+        "id_tec": "3441894",
+        "link": "www.tecconcursos.com.br/questoes/3441894",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (EMBRAPA)/EMBRAPA/Gestão Estratégica/Articulação Político-Institucional",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Planejamento Estratégico",
+        "gabarito": "Certo",
+        "comando": "No que se refere ao mapeamento e gestão de stakeholders, julgue o item a seguir.\nA gestão dos stakeholders depende fundamentalmente do mapeamento de órgãos, entidades e atores relevantes, tanto do setor\npúblico quanto do setor privado e da sociedade civil, sendo importante a classificação de pessoas de acordo com o grau de\nhierarquia das instituições mapeadas.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 96,
+        "id_tec": "3455410",
+        "link": "www.tecconcursos.com.br/questoes/3455410",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Tec (SUSEP)/SUSEP/Supervisão e Regulação de Mercados/2025",
+        "materia": "Administração Geral e Pública",
+        "assunto": "Governança Corporativa",
+        "gabarito": "Certo",
+        "comando": "Considerando as teorias que alicerçam a governança corporativa, julgue o item a seguir.\nDe acordo com a teoria da dependência de recursos, a sobrevivência organizacional depende da capacidade de gerenciamento\ndas dependências externas e do acesso a recursos críticos.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    }
+]

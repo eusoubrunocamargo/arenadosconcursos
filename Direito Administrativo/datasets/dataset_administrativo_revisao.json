@@ -1,0 +1,722 @@
+[
+    {
+        "numero": 149,
+        "id_tec": "1125433",
+        "link": "www.tecconcursos.com.br/questoes/1125433",
+        "banca_orgao": "CEBRASPE (CESPE) - AFRDF (SEFAZ DF)/SEFAZ DF/2020",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Convalidação e Conversão dos Atos Administrativos",
+        "gabarito": "Certo",
+        "comando": "O item apresenta uma situação hipotética seguida de uma assertiva a ser julgada, acerca de atos administrativos.\nEm um único ato administrativo, foram concedidas férias e licença a um servidor público da Secretaria de Estado de Economia do\nDistrito Federal. Na semana seguinte, publicou-se outro ato, que ratificava as férias desse servidor e retirava-lhe a licença\nconcedida, por ter sido constatado que ele não fazia jus à licença. Nessa situação, realizou-se-a convalidação do ato\nadministrativo, por meio de reforma.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1597,
+        "id_tec": "1190370",
+        "link": "www.tecconcursos.com.br/questoes/1190370",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Administração/2020",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei",
+        "gabarito": "Certo",
+        "comando": "Considerando as disposições da Lei federal n.º 12.527/2011 (Lei de Acesso à Informação) e da Lei Complementar n.º\n131/2009 (Lei da Transparência), julgue o item.\nDe acordo com a Lei de Acesso à Informação, informações a respeito de condutas praticadas por agentes públicos que impliquem\nviolação dos direitos humanos não poderão ser objeto de restrição de acesso.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 196,
+        "id_tec": "1191509",
+        "link": "www.tecconcursos.com.br/questoes/1191509",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Min (MPE CE)/MPE CE/2020",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Poder Hierárquico",
+        "gabarito": "Certo",
+        "comando": "O item a seguir apresenta uma situação hipotética seguida de uma assertiva a ser julgada, acerca dos poderes\nadministrativo.\nUm tenente da Marinha do Brasil determinou que um grupo de soldados realizasse a limpeza de um navio, sob pena de sanção se\ndescumprida a ordem. Nesse caso, o poder a ser exercido pelo tenente, em caso de descumprimento de sua ordem, é disciplinar\ne deriva do poder hierárquico.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 211,
+        "id_tec": "1191510",
+        "link": "www.tecconcursos.com.br/questoes/1191510",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Min (MPE CE)/MPE CE/2020",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Poder Disciplinar",
+        "gabarito": "Errado",
+        "comando": "O item a seguir apresenta uma situação hipotética seguida de uma assertiva a ser julgada, acerca dos poderes\nadministrativo.\nO corpo de bombeiros de determinada cidade, em busca da garantia de máximo benefício da coletividade, interditou uma escola\nprivada, por falta de condições adequadas para a evacuação em caso de incêndio. Nesse caso, a atuação do corpo de bombeiros\ndecorre imediatamente do poder disciplinar, ainda que o proprietário da escola tenha direito ao prédio e a exercer o seu trabalho.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1236,
+        "id_tec": "1698610",
+        "link": "www.tecconcursos.com.br/questoes/1698610",
+        "banca_orgao": "CEBRASPE (CESPE) - Ag Pol (PC DF)/PC DF/2021",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Procedimento Administrativo e do Processo Judicial (arts.",
+        "gabarito": "Certo",
+        "comando": "Com base na legislação relativa a crimes de abuso de autoridade e atos de improbidade administrativa, julgue o item a\nseguir.\nAs ações de improbidade administrativa admitem a solução pela via consensual, sendo legalmente prevista a possibilidade de\ncelebração de acordo de não persecução cível.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1809,
+        "id_tec": "1790724",
+        "link": "www.tecconcursos.com.br/questoes/1790724",
+        "banca_orgao": "CEBRASPE (CESPE) - AFCA (SEFAZ AL)/SEFAZ AL/2021",
+        "materia": "Direito Digital",
+        "assunto": "Da Segurança e do Sigilo de Dados (arts. 46 a 49 da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Certo",
+        "comando": "Com relação às disposições da Lei Geral de Proteção de Dados (LGPD), à prevenção e ao tratamento de incidentes e à\ncertificação digital ICP-Brasil, julgue o item que se seguem.\nDe acordo com a LGPD, qualquer entidade que intervenha em uma das fases do tratamento de dados pessoais obriga-se a\ngarantir a segurança da informação desses dados, mesmo após o término do tratamento.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1021,
+        "id_tec": "1906174",
+        "link": "www.tecconcursos.com.br/questoes/1906174",
+        "banca_orgao": "CEBRASPE (CESPE) - APC (FUNPRESP-EXE)/FUNPRESP-EXE/Administrativa (Logistica, Recursos Humanos e",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Regime Disciplinar (arts. 116 a 142 da Lei nº",
+        "gabarito": "Errado",
+        "comando": "O item a seguir é apresentada uma situação hipotética seguida de uma assertiva a ser julgada a respeito de aspectos\nlegais a elas relacionados.\nUm gerente da FUNPRESP instou um servidor a atualizar os próprios dados cadastrais para que incluísse o endereço de novo\nimóvel que ele havia comprado em outro estado. Esse servidor, considerando-se ofendido e coagido a fazer isso, argumentou que\nessa era uma atribuição estranha a seu cargo e citou a seguinte proibição da Lei n.º 8.112/1990, para mostrar que o gerente\nestava errado: “cometer a outro servidor atribuições estranhas ao cargo que ocupa...”. Nessa situação, o servidor estava correto\nno entendimento da citada lei e pode recusar-se a informar ao órgão a compra do referido imóvel.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1022,
+        "id_tec": "1906175",
+        "link": "www.tecconcursos.com.br/questoes/1906175",
+        "banca_orgao": "CEBRASPE (CESPE) - APC (FUNPRESP-EXE)/FUNPRESP-EXE/Administrativa (Logistica, Recursos Humanos e",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Regime Disciplinar (arts. 116 a 142 da Lei nº",
+        "gabarito": "Certo",
+        "comando": "O item a seguir é apresentada uma situação hipotética seguida de uma assertiva a ser julgada a respeito de aspectos\nlegais a elas relacionados.\nUm servidor público efetivo que cometeu falta grave no órgão em que trabalhava e se aposentou antes da decisão administrativa\nfinal sobre seu processo poderá ter cassada a aposentadoria em caso de condenação com pena de demissão.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1023,
+        "id_tec": "1906176",
+        "link": "www.tecconcursos.com.br/questoes/1906176",
+        "banca_orgao": "CEBRASPE (CESPE) - APC (FUNPRESP-EXE)/FUNPRESP-EXE/Administrativa (Logistica, Recursos Humanos e",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Regime Disciplinar (arts. 116 a 142 da Lei nº",
+        "gabarito": "Errado",
+        "comando": "O item a seguir é apresentada uma situação hipotética seguida de uma assertiva a ser julgada a respeito de aspectos\nlegais a elas relacionados.\nUma analista de previdência complementar, a fim de manifestar seu apreço por uma amiga recém-admitida na FUNPRESP, realiza\nreunião com a equipe para discursar sobre as qualidades da nova servidora e comentar como esta poderá contribuir para\nmelhorar o clima organizacional da área. A reunião promovida pela analista tem respaldo na Lei n.º 8.112/1990 e outras com a\nmesma finalidade podem ser incentivadas para o alcance de resultados organizacionais mais expressivos.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 831,
+        "id_tec": "1906178",
+        "link": "www.tecconcursos.com.br/questoes/1906178",
+        "banca_orgao": "CEBRASPE (CESPE) - APC (FUNPRESP-EXE)/FUNPRESP-EXE/Administrativa (Logistica, Recursos Humanos e",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Funções, Cargos e Empregos Públicos",
+        "gabarito": "Errado",
+        "comando": "O item a seguir é apresentada uma situação hipotética seguida de uma assertiva a ser julgada a respeito de aspectos legais\na elas relacionados.\nUm analista da Previdência Complementar da área administrativa que trabalha na área de recursos humanos da FUNPRESP está\ncom a atribuição de prover uma função gratificada de nível 4 dos cargos em comissão do Grupo-Direção e Assessoramento\nSuperiores – DAS, por meio de cessão ou requisição e, tendo dúvidas com relação à diferença entre os dois tipos de ato de\nprovimento, recebe a seguinte explicação de um colega de trabalho: “uma das diferenças entre tais atos é que a requisição exige\na concordância do órgão cedente, e a cessão é ato irrecusável”. De acordo com a legislação pertinente ao assunto, a explicação\ndada por esse colega está correta.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 832,
+        "id_tec": "1906179",
+        "link": "www.tecconcursos.com.br/questoes/1906179",
+        "banca_orgao": "CEBRASPE (CESPE) - APC (FUNPRESP-EXE)/FUNPRESP-EXE/Administrativa (Logistica, Recursos Humanos e",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Funções, Cargos e Empregos Públicos",
+        "gabarito": "Errado",
+        "comando": "O item a seguir é apresentada uma situação hipotética seguida de uma assertiva a ser julgada a respeito de aspectos legais\na elas relacionados.\nUma empregada da Caixa Econômica Federal foi cedida ao Ministério da Economia, por solicitação desse Ministério, para exercer o\ncargo de nível 3 do Grupo-Direção e Assessoramento Superiores – DAS.\nO reembolso pela cessão dessa empregada será pago pelo Ministério da Economia, em conformidade com a Portaria n.º 357/2019\nda Secretaria Especial de Desburocratização, Gestão e Governo Digital desse Ministério.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1233,
+        "id_tec": "2102598",
+        "link": "www.tecconcursos.com.br/questoes/2102598",
+        "banca_orgao": "CEBRASPE (CESPE) - Proc DF/PG DF/2022",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Procedimento Administrativo e do Processo Judicial (arts.",
+        "gabarito": "Certo",
+        "comando": "Em cada um do item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada a respeito do\nprocesso coletivo e da ação de desapropriação.\nO Ministério Público de determinado estado propôs ação de improbidade administrativa em decorrência de atos supostamente\npraticados pelo secretário de educação daquele estado. Após a instrução processual, identificou-se a ausência dos requisitos para\no processamento da ação de improbidade administrativa, mas verificou-se a presença dos pressupostos para o processamento de\nação civil pública. Nessa situação, o juiz da causa poderá, de ofício, converter a ação de improbidade administrativa em ação civil\npública.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1287,
+        "id_tec": "2341873",
+        "link": "www.tecconcursos.com.br/questoes/2341873",
+        "banca_orgao": "CEBRASPE (CESPE) - Aux Per (POLC AL)/POLC AL/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº",
+        "gabarito": "Errado",
+        "comando": "No que se refere a improbidade administrativa e processo administrativo, julgue o item subsequente.\nDe acordo com a lei, o processo administrativo pode iniciar-se a pedido do interessado, desde que apresentado por escrito.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 307,
+        "id_tec": "2395872",
+        "link": "www.tecconcursos.com.br/questoes/2395872",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Apoio Especializado/Administração/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Administração Direta (Órgãos Públicos)",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito à organização administrativa e à administração direta e indireta, julgue o item a seguir.\nDe acordo com a jurisprudência do STJ, no âmbito do direito administrativo, aplica-se a teoria da representação, segundo a qual o\nagente que manifesta a vontade do Estado o faz como seu representante legal.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 188,
+        "id_tec": "2423851",
+        "link": "www.tecconcursos.com.br/questoes/2423851",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (CNMP)/CNMP/Apoio Técnico Administrativo/Administração/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Poder Hierárquico",
+        "gabarito": "Errado",
+        "comando": "Determinado órgão do Ministério Público da União (MPU) decidiu contratar empresa para a realização de serviço cujo valor\ntotal envolvido era de R$ 45.000. Ticiano, servidor responsável pela execução do contrato, resolveu realizar a contratação direta,\npor entender que era cabível licitação dispensável no caso. Entretanto, Maria, chefe de Ticiano, determinou que a contratação\nfosse efetivada por inexigibilidade. Por sua vez, Ticiano informou que não iria cumprir a determinação superior por considerar a\nordem ilegal.\nAo descumprir uma ordem advinda do seu superior, Ticiano afrontou o poder administrativo hierárquico.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1289,
+        "id_tec": "2423852",
+        "link": "www.tecconcursos.com.br/questoes/2423852",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (CNMP)/CNMP/Apoio Técnico Administrativo/Administração/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Trâmite do Processo (arts. 5º a 10 e 29 a 50 da Lei nº",
+        "gabarito": "Certo",
+        "comando": "Determinado órgão do Ministério Público da União (MPU) decidiu contratar empresa para a realização de serviço cujo valor\ntotal envolvido era de R$ 45.000. Ticiano, servidor responsável pela execução do contrato, resolveu realizar a contratação direta,\npor entender que era cabível licitação dispensável no caso. Entretanto, Maria, chefe de Ticiano, determinou que a contratação\nfosse efetivada por inexigibilidade. Por sua vez, Ticiano informou que não iria cumprir a determinação superior por considerar a\nordem ilegal.\nSegundo a Lei n.º 9.784/1999, os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos\njurídicos, quando dispensem ou declarem a inexigibilidade de processo licitatório.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1012,
+        "id_tec": "2423853",
+        "link": "www.tecconcursos.com.br/questoes/2423853",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (CNMP)/CNMP/Apoio Técnico Administrativo/Administração/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Regime Disciplinar (arts. 116 a 142 da Lei nº",
+        "gabarito": "Errado",
+        "comando": "Determinado órgão do Ministério Público da União (MPU) decidiu contratar empresa para a realização de serviço cujo valor\ntotal envolvido era de R$ 45.000. Ticiano, servidor responsável pela execução do contrato, resolveu realizar a contratação direta,\npor entender que era cabível licitação dispensável no caso. Entretanto, Maria, chefe de Ticiano, determinou que a contratação\nfosse efetivada por inexigibilidade. Por sua vez, Ticiano informou que não iria cumprir a determinação superior por considerar a\nordem ilegal.\nDe acordo com o regime jurídico dos servidores públicos civis da União, as ordens superiores, mesmo quando manifestamente\nilegais, devem ser cumpridas.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1186,
+        "id_tec": "2601521",
+        "link": "www.tecconcursos.com.br/questoes/2601521",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (FUB)/FUB/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº",
+        "gabarito": "Errado",
+        "comando": "O item subsequente, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada, acerca dos atos de\nimprobidade administrativa.\nJudi, servidora pública, pediu ao motorista do setor onde ela trabalha que buscasse, no horário do almoço e no carro oficial do\nórgão, seu animal de estimação no pet shop e o deixasse na casa dela, pois estava em reunião e, por essa razão, não poderia\nbuscá-lo. Tal ação foi autorizada por Fidelis, superior hierárquico de Judi, e executada pelo motorista. Nessa situação, Judi não\npoderá responder pela prática de ato de improbidade administrativa, já que teve autorização de Fidelis, de modo que apenas ele\npoderá receber as cominações previstas para a prática de ato de improbidade.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 815,
+        "id_tec": "2601522",
+        "link": "www.tecconcursos.com.br/questoes/2601522",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (FUB)/FUB/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Classificação dos Agentes Públicos",
+        "gabarito": "Errado",
+        "comando": "O item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada, acerca das regras do\nprocesso administrativo no âmbito da administração pública federal.\nJuarez, inscrito em concurso público de provas e títulos, falsificou diplomas de pós-graduação e os apresentou como títulos a fim\nde se classificar dentro do número de vagas previsto no edital de abertura do certame. Um ano depois de sua posse no cargo\npúblico objeto do concurso, a fraude foi descoberta pela administração pública. Respeitado o devido processo legal, sua\nnomeação e posse foram consideradas nulas por conter vício insanável e, consequentemente, Juarez foi exonerado. Dias antes de\nsua exoneração, Juarez emitiu certidões negativas de tributos para Cleber, mesmo não sendo essa sua atribuição, porque o\nresponsável por tais emissões no órgão encontrava-se afastado para tratamento médico. Nessa situação, Cleber deverá solicitar a\nemissão de novas certidões válidas, em razão de os atos praticados por Juarez serem nulos e sua exoneração operar efeitos\nretroativos, o que desfaz as relações resultantes de tais atos.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1377,
+        "id_tec": "2601523",
+        "link": "www.tecconcursos.com.br/questoes/2601523",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (FUB)/FUB/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Da Anulação, Revogação e Convalidação (arts. 53 a 55 da",
+        "gabarito": "Certo",
+        "comando": "O item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada, acerca das regras do\nprocesso administrativo no âmbito da administração pública federal.\nAntônio, viúvo e pensionista há mais de dez anos, foi surpreendido ao receber uma correspondência do órgão em que sua finada\nesposa trabalhava, informando-lhe que, após sindicância administrativa, apurou-se que ele recebia, desde o óbito da esposa, um\nadicional à pensão por morte a que não fazia jus. O órgão público, além de excluir o benefício de seu contracheque, ainda\nrequereu a devolução aos cofres públicos do valor pago, tido por indevido, com a devida correção monetária, alegando que a\nadministração deve anular seus próprios atos quando eivados de vício de legalidade e que pode revogá-los por motivo de\nconveniência ou oportunidade, respeitados os direitos adquiridos. Antônio, usando seu direito de resposta, alegou decadência do\nato administrativo relativo à pensão por morte e requereu a anulação do ato administrativo e o restabelecimento da pensão no\nvalor anterior à revisão, acrescido dos consectários legais. Nessa situação, o pedido de Antônio deverá ser deferido, pois se trata\nde hipótese de convalidação por decurso de prazo, decorrente de omissão da administração.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 874,
+        "id_tec": "2603838",
+        "link": "www.tecconcursos.com.br/questoes/2603838",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (FUB)/FUB/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Estabilidade e Estágio Probatório",
+        "gabarito": "Errado",
+        "comando": "O item que se segue, é apresentada uma situação hipotética acerca das disposições gerais dos servidores públicos, seguida\nde uma assertiva a ser julgada.\nJonathan, servidor público que se encontra cumprindo estágio probatório, discutiu no local de trabalho com o colega Aquiles,\nservidor público em exercício há mais de vinte anos, o que resultou em ofensa física recíproca. Nessa situação, Aquiles não pode\nser exonerado sem as formalidades legais, garantia que não protege Jonathan, que pode ser exonerado por razões de\nconveniência e oportunidade da administração pública.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 816,
+        "id_tec": "2603839",
+        "link": "www.tecconcursos.com.br/questoes/2603839",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (FUB)/FUB/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Classificação dos Agentes Públicos",
+        "gabarito": "Certo",
+        "comando": "O item que se segue, é apresentada uma situação hipotética acerca das disposições gerais dos servidores públicos, seguida\nde uma assertiva a ser julgada.\nJoana, servidora pública e diretora de escola da rede pública, e Pedro, tenente da polícia militar, desenvolveram um programa de\ncombate às drogas nas escolas e na comunidade onde exercem suas funções. Joana e Pedro foram condecorados com medalha\nde honra pelo governador, que, em solenidade, referiu-se à servidora e ao militar como agentes públicos. Nesse caso, está correta\na afirmação do governador a respeito de Joana e Pedro serem agentes públicos.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1745,
+        "id_tec": "2637345",
+        "link": "www.tecconcursos.com.br/questoes/2637345",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Proc (DATAPREV)/DATAPREV/2023",
+        "materia": "Direito Digital",
+        "assunto": "Do Tratamento de Dados Pessoais de Crianças e de Adolescentes (art. 14 da Lei nº",
+        "gabarito": "Certo",
+        "comando": "Considerando o disposto na legislação referente à segurança da informação e à proteção de dados, julgue o item a seguir.\nDe acordo com a Lei Geral de Proteção de Dados Pessoais, o tratamento de dados pessoais de crianças deverá ser realizado com\no consentimento específico de um dos pais ou responsável legal, devendo o controlador realizar todos os esforços razoáveis,\nconsideradas as tecnologias disponíveis, para verificar que o consentimento foi dado pelo responsável pela criança.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1523,
+        "id_tec": "2637622",
+        "link": "www.tecconcursos.com.br/questoes/2637622",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (DATAPREV)/DATAPREV/Advocacia/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da",
+        "gabarito": "Certo",
+        "comando": "A respeito do Sistema de Controle Interno do Poder Executivo Federal — Decreto n.º 3.591/2000 —, do regime\ndiferenciado de contratações públicas (RDC) — Lei n.º 12.462/2011 — e das disposições da Lei de Acesso à Informação — Lei n.º\n12.527/2011 —, julgue o item a seguir.\nCaso um requerimento de acesso a informação seja indeferido, a decisão será passível de recurso, a ser dirigido à autoridade\nhierarquicamente superior ao agente que indeferiu o pedido, de acordo com a Lei de Acesso à Informação.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1763,
+        "id_tec": "2637629",
+        "link": "www.tecconcursos.com.br/questoes/2637629",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana TI (DATAPREV)/DATAPREV/Advocacia/2023",
+        "materia": "Direito Digital",
+        "assunto": "Dos Direitos do Titular (arts. 17 a 22 da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Certo",
+        "comando": "No que concerne à Lei Geral de Proteção de Dados (LGPD) e às diretrizes da Secretaria de Coordenação e Governança das\nEmpresas Estatais (SEST), julgue o item a seguir.\nDe acordo com a LGPD, o titular de dados pessoais pode exigir do controlador a eliminação de dados desnecessários ou\nexcessivos para determinado tratamento.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1528,
+        "id_tec": "2716742",
+        "link": "www.tecconcursos.com.br/questoes/2716742",
+        "banca_orgao": "CEBRASPE (CESPE) - ACE (TC DF)/TC DF/Especializada/Sistemas de TI/2023",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da",
+        "gabarito": "Errado",
+        "comando": "Julgue o item que se segue, relativo à NBR ISO/IEC n.º 38500:2015 e à Lei n.º 12.527/2011 (Lei de Acesso à\nInformação).\nDe acordo com Lei de Acesso à Informação, desde que atendidas as exigências relativas aos motivos determinantes da solicitação\nde informações de interesse público, qualquer interessado poderá apresentar pedido de acesso a informações aos órgãos e\nentidades do poder público.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 343,
+        "id_tec": "2780274",
+        "link": "www.tecconcursos.com.br/questoes/2780274",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana (CAU BR)/CAU BR/Infraestrutura de Tecnologia da Informação/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Administração Indireta",
+        "gabarito": "Errado",
+        "comando": "Determinada autarquia federal pretende firmar contrato administrativo para a contratação de estudo e serviços técnicos de\narquitetura especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização.\nAutarquia é órgão público despersonalizado que integra a administração pública indireta.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 1159,
+        "id_tec": "2846426",
+        "link": "www.tecconcursos.com.br/questoes/2846426",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec Min (MPE TO)/MPE TO/Especializado/Fotografia/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Dos Atos de Improbidade (arts. 9º a 11 da Lei nº",
+        "gabarito": "Certo",
+        "comando": "No que se refere aos princípios, aos poderes e à responsabilidade da administração pública, à improbidade administrativa\ne ao disposto na nova Lei de Licitações e Contratos Administrativos (Lei n.º 14.133/2021), julgue o item a seguir.\nAlém de ser considerado crime de acordo com a nova Lei de Licitações e Contratos Administrativos, o recebimento de vantagem\neconômica para facilitar a aquisição de bem por preço superior ao valor de mercado também configura improbidade\nadministrativa.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1509,
+        "id_tec": "2877668",
+        "link": "www.tecconcursos.com.br/questoes/2877668",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana CT (CAPES)/CAPES/Informática/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da",
+        "gabarito": "Errado",
+        "comando": "Julgue o item seguinte, a respeito das Leis n.º 12.527/2011 (Lei de Acesso à Informação – LAI), n.º 12.737/2012 (Lei de\nDelitos Informáticos), n.º 12.965/2014 (Marco Civil da Internet), n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais –\nLGPD) e do Decreto n.º 7.845/2012.\nDe acordo com a LAI, são requisitos indispensáveis para o acesso às informações de interesse público a identificação do\nrequerente, a descrição dos motivos determinantes da solicitação e a especificação da informação requerida.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1733,
+        "id_tec": "2877669",
+        "link": "www.tecconcursos.com.br/questoes/2877669",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana CT (CAPES)/CAPES/Informática/2024",
+        "materia": "Direito Digital",
+        "assunto": "Do Tratamento de Dados Pessoais Sensíveis (arts. 11 a 13 da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Certo",
+        "comando": "Julgue o item seguinte, a respeito das Leis n.º 12.527/2011 (Lei de Acesso à Informação – LAI), n.º 12.737/2012 (Lei de\nDelitos Informáticos), n.º 12.965/2014 (Marco Civil da Internet), n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais –\nLGPD) e do Decreto n.º 7.845/2012.\nDe acordo com a LGPD, o tratamento de dados pessoais sensíveis, quando for indispensável para o cumprimento de obrigação\nlegal pelo controlador, poderá ocorrer sem o consentimento do titular ou responsável legal pelos dados.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 630,
+        "id_tec": "2935665",
+        "link": "www.tecconcursos.com.br/questoes/2935665",
+        "banca_orgao": "CEBRASPE (CESPE) - Ap Leg (CM Maceió)/CM Maceió/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Controle da Administração: Conceitos, Princípios,",
+        "gabarito": "Certo",
+        "comando": "Julgue o item a seguir, referente ao conceito, aos tipos e às formas de controle.\nO controle pode ser administrativo, legislativo ou judiciário, de acordo com o órgão que o exerça.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1510,
+        "id_tec": "2983358",
+        "link": "www.tecconcursos.com.br/questoes/2983358",
+        "banca_orgao": "CEBRASPE (CESPE) - Aud Fis (Pref Cach Itapemirim)/Pref Cach Itapemirim/Posturas/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Procedimento de Acesso à Informação (arts. 10 a 20 da",
+        "gabarito": "Errado",
+        "comando": "Julgue o item subsequente, que tratam de consórcios públicos, conselhos, elaboração de projetos, Lei de Acesso à\nInformação e Lei da Transparência.\nDe acordo com a Lei de Acesso à Informação, as informações que se encontrarem disponíveis ao público em formato impresso\ndeverão ser fornecidas diretamente pelo órgão ou entidade pública, obrigatoriamente.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1676,
+        "id_tec": "3008353",
+        "link": "www.tecconcursos.com.br/questoes/3008353",
+        "banca_orgao": "CEBRASPE (CESPE) - AGP (SEPLAG CE)/SEPLAG CE/Tecnologia da Informação/2024",
+        "materia": "Direito Digital",
+        "assunto": "Disposições Preliminares (arts. 1º a 6º da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Errado",
+        "comando": "Com base na Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), julgue o item a seguir.\nSegundo a LGPD, o tratamento de dados pessoais deve observar, entre outros, o princípio da finalidade, segundo o qual deve ser\natestada a compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1319,
+        "id_tec": "3041247",
+        "link": "www.tecconcursos.com.br/questoes/3041247",
+        "banca_orgao": "CEBRASPE (CESPE) - Proc Mun (PGM Mossoró)/Pref Mossoró/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Da Competência (arts. 11 a 17 da Lei nº 9.784/1999)",
+        "gabarito": "Errado",
+        "comando": "Julgue o item a seguir, acerca da administração pública, do regime jurídico- administrativo, da organização administrativa,\ndos atos administrativos, do processo administrativo, dos serviços públicos e da intervenção do Estado na propriedade.\nDe acordo com entendimento sumulado do STF, considera-se que quem pratica o ato administrativo no exercício de competência\ndelegada é a autoridade delegante, razão pela qual contra ele cabe mandado de segurança ou medida judicial.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1471,
+        "id_tec": "3078718",
+        "link": "www.tecconcursos.com.br/questoes/3078718",
+        "banca_orgao": "CEBRASPE (CESPE) - ACE (TCE AC)/TCE AC/Administração/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Acesso a Informações e da sua Divulgação (arts. 6º a 9º",
+        "gabarito": "Certo",
+        "comando": "Considerando a Lei de Acesso à Informação (LAI) e a Lei da Transparência, julgue o item a seguir.\nDe acordo com o disposto na Lei da Transparência, o acesso a informações sobre despesas públicas é assegurado tanto a pessoas\nfísicas quanto a jurídicas.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1752,
+        "id_tec": "3102205",
+        "link": "www.tecconcursos.com.br/questoes/3102205",
+        "banca_orgao": "CEBRASPE (CESPE) - ERSPT (ANATEL)/ANATEL/Ciência de Dados/2024",
+        "materia": "Direito Digital",
+        "assunto": "Do Término do Tratamento de Dados (arts. 15 a 16 da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Errado",
+        "comando": "Em relação ao tratamento e à qualidade dos dados no sistema de gerenciamento de informações, julgue o item\nsubsequente.\nDe acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), os dados pessoais devem ser retidos por um período de cinco\nanos, mesmo após a conclusão do seu processamento, desde que sejam cumpridos os limites técnicos das atividades em questão.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 589,
+        "id_tec": "3103043",
+        "link": "www.tecconcursos.com.br/questoes/3103043",
+        "banca_orgao": "CEBRASPE (CESPE) - ERSPT (ANATEL)/ANATEL/Direito/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Responsabilidade Civil por Atos Omissivos",
+        "gabarito": "Errado",
+        "comando": "Acerca da responsabilidade civil do Estado, julgue o item seguinte.\nDe acordo com a posição consensual da doutrina administrativista, a responsabilidade do Estado por ato omissivo depende da\ndemonstração de culpa.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 960,
+        "id_tec": "3206672",
+        "link": "www.tecconcursos.com.br/questoes/3206672",
+        "banca_orgao": "CEBRASPE (CESPE) - TJ TSE/TSE/Administrativa/Agente da Policia Judicial/2024",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Das Licenças, Afastamentos e Concessões (arts. 81 a 99 da",
+        "gabarito": "Errado",
+        "comando": "No que diz respeito a agentes públicos, julgue o item a seguir, considerando as disposições legais e o entendimento\njurisprudencial do Supremo Tribunal Federal (STF).\nDe acordo com a legislação pertinente, a licença-paternidade do servidor público federal tem duração máxima de 15 dias.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1546,
+        "id_tec": "3238127",
+        "link": "www.tecconcursos.com.br/questoes/3238127",
+        "banca_orgao": "CEBRASPE (CESPE) - AAAPC (PC DF)/PC DF/Agente Administrativo/2025",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei",
+        "gabarito": "Errado",
+        "comando": "No que se refere à preservação, à conservação e ao acesso a documentos de arquivo, julgue o item a seguir.\nDe acordo com a legislação em vigor, os documentos públicos podem ser classificados, quanto ao grau de sigilo, em reservados,\nconfidenciais, secretos ou ultrassecretos.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1688,
+        "id_tec": "3259937",
+        "link": "www.tecconcursos.com.br/questoes/3259937",
+        "banca_orgao": "CEBRASPE (CESPE) - TJ TRF6/TRF 6/Apoio Especializado/Desenvolvimento de Sistemas de Informação/2025",
+        "materia": "Direito Digital",
+        "assunto": "Dos Requisitos para o Tratamento de Dados Pessoais (arts. 7º a 10 da Lei nº 13.709/2018 -",
+        "gabarito": "Certo",
+        "comando": "Acerca de gestão de riscos e continuidade de negócio, julgue o item a seguir, com base na NBR ISO 27005:2019 e na Lei\nGeral de Proteção de Dados (LGPD).\nDe acordo com a LGPD, o consentimento para tratamento de dados pessoais pode ser revogado a qualquer momento mediante\nmanifestação expressa do titular, por procedimento gratuito e facilitado, ratificados os tratamentos realizados sob amparo do\nconsentimento anteriormente manifestado enquanto não houver requerimento de eliminação dos dados.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 984,
+        "id_tec": "3345001",
+        "link": "www.tecconcursos.com.br/questoes/3345001",
+        "banca_orgao": "CEBRASPE (CESPE) - AAmb (ICMBio)/ICMBio/2025",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Do Regime Disciplinar (arts. 116 a 142 da Lei nº",
+        "gabarito": "Certo",
+        "comando": "Caio, servidor público federal, mantinha sob sua chefia imediata sua irmã Maria, que ocupava cargo de confiança. O chefe\nda repartição, ao tomar conhecimento da situação, instaurou processo administrativo disciplinar para apurar a conduta de Caio,\nconcedendo-lhe ampla defesa e contraditório. Ao final do processo, o chefe da repartição proferiu decisão aplicando a Caio pena\ndisciplinar de advertência, tendo indicado os pressupostos de fato, porém deixado de indicar os pressupostos de direito que\nensejaram a sua decisão. Caio interpôs recurso contra a decisão citada, requerendo a sua nulidade tanto por ausência de\ncompetência do chefe de repartição quanto por ausência de motivação explícita do ato por este praticado.\nA partir da situação hipotética apresentada, julgue o item a seguir.\nFoi correta a penalidade disciplinar aplicada a Caio, uma vez que a conduta de manter sua irmã em cargo de confiança sob sua\nchefia imediata deve, de acordo com a lei, ensejar ao servidor pena de advertência.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1642,
+        "id_tec": "3422380",
+        "link": "www.tecconcursos.com.br/questoes/3422380",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (EMBRAPA)/EMBRAPA/Gestão da Informação/Tecnologia da Informação/2025",
+        "materia": "Direito Digital",
+        "assunto": "Disposições Preliminares (arts. 1º a 6º da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Errado",
+        "comando": "Julgue o item a seguir, com base na Lei Geral de Proteção de Dados Pessoais (LGPD), na Lei de Acesso à Informação e no\nMarco Civil da Internet.\nDe acordo com a LGPD, CPF e data de nascimento são dados pessoais sensíveis.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1725,
+        "id_tec": "3455528",
+        "link": "www.tecconcursos.com.br/questoes/3455528",
+        "banca_orgao": "CEBRASPE (CESPE) - Ana Tec (SUSEP)/SUSEP/Tecnologia da Informação e Ciência de Dados/2025",
+        "materia": "Direito Digital",
+        "assunto": "Do Tratamento de Dados Pessoais Sensíveis (arts. 11 a 13 da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Certo",
+        "comando": "Julgue o item subsequente, relativo a CIS controls, assinatura e certificação digital, segurança em nuvens e ao que dispõe\na Lei Geral de Proteção de Dados Pessoais (LGPD).\nDe acordo com a LGPD, o tratamento de dados pessoais sensíveis pode ser realizado sem o consentimento do titular, quando o\ntratamento for necessário para o cumprimento de obrigação legal ou regulatória pelo controlador.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 336,
+        "id_tec": "3501297",
+        "link": "www.tecconcursos.com.br/questoes/3501297",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (FUB)/FUB/Laboratório/Análise Clínica/2025",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Administração Indireta",
+        "gabarito": "Errado",
+        "comando": "Com base no que a CF dispõe acerca da administração pública e dos servidores públicos, julgue o item a seguir\nA criação de fundação pública deve ser feita mediante lei, cabendo a lei complementar a definição das áreas de sua atuação.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 901,
+        "id_tec": "3501302",
+        "link": "www.tecconcursos.com.br/questoes/3501302",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec (FUB)/FUB/Laboratório/Análise Clínica/2025",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Regime Previdenciário (Aposentadoria, Pensão, RPPS)",
+        "gabarito": "Errado",
+        "comando": "Com base no que a CF dispõe acerca da administração pública e dos servidores públicos, julgue o item a seguir\nOs servidores efetivos ocupantes de cargo em comissão sujeitam-se ao Regime Geral de Previdência Social.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1562,
+        "id_tec": "3514402",
+        "link": "www.tecconcursos.com.br/questoes/3514402",
+        "banca_orgao": "CEBRASPE (CESPE) - Ass AF (CAU MG)/CAU MG/2025",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Das Restrições de Acesso à Informação (arts. 21 a 31 da Lei",
+        "gabarito": "Errado",
+        "comando": "No que se refere a preservação digital, acesso à informação e proteção de dados pessoais, julgue o item seguinte.\nDe acordo com a Lei de Acesso à Informação, o período de restrição de acesso a documentos confidenciais é de cinco anos.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1098,
+        "id_tec": "3545522",
+        "link": "www.tecconcursos.com.br/questoes/3545522",
+        "banca_orgao": "CEBRASPE (CESPE) - DPF/PF/2025",
+        "materia": "Direito Administrativo (Doutrina e Leis Federais)",
+        "assunto": "Das Disposições Gerais (arts. 1º a 8º-A da Lei nº",
+        "gabarito": "Errado",
+        "comando": "Com fundamento na Lei de Improbidade Administrativa (Lei n.º 8.429/1992), julgue o item subsequente.\nAquele que, não sendo agente público, concorrer dolosamente para a prática de ato de improbidade não estará sujeito às\ndisposições da Lei de Improbidade Administrativa e deverá responder por seus atos de acordo com a legislação penal comum.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 1797,
+        "id_tec": "3597886",
+        "link": "www.tecconcursos.com.br/questoes/3597886",
+        "banca_orgao": "CEBRASPE (CESPE) - AJ (TJ PA)/TJ PA/Análise de Sistemas/2025",
+        "materia": "Direito Digital",
+        "assunto": "Do Encarregado pelo Tratamento de Dados Pessoais (art. 41 da Lei nº 13.709/2018 - LGPD)",
+        "gabarito": "Errado",
+        "comando": "A respeito da proteção de dados pessoais no Brasil, dos grandes modelos de linguagem (LLMs) e do uso de redes neurais\nno setor jurídico, julgue o item que se segue.\nDe acordo com a Lei Geral de Proteção de Dados Pessoais,no contexto de um sistema informatizado de um órgão público, é\natribuição do encarregado de dados tomar decisões referentes ao tratamento de dados pessoais, a exemplo da definição das\nfinalidades do respectivo tratamento.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    }
+]
