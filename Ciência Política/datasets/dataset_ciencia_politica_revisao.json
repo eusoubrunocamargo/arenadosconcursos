@@ -1,0 +1,242 @@
+[
+    {
+        "numero": 524,
+        "id_tec": "17854",
+        "link": "www.tecconcursos.com.br/questoes/17854",
+        "banca_orgao": "CEBRASPE (CESPE) - CL (SEN)/SEN/Assessoramento Legislativo/Direitos Humanos e Cidadania/2002",
+        "materia": "Ciências Políticas",
+        "assunto": "Agentes em PP's: Executivo, Legislativo, Setor Privado. Lobby, Advocacy e Grupos de",
+        "gabarito": "Errado",
+        "comando": "No que se refere ao Poder Legislativo, julgue o item a seguir.\nComo todo e qualquer indivíduo, o parlamentar procura decidir de acordo com os seus próprios interesses e, portanto, de acordo\ncom o maior valor prezado por uma sociedade, que é o bem comum.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 201,
+        "id_tec": "17889",
+        "link": "www.tecconcursos.com.br/questoes/17889",
+        "banca_orgao": "CEBRASPE (CESPE) - CL (SEN)/SEN/Assessoramento Legislativo/Direitos Humanos e Cidadania/2002",
+        "materia": "Ciências Políticas",
+        "assunto": "Conceitos de Ciências Políticas",
+        "gabarito": "Certo",
+        "comando": "Da definição clássica de Aristóteles, depreende-se a tipologia de regimes políticos que distingue a monarquia da aristocracia e da\ndemocracia. A cada uma dessas correspondiam os problemas de tirania, oligarquia e demagogia. A grande dificuldade é saber\ncomo os recursos são distribuídos, se em benefício de todos ou apenas em benefício dos detentores do poder.\nNo que se refere aos regimes políticos, julgue o item abaixo.\nO regime político atual reflete uma sociedade altamente desigual, em que os recursos escassos são distribuídos de acordo com o\npoder político e econômico de cada segmento social.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 761,
+        "id_tec": "295083",
+        "link": "www.tecconcursos.com.br/questoes/295083",
+        "banca_orgao": "CEBRASPE (CESPE) - Diplomata/IRBr/2015",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Questões Mescladas de Organização dos Poderes (arts. 44 a 135",
+        "gabarito": "Certo",
+        "comando": "No que diz respeito à organização dos poderes, ao princípio da legalidade e ao controle dos atos administrativos, julgue (C\nou E) o seguinte item.\nApesar de a Constituição Federal de 1988 reservar a primazia da função legislativa ao Poder Legislativo, ela não lhe concedeu o\nmonopólio dessa função, tendo sido estabelecidas outras fontes normativas primárias tanto no Executivo quanto no Judiciário.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 709,
+        "id_tec": "684188",
+        "link": "www.tecconcursos.com.br/questoes/684188",
+        "banca_orgao": "CEBRASPE (CESPE) - DPF/PF/2018",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Partidos Políticos (art. 17 da CF/1988)",
+        "gabarito": "Certo",
+        "comando": "A respeito dos direitos fundamentais e do controle de constitucionalidade, julgue o item que se segue.\nDe acordo com o STF, é inconstitucional proibir que emissoras de rádio e TV difundam áudios ou vídeos que ridicularizem\ncandidato ou partido político durante o período eleitoral.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 744,
+        "id_tec": "693364",
+        "link": "www.tecconcursos.com.br/questoes/693364",
+        "banca_orgao": "CEBRASPE (CESPE) - Diplomata/IRBr/2018",
+        "materia": "Direito Constitucional (CF/1988 e Doutrina)",
+        "assunto": "Da Organização Político-Administrativa (arts. 18 e 19 da",
+        "gabarito": "Errado",
+        "comando": "Considerando a ordem constitucional brasileira, julgue (C ou E) o item seguinte.\nA organização político-administrativa da República Federativa do Brasil compreende a União, os estados, o Distrito Federal, os\nmunicípios e os territórios, todos entes federativos autônomos dotados de capacidade de autogoverno e autoadministração.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 608,
+        "id_tec": "1575046",
+        "link": "www.tecconcursos.com.br/questoes/1575046",
+        "banca_orgao": "CEBRASPE (CESPE) - EEPG (IJSN)/IJSN/Ciências Sociais/2010",
+        "materia": "Ciências Sociais",
+        "assunto": "Conceito de Estado",
+        "gabarito": "Errado",
+        "comando": "A respeito das ideias de Montesquieu acerca de política, julgue s item que se segue.\nA condição para o Estado de direito consiste na separação dos Poderes Executivo, Legislativo e Judiciário e na dependência entre\neles.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 556,
+        "id_tec": "1575048",
+        "link": "www.tecconcursos.com.br/questoes/1575048",
+        "banca_orgao": "CEBRASPE (CESPE) - EEPG (IJSN)/IJSN/Ciências Sociais/2010",
+        "materia": "Ciências Sociais",
+        "assunto": "A Política e o Poder",
+        "gabarito": "Certo",
+        "comando": "A respeito das ideias de Montesquieu acerca de política, julgue s item que se segue.\nA virtude, princípio de governo da república, concerne à supremacia do bem público em relação aos interesses particulares.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 593,
+        "id_tec": "1577122",
+        "link": "www.tecconcursos.com.br/questoes/1577122",
+        "banca_orgao": "CEBRASPE (CESPE) - PRF/PRF/2016",
+        "materia": "Ciências Sociais",
+        "assunto": "Conceito de Estado",
+        "gabarito": "Certo",
+        "comando": "No que se refere aos conceitos de sociedade e Estado, julgue o item que se segue.\nDe acordo com Noberto Bobbio, compete ao Estado intervir em conflitos sociais de caráter econômico, ideológico, social e\nreligioso, para atenuá-los ou, se possível, resolvê-los.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 539,
+        "id_tec": "2156762",
+        "link": "www.tecconcursos.com.br/questoes/2156762",
+        "banca_orgao": "CEBRASPE (CESPE) - Prof (SEE PE)/SEE PE/Sociologia/2022",
+        "materia": "Ciências Sociais",
+        "assunto": "A Política e o Poder",
+        "gabarito": "Certo",
+        "comando": "Conforme as competências específicas dispostas no Currículo de Pernambuco para a área de ciências humanas e sociais\naplicadas, espera-se que o estudante\nesteja apto a interpretar as relações de poder que determinam as territorialidades e o papel geopolítico dos Estados-nações.\nCerto\nErrado",
+        "enunciado": "[Enunciado não separado automaticamente]",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "FALHA_SEPARACAO"
+        ]
+    },
+    {
+        "numero": 251,
+        "id_tec": "2271433",
+        "link": "www.tecconcursos.com.br/questoes/2271433",
+        "banca_orgao": "CEBRASPE (CESPE) - APO (SEPLAN RR)/SEPLAN RR/Tecnologia da Informação/2023",
+        "materia": "Ciências Políticas",
+        "assunto": "Conceito de Políticas Públicas. Tipos de Políticas Públicas (Distributivas, Regulatórias, etc)",
+        "gabarito": "Certo",
+        "comando": "A participação da população nas decisões governamentais, traduzidas nas políticas públicas, é fundamental para a devida\nconsolidação da democracia, a transparência, a cidadania e o controle social. Acerca desse tema, julgue o item que se segue.\nO Programa Auxílio Brasil, que se caracteriza pelo pagamento de uma bolsa mensal (renda mínima), é um programa federal de\ntransferência direta de renda que integra benefícios de assistência social, saúde, educação e emprego, destinado às famílias em\nsituação de pobreza e de extrema pobreza. Logo, de acordo com a classificação da tipologia de Theodore Lowi, trata-se de uma\npolítica distributiva.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 594,
+        "id_tec": "2574892",
+        "link": "www.tecconcursos.com.br/questoes/2574892",
+        "banca_orgao": "CEBRASPE (CESPE) - Esp FEPPE (FNDE)/FNDE/2013",
+        "materia": "Ciências Sociais",
+        "assunto": "Conceito de Estado",
+        "gabarito": "Certo",
+        "comando": "Com relação às concepções de Estado, julgue o item a seguir.\nDe acordo com as teorias contratualistas de base liberal, a formação do Estado é resultado de um pacto estabelecido entre\nhomens.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 595,
+        "id_tec": "2574963",
+        "link": "www.tecconcursos.com.br/questoes/2574963",
+        "banca_orgao": "CEBRASPE (CESPE) - Tec FEPPE (FNDE)/FNDE/2013",
+        "materia": "Ciências Sociais",
+        "assunto": "Conceito de Estado",
+        "gabarito": "Errado",
+        "comando": "Julgue o item a seguir, relacionado a concepções, elementos constitutivos e funções do Estado.\nDe acordo com Durkheim, o Estado é um conjunto de instituições jurídico-políticas a serviço da classe dominante.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 383,
+        "id_tec": "2614766",
+        "link": "www.tecconcursos.com.br/questoes/2614766",
+        "banca_orgao": "CEBRASPE (CESPE) - TAE (MEC)/MEC/2023",
+        "materia": "Ciências Políticas",
+        "assunto": "Formação da Agenda e Formulação das Políticas Públicas. Modelos de Tomada de Decisão",
+        "gabarito": "Certo",
+        "comando": "Acerca do modelo de múltiplos fluxos, julgue o item a seguir.\nDe acordo com o referido modelo, políticas públicas constituem-se por processos que consistem na definição de uma agenda, no\nestabelecimento de alternativas, na escolha da alternativa dominante e na implementação da decisão.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 363,
+        "id_tec": "3008926",
+        "link": "www.tecconcursos.com.br/questoes/3008926",
+        "banca_orgao": "CEBRASPE (CESPE) - APO (SEPLAG CE)/SEPLAG CE/Planejamento e Orçamento Orientado para",
+        "materia": "Ciências Políticas",
+        "assunto": "Formação da Agenda e Formulação das Políticas Públicas. Modelos de Tomada de Decisão",
+        "gabarito": "Certo",
+        "comando": "No que se refere à transparência e à análise de políticas públicas, julgue o item a seguir.\nDe acordo com o modelo de análise de políticas públicas baseado na teoria do equilíbrio pontuado, processos políticos se\ncaracterizam principalmente por estabilidade e incrementalismo, porém ocasionalmente podem ser marcados por mudanças de\nlarga escala.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 285,
+        "id_tec": "3299716",
+        "link": "www.tecconcursos.com.br/questoes/3299716",
+        "banca_orgao": "CEBRASPE (CESPE) - ACP (EBC)/EBC/Ciências Sociais/2011",
+        "materia": "Ciências Políticas",
+        "assunto": "Conceito de Políticas Públicas. Tipos de Políticas Públicas (Distributivas, Regulatórias, etc)",
+        "gabarito": "Errado",
+        "comando": "Julgue o item seguinte, relativos a políticas regulatórias.\nO objetivo principal da teoria normativa da regulação é apresentar as formas mais eficientes de a economia regulamentar o\nEstado de acordo com situações específicas, buscando corrigir falhas da administração pública, notadamente o conluio e o\npeculato.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    },
+    {
+        "numero": 444,
+        "id_tec": "3329295",
+        "link": "www.tecconcursos.com.br/questoes/3329295",
+        "banca_orgao": "CEBRASPE (CESPE) - ACeT (MCTI)/MCTI/Gestão Administrativa/2012",
+        "materia": "Ciências Políticas",
+        "assunto": "Formação da Agenda e Formulação das Políticas Públicas. Modelos de Tomada de Decisão",
+        "gabarito": "Certo",
+        "comando": "Com relação aos modelos de tomada de decisão e ao neoinstitucionalismo, julgue o item seguinte.\nDe acordo com a teoria neoinstitucionalista, existem regras gerais e formas de entendimento predominantes em cada sociedade,\nas quais influenciam decisivamente sobre as formas de agir e de interpretar das pessoas.",
+        "enunciado": "Certo",
+        "qa_status": "REVISAR",
+        "qa_flags": [
+            "ENUNCIADO_MUITO_CURTO"
+        ]
+    }
+]
