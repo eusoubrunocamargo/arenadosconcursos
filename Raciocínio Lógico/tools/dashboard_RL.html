@@ -1,0 +1,143 @@
+
+    <!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dashboard de Revisão - Raciocínio Lógico</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+        
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>
+            window.MathJax = {
+                tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+            };
+        </script>
+
+        <style>
+            body { background-color: #f8f9fa; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+            .card-questao { border-radius: 10px; border: 1px solid #dee2e6; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 30px; background: #fff; }
+            .header-questao { background-color: #343a40; color: #fff; padding: 10px 20px; border-top-left-radius: 10px; border-top-right-radius: 10px; font-weight: bold; display: flex; justify-content: space-between; }
+            .badge-banca { background-color: #007bff; font-size: 0.8rem; }
+            .badge-gab { background-color: #28a745; font-size: 0.8rem; }
+            .badge-id { background-color: #6c757d; font-size: 0.8rem; }
+            .img-container { text-align: center; background-color: #e9ecef; padding: 15px; border-radius: 8px; margin: 15px 0; }
+            .img-questao { max-width: 100%; max-height: 400px; border: 1px solid #ccc; }
+            .comando { font-size: 1.1rem; color: #333; margin-bottom: 15px; }
+            .enunciado { font-size: 1.2rem; font-weight: bold; color: #000; padding: 15px; background-color: #f1f8ff; border-left: 5px solid #007bff; margin-bottom: 15px; }
+            .btn-action { width: 100%; font-weight: bold; }
+            #sticky-footer { position: fixed; bottom: 0; width: 100%; background: #343a40; color: white; padding: 10px; text-align: center; box-shadow: 0 -2px 10px rgba(0,0,0,0.2); z-index: 1000; }
+        </style>
+    </head>
+    <body>
+
+        <div class="container py-4">
+            <h1 class="text-center mb-4">🔬 Revisão Visual: Raciocínio Lógico (4 Questões)</h1>
+            <p class="text-center text-muted">Abaixo estão as questões que possuem imagens e fórmulas. Verifique se o texto e a imagem estão compreensíveis.</p>
+            
+            <div id="questoes-container"></div>
+        </div>
+
+        <div id="sticky-footer">
+            <span id="counter">Aprovadas: 0 | Reprovadas: 0 | Restantes: 4</span>
+            <button class="btn btn-success ms-4" onclick="exportarDados()">💾 Exportar Aprovadas (JSON)</button>
+        </div>
+
+        <script>
+            const questoes = [{"numero": 0, "id_tec": "2157251", "link": "www.tecconcursos.com.br/questoes/2157251", "banca_orgao": "CEBRASPE (CESPE) - ACP (MP TCE-SC)/TCE SC/Direito/2022", "materia": "Estatística", "assunto": "Média para Dados não Agrupados", "gabarito": "Errado", "comando": "Julgue o item seguinte, com base nas informações do cartaz precedente, que registra a promoção do dia em um estabelecimento comercial em que se vende açaí.", "enunciado": "Considerando-se a totalidade dos pedidos de açaí feitos ao longo de um dia, as informações presentes no cartaz permitem inferir que o preço médio pago pelos clientes é de R$ 12,00.", "has_latex": false, "image_url": "https://cdn.tecconcursos.com.br/figuras/f8734208-20eb-419e-bece-0105893a797a"}, {"numero": 0, "id_tec": "2813907", "link": "www.tecconcursos.com.br/questoes/2813907", "banca_orgao": "CEBRASPE (CESPE) - Vest (UnB)/UnB/Regular/2023", "materia": "Estatística", "assunto": "Média para Dados não Agrupados", "gabarito": "Errado", "comando": "No gráfico precedente, é apresentada a diferença entre a temperatura média do ano e a temperatura média histórica, em graus Celsius (ºC), no Brasil, para o período de 1987 até 2021. A reta inserida no gráfico indica a tendência dos dados. Considerando o gráfico e as informações precedentes, julgue o item a seguir.", "enunciado": "No período de 1998 até 2013, a média da sequência de dados no gráfico é inferior a 0,39.", "has_latex": false, "image_url": "https://cdn.tecconcursos.com.br/figuras/cde6d3ab-57a4-4625-b952-724bce389743"}, {"numero": 0, "id_tec": "2813947", "link": "www.tecconcursos.com.br/questoes/2813947", "banca_orgao": "CEBRASPE (CESPE) - Vest (UnB)/UnB/Regular/2023", "materia": "Estatística", "assunto": "Média para Dados não Agrupados", "gabarito": "Errado", "comando": "No gráfico precedente, cujos dados foram compilados pelos centros nacionais de informação ambiental dos Estados Unidos da América, são mostradas as anomalias de temperaturas registradas na América do Sul de 1982 até 2022, em intervalos de dois anos. Nele, observa-se clara tendência de aumento da temperatura no continente sul-americano ao longo dos anos, conforme a linha imaginária de tendências.\nCom base no gráfico e nas informações precedentes, julgue o próximo item.", "enunciado": "O aumento registrado entre a média aritmética dos cinco dados mais antigos da amostra (1982 a 1990) e os cinco dados mais recentes da amostra (2014 a 2022) é superior a 280%.", "has_latex": false, "image_url": "https://cdn.tecconcursos.com.br/figuras/e2b2fdfd-3edb-40e6-b794-f2163bffb02e"}, {"numero": 0, "id_tec": "2813950", "link": "www.tecconcursos.com.br/questoes/2813950", "banca_orgao": "CEBRASPE (CESPE) - Vest (UnB)/UnB/Regular/2023", "materia": "Estatística", "assunto": "Média para Dados não Agrupados", "gabarito": "Certo", "comando": "No gráfico precedente, cujos dados foram compilados pelos centros nacionais de informação ambiental dos Estados Unidos da América, são mostradas as anomalias de temperaturas registradas na América do Sul de 1982 até 2022, em intervalos de dois anos. Nele, observa-se clara tendência de aumento da temperatura no continente sul-americano ao longo dos anos, conforme a linha imaginária de tendências.\nCom base no gráfico e nas informações precedentes, julgue o próximo item.", "enunciado": "Se a média aritmética\ny\n¯\ny\n¯\n$\\bar{\\text{y}}$\n\u0014 das anomalias de temperaturas entre 2004 e 2032 for 10% maior que a média aritmética\nx\n¯\nx\n¯\n$\\bar{\\text{x}}$\ndas anomalias entre 2004 e 2022, então a média aritmética\nz\n¯\nz\n¯\n$\\bar{\\text{z}}$\ndas anomalias entre 2024 e 2032 será 30% maior que\nx\n¯\nx\n¯\n$\\bar{\\text{x}}$\n.", "has_latex": true, "image_url": "https://cdn.tecconcursos.com.br/figuras/e2b2fdfd-3edb-40e6-b794-f2163bffb02e"}];
+            let revisadas = { aprovadas: [], reprovadas: [] };
+
+            function renderizar() {
+                const container = document.getElementById('questoes-container');
+                container.innerHTML = "";
+
+                questoes.forEach((q, index) => {
+                    // Prepara a imagem se existir
+                    const imgHtml = q.image_url 
+                        ? `<div class="img-container"><img src="${q.image_url}" class="img-questao" alt="Imagem da Questão"></div>` 
+                        : `<span class="text-muted">(Sem imagem identificada)</span>`;
+
+                    const html = `
+                        <div class="card-questao" id="card-${q.id_tec}">
+                            <div class="header-questao">
+                                <span>Questão ${index + 1}</span>
+                                <div>
+                                    <span class="badge badge-id me-1">ID: ${q.id_tec}</span>
+                                    <span class="badge badge-banca me-1">${q.banca_orgao}</span>
+                                    <span class="badge badge-gab">Gabarito: ${q.gabarito}</span>
+                                </div>
+                            </div>
+                            <div class="p-4">
+                                <h6 class="text-muted">${q.assunto}</h6>
+                                <hr>
+                                ${imgHtml}
+                                <div class="comando">${q.comando.replace(/\n/g, '<br>')}</div>
+                                <div class="enunciado">${q.enunciado.replace(/\n/g, '<br>')}</div>
+                                
+                                <div class="row mt-4">
+                                    <div class="col-6">
+                                        <button class="btn btn-outline-success btn-action" onclick="aprovar('${q.id_tec}', this)">✅ Aprovar (Imagem e Texto OK)</button>
+                                    </div>
+                                    <div class="col-6">
+                                        <button class="btn btn-outline-danger btn-action" onclick="reprovar('${q.id_tec}', this)">❌ Reprovar / Precisa de Ajuste</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                    container.innerHTML += html;
+                });
+
+                // Força o MathJax a renderizar as fórmulas recém inseridas
+                MathJax.typesetPromise();
+            }
+
+            function atualizarContador() {
+                const total = questoes.length;
+                const feitas = revisadas.aprovadas.length + revisadas.reprovadas.length;
+                document.getElementById('counter').innerText = 
+                    `Aprovadas: ${revisadas.aprovadas.length} | Reprovadas: ${revisadas.reprovadas.length} | Restantes: ${total - feitas}`;
+            }
+
+            function aprovar(id, btnElement) {
+                const q = questoes.find(x => x.id_tec === id);
+                revisadas.aprovadas.push(q);
+                
+                const card = document.getElementById(`card-${id}`);
+                card.style.opacity = "0.4";
+                card.style.pointerEvents = "none";
+                atualizarContador();
+            }
+
+            function reprovar(id, btnElement) {
+                const q = questoes.find(x => x.id_tec === id);
+                revisadas.reprovadas.push(q);
+
+                const card = document.getElementById(`card-${id}`);
+                card.style.opacity = "0.4";
+                card.style.pointerEvents = "none";
+                atualizarContador();
+            }
+
+            function exportarDados() {
+                if (revisadas.aprovadas.length === 0) {
+                    alert("Você ainda não aprovou nenhuma questão!");
+                    return;
+                }
+                
+                const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(revisadas.aprovadas, null, 4));
+                const downloadAnchorNode = document.createElement('a');
+                downloadAnchorNode.setAttribute("href",     dataStr);
+                downloadAnchorNode.setAttribute("download", "dataset_RL_imagens_APROVADAS.json");
+                document.body.appendChild(downloadAnchorNode);
+                downloadAnchorNode.click();
+                downloadAnchorNode.remove();
+            }
+
+            // Inicia
+            window.onload = renderizar;
+        </script>
+    </body>
+    </html>
+    

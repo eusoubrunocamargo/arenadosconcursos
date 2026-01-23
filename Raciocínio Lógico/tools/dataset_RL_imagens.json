@@ -1,0 +1,54 @@
+[
+    {
+        "numero": 0,
+        "id_tec": "2157251",
+        "link": "www.tecconcursos.com.br/questoes/2157251",
+        "banca_orgao": "CEBRASPE (CESPE) - ACP (MP TCE-SC)/TCE SC/Direito/2022",
+        "materia": "Estatística",
+        "assunto": "Média para Dados não Agrupados",
+        "gabarito": "Errado",
+        "comando": "Julgue o item seguinte, com base nas informações do cartaz precedente, que registra a promoção do dia em um estabelecimento comercial em que se vende açaí.",
+        "enunciado": "Considerando-se a totalidade dos pedidos de açaí feitos ao longo de um dia, as informações presentes no cartaz permitem inferir que o preço médio pago pelos clientes é de R$ 12,00.",
+        "has_latex": false,
+        "image_url": "https://cdn.tecconcursos.com.br/figuras/f8734208-20eb-419e-bece-0105893a797a"
+    },
+    {
+        "numero": 0,
+        "id_tec": "2813907",
+        "link": "www.tecconcursos.com.br/questoes/2813907",
+        "banca_orgao": "CEBRASPE (CESPE) - Vest (UnB)/UnB/Regular/2023",
+        "materia": "Estatística",
+        "assunto": "Média para Dados não Agrupados",
+        "gabarito": "Errado",
+        "comando": "No gráfico precedente, é apresentada a diferença entre a temperatura média do ano e a temperatura média histórica, em graus Celsius (ºC), no Brasil, para o período de 1987 até 2021. A reta inserida no gráfico indica a tendência dos dados. Considerando o gráfico e as informações precedentes, julgue o item a seguir.",
+        "enunciado": "No período de 1998 até 2013, a média da sequência de dados no gráfico é inferior a 0,39.",
+        "has_latex": false,
+        "image_url": "https://cdn.tecconcursos.com.br/figuras/cde6d3ab-57a4-4625-b952-724bce389743"
+    },
+    {
+        "numero": 0,
+        "id_tec": "2813947",
+        "link": "www.tecconcursos.com.br/questoes/2813947",
+        "banca_orgao": "CEBRASPE (CESPE) - Vest (UnB)/UnB/Regular/2023",
+        "materia": "Estatística",
+        "assunto": "Média para Dados não Agrupados",
+        "gabarito": "Errado",
+        "comando": "No gráfico precedente, cujos dados foram compilados pelos centros nacionais de informação ambiental dos Estados Unidos da América, são mostradas as anomalias de temperaturas registradas na América do Sul de 1982 até 2022, em intervalos de dois anos. Nele, observa-se clara tendência de aumento da temperatura no continente sul-americano ao longo dos anos, conforme a linha imaginária de tendências.\nCom base no gráfico e nas informações precedentes, julgue o próximo item.",
+        "enunciado": "O aumento registrado entre a média aritmética dos cinco dados mais antigos da amostra (1982 a 1990) e os cinco dados mais recentes da amostra (2014 a 2022) é superior a 280%.",
+        "has_latex": false,
+        "image_url": "https://cdn.tecconcursos.com.br/figuras/e2b2fdfd-3edb-40e6-b794-f2163bffb02e"
+    },
+    {
+        "numero": 0,
+        "id_tec": "2813950",
+        "link": "www.tecconcursos.com.br/questoes/2813950",
+        "banca_orgao": "CEBRASPE (CESPE) - Vest (UnB)/UnB/Regular/2023",
+        "materia": "Estatística",
+        "assunto": "Média para Dados não Agrupados",
+        "gabarito": "Certo",
+        "comando": "No gráfico precedente, cujos dados foram compilados pelos centros nacionais de informação ambiental dos Estados Unidos da América, são mostradas as anomalias de temperaturas registradas na América do Sul de 1982 até 2022, em intervalos de dois anos. Nele, observa-se clara tendência de aumento da temperatura no continente sul-americano ao longo dos anos, conforme a linha imaginária de tendências.\nCom base no gráfico e nas informações precedentes, julgue o próximo item.",
+        "enunciado": "Se a média aritmética\ny\n¯\ny\n¯\n$\\bar{\\text{y}}$\n\u0014 das anomalias de temperaturas entre 2004 e 2032 for 10% maior que a média aritmética\nx\n¯\nx\n¯\n$\\bar{\\text{x}}$\ndas anomalias entre 2004 e 2022, então a média aritmética\nz\n¯\nz\n¯\n$\\bar{\\text{z}}$\ndas anomalias entre 2024 e 2032 será 30% maior que\nx\n¯\nx\n¯\n$\\bar{\\text{x}}$\n.",
+        "has_latex": true,
+        "image_url": "https://cdn.tecconcursos.com.br/figuras/e2b2fdfd-3edb-40e6-b794-f2163bffb02e"
+    }
+]
