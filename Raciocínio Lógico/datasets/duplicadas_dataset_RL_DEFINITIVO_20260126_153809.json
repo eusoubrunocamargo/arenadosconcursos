@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "arquivo_origem": "..\\Raciocínio Lógico\\tools\\dataset_RL_DEFINITIVO.json",
+    "data_geracao": "2026-01-26T15:38:09.240233",
+    "total_duplicadas": 3
+  },
+  "questoes": [
+    {
+      "numero": 0,
+      "id_tec": "162088",
+      "link": "www.tecconcursos.com.br/questoes/162088",
+      "banca_orgao": "CEBRASPE (CESPE) - TJ STF/STF/Administrativa/Agente da Policia Judicial/2013",
+      "materia": "Raciocínio Lógico",
+      "assunto": "Operadores Lógicos (Representação Simbólica; Diferença entre Proposição Simples e Composta).",
+      "gabarito": "Certo",
+      "comando": "Julgue o item seguinte, relativo à lógica proposicional.",
+      "enunciado": "A sentença “um ensino dedicado à formação de técnicos negligencia a formação de cientistas” constitui uma proposição simples.",
+      "has_latex": false,
+      "image_url": ""
+    },
+    {
+      "numero": 0,
+      "id_tec": "2395663",
+      "link": "www.tecconcursos.com.br/questoes/2395663",
+      "banca_orgao": "CEBRASPE (CESPE) - AJ 02 (TJ ES)/TJ ES/Administrativa/2023",
+      "materia": "Raciocínio Lógico",
+      "assunto": "Lógica de Primeira Ordem",
+      "gabarito": "Errado",
+      "comando": "Acerca de noções de lógica, julgue o item a seguir.",
+      "enunciado": "A sentença “Há pelo menos um desembargador que é mais velho que todos os juízes” pode ser escrita na forma simbólica como ∀x ∃y (D(x) ˄ J(y) → V(x,y)), em que D(x) representa a proposição “x é desembargador”; J(y) representa a proposição “y é juiz”; e V(x,y) representa a proposição “x é mais velho que y”.",
+      "has_latex": false,
+      "image_url": ""
+    },
+    {
+      "numero": 0,
+      "id_tec": "3338833",
+      "link": "www.tecconcursos.com.br/questoes/3338833",
+      "banca_orgao": "CEBRASPE (CESPE) - Prof (Pref Aracaju)/Pref Aracaju/Matemática/2024",
+      "materia": "Estatística",
+      "assunto": "Desvio Padrão e Variância",
+      "gabarito": "Errado",
+      "comando": "Julgue o item a seguir, considerando a série de dados formada pelos n primeiros termos da seguinte sequência numérica:",
+      "enunciado": "o primeiro termo é 3; o segundo é −2; e, a partir do terceiro, é a soma dos dois termos imediatamente anteriores.\nO desvio padrão da série formada pelos seis primeiros termos da sequência é 4.",
+      "has_latex": false,
+      "image_url": ""
+    }
+  ]
+}

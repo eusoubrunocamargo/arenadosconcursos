@@ -100,11 +100,11 @@ def main():
     print("\n🚀 Robô assumindo o controle! Raspando dados...")
 
     questoes_enriquecidas = []
-    LIMITE = 20 # Ajuste se quiser testar apenas 10 primeiro
+    LIMITE = 1192 # Ajuste se quiser testar apenas 10 primeiro
     
     try:
         for i in range(LIMITE):
-            time.sleep(1.2) # Pausa estratégica para o Angular carregar os dados novos
+            time.sleep(1.5) # Pausa estratégica para o Angular carregar os dados novos
 
             html = driver.page_source
             id_q, texto, tem_img, url_img, tem_latex = extrair_conteudo_html(html)
