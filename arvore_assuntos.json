@@ -1,36 +1,53 @@
 [
     {
-        "materia": "Língua Inglesa (Inglês)",
-        "totalQuestoes": 627,
+        "materia": "Raciocínio Lógico",
+        "totalQuestoes": 673,
         "assuntos": {
-            "Adjetivos Possessivos (Possessive Adjectives)": 2,
-            "Adjetivos: Uso e Casos Gerais (Inglês)": 8,
-            "Advérbios (Adverbs)": 12,
-            "Análise Sintática (Syntax Parsing)": 5,
-            "Artigo (Articles)": 2,
-            "Caso Genitivo (Inglês)": 3,
-            "Conjunções e Conectivos (Conjuctions e Linking Words)": 15,
-            "Falsos Cognatos (False Cognates)": 9,
-            "Figuras de Linguagem (Figures of Speech)": 3,
-            "Fonética e Pronúncia (Inglês)": 2,
-            "Forma Condicional (Inglês)": 1,
-            "Formação e Estrutura das Palavras (Inglês)": 5,
-            "Grau Comparativo e Superlativo dos Adjetivos (Inglês)": 4,
-            "Interpretação de Textos (Understanding)": 200,
-            "Pontuação (Punctuation)": 4,
-            "Preposições (Prepositions)": 3,
-            "Pronomes (Pronouns)": 7,
-            "Referenciação, Anáfora e Catáfora (Língua Inglesa)": 57,
-            "Sem classificação": 1,
-            "Significado de Palavras e Expressões (Sinônimos, Antônimos, Parônimos, Denotação, Conotação etc.)": 98,
-            "Substantivos (Nouns, Plural, Quantifiers)": 5,
-            "Substituição de Palavras e Reescrita de Frases (Inglês)": 100,
-            "Tipos de Discurso (Direct e Reported Speech)": 1,
-            "Tradução (Translation)": 32,
-            "Tópicos Mesclados de Classes de Palavras (Inglês)": 8,
-            "Tópicos Mesclados de Gramática (Inglês)": 10,
-            "Verbos (Verbs)": 23,
-            "Voz Ativa e Passiva (Active and Passive Voice)": 7
+            "Argumentos - Métodos Decorrentes da Tabela Verdade": 85,
+            "Argumentos Indutivos, Argumentos por Abdução.": 14,
+            "Associação de Informações": 69,
+            "Condição Necessária e Suficiente": 7,
+            "Diagramas Lógicos, Proposições Categóricas, Negação de Quantificadores": 54,
+            "Equivalências Lógicas (Inclui Negação de Proposições Compostas)": 86,
+            "Exercícios de \"Verdade/Mentira\"": 21,
+            "Falácias": 34,
+            "Lógica de Primeira Ordem": 4,
+            "Operadores Lógicos (Representação Simbólica; Diferença entre Proposição Simples e Composta).": 64,
+            "Ordem de Precedência entre os Conectivos": 2,
+            "Orientação no Plano, no Espaço e no Tempo": 16,
+            "Outras Questões de Lógica de Argumentação": 16,
+            "Proposições: Definição, Reconhecimento, Princípios Lógicos": 27,
+            "Raciocínio Crítico": 29,
+            "Sequências de Números, Figuras, Letras e Palavras": 31,
+            "Tabela Verdade das Proposições Compostas": 86,
+            "Tautologia, Contradição e Contingência": 26,
+            "Álgebra de Proposições": 2
+        }
+    },
+    {
+        "materia": "Estatística",
+        "totalQuestoes": 285,
+        "assuntos": {
+            "Desvio Padrão e Variância": 69,
+            "Moda para Dados Agrupados em Classes (Bruta, Czuber, King, Pearson)": 3,
+            "Moda para Dados Agrupados por Valor": 17,
+            "Moda para Dados Não Agrupados": 10,
+            "Média Geométrica": 4,
+            "Média Harmônica": 1,
+            "Média Ponderada": 6,
+            "Média para Dados Agrupados por Valor": 26,
+            "Média para Dados em Classe": 12,
+            "Média para Dados não Agrupados": 39,
+            "Propriedades das Medidas de Posição (Média, Moda e Quantis)": 4,
+            "Quantis (Mediana, Quartil, Decil, Percentil) e Interpolação Linear da Ogiva": 70,
+            "Questões Mescladas de Medidas de Posição": 24
+        }
+    },
+    {
+        "materia": "Matemática",
+        "totalQuestoes": 85,
+        "assuntos": {
+            "Análise Combinatória (Princípio Fundamental da Contagem, Arranjos, Combinações, Permutações)": 85
         }
     }
 ]
