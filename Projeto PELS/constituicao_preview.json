@@ -1,0 +1,1121 @@
+[
+  {
+    "tipo": "artigo",
+    "rotulo": "1º",
+    "texto": "A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado democrático de direito e tem como fundamentos:",
+    "itens": [
+      {
+        "tipo": "inciso",
+        "rotulo": "I",
+        "texto": "a soberania;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "II",
+        "texto": "a cidadania;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "III",
+        "texto": "a dignidade da pessoa humana;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IV",
+        "texto": "os valores sociais do trabalho e da livre iniciativa;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "V",
+        "texto": "o pluralismo político.",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "Parágrafo único",
+        "texto": "Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "2º",
+    "texto": "São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+    "itens": []
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "3º",
+    "texto": "Constituem objetivos fundamentais da República Federativa do Brasil:",
+    "itens": [
+      {
+        "tipo": "inciso",
+        "rotulo": "I",
+        "texto": "construir uma sociedade livre, justa e solidária;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "II",
+        "texto": "garantir o desenvolvimento nacional;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "III",
+        "texto": "erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IV",
+        "texto": "promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "4º",
+    "texto": "A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:",
+    "itens": [
+      {
+        "tipo": "inciso",
+        "rotulo": "I",
+        "texto": "independência nacional;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "II",
+        "texto": "prevalência dos direitos humanos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "III",
+        "texto": "autodeterminação dos povos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IV",
+        "texto": "não-intervenção;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "V",
+        "texto": "igualdade entre os Estados;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VI",
+        "texto": "defesa da paz;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VII",
+        "texto": "solução pacífica dos conflitos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VIII",
+        "texto": "repúdio ao terrorismo e ao racismo;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IX",
+        "texto": "cooperação entre os povos para o progresso da humanidade;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "X",
+        "texto": "concessão de asilo político.",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "Parágrafo único",
+        "texto": "A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações. TÍTULO II DOS DIREITOS E GARANTIAS FUNDAMENTAIS CAPÍTULO I DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "5º",
+    "texto": "Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:",
+    "itens": [
+      {
+        "tipo": "inciso",
+        "rotulo": "I",
+        "texto": "homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "II",
+        "texto": "ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "III",
+        "texto": "ninguém será submetido a tortura nem a tratamento desumano ou degradante;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IV",
+        "texto": "é livre a manifestação do pensamento, sendo vedado o anonimato;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "V",
+        "texto": "é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VI",
+        "texto": "é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VII",
+        "texto": "é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VIII",
+        "texto": "ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IX",
+        "texto": "é livre a expressão da atividade intelectual, artística, científica e de comunicação, independentemente de censura ou licença;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "X",
+        "texto": "são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XI",
+        "texto": "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XII",
+        "texto": "é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XIII",
+        "texto": "é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XIV",
+        "texto": "é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao exercício profissional;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XV",
+        "texto": "é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XVI",
+        "texto": "todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XVII",
+        "texto": "é plena a liberdade de associação para fins lícitos, vedada a de caráter paramilitar;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XVIII",
+        "texto": "a criação de associações e, na forma da lei, a de cooperativas independem de autorização, sendo vedada a interferência estatal em seu funcionamento;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XIX",
+        "texto": "as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XX",
+        "texto": "ninguém poderá ser compelido a associar-se ou a permanecer associado;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXI",
+        "texto": "as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXII",
+        "texto": "é garantido o direito de propriedade;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXIII",
+        "texto": "a propriedade atenderá a sua função social;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXIV",
+        "texto": "a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro, ressalvados os casos previstos nesta Constituição;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXV",
+        "texto": "no caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXVI",
+        "texto": "a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXVII",
+        "texto": "aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras, transmissível aos herdeiros pelo tempo que a lei fixar;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXVIII",
+        "texto": "são assegurados, nos termos da lei:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "a proteção às participações individuais em obras coletivas e à reprodução da imagem e voz humanas, inclusive nas atividades desportivas;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "o direito de fiscalização do aproveitamento econômico das obras que criarem ou de que participarem aos criadores, aos intérpretes e às respectivas representações sindicais e associativas;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXIX",
+        "texto": "a lei assegurará aos autores de inventos industriais privilégio temporário para sua utilização, bem como proteção às criações industriais, à propriedade das marcas, aos nomes de empresas e a outros signos distintivos, tendo em vista o interesse social e o desenvolvimento tecnológico e econômico do País;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXX",
+        "texto": "é garantido o direito de herança;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXI",
+        "texto": "a sucessão de bens de estrangeiros situados no País será regulada pela lei brasileira em benefício do cônjuge ou dos filhos brasileiros, sempre que não lhes seja mais favorável a lei pessoal do de cujus;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXII",
+        "texto": "o Estado promoverá, na forma da lei, a defesa do consumidor;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXIII",
+        "texto": "todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXIV",
+        "texto": "são a todos assegurados, independentemente do pagamento de taxas:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "o direito de petição aos poderes públicos em defesa de direitos ou contra ilegalidade ou abuso de poder;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXV",
+        "texto": "a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXVI",
+        "texto": "a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXVII",
+        "texto": "não haverá juízo ou tribunal de exceção;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXVIII",
+        "texto": "é reconhecida a instituição do júri, com a organização que lhe der a lei, assegurados:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "a plenitude de defesa;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "o sigilo das votações;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "c",
+            "texto": "a soberania dos veredictos;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "d",
+            "texto": "a competência para o julgamento dos crimes dolosos contra a vida;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXIX",
+        "texto": "não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XL",
+        "texto": "a lei penal não retroagirá, salvo para beneficiar o réu;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLI",
+        "texto": "a lei punirá qualquer discriminação atentatória dos direitos e liberdades fundamentais;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLII",
+        "texto": "a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão, nos termos da lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLIII",
+        "texto": "a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLIV",
+        "texto": "constitui crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado democrático;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLV",
+        "texto": "nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a decretação do perdimento de bens ser, nos termos da lei, estendidas aos sucessores e contra eles executadas, até o limite do valor do patrimônio transferido;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLVI",
+        "texto": "a lei regulará a individualização da pena e adotará, entre outras, as seguintes:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "privação ou restrição da liberdade;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "perda de bens;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "c",
+            "texto": "multa;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "d",
+            "texto": "prestação social alternativa;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "e",
+            "texto": "suspensão ou interdição de direitos;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLVII",
+        "texto": "não haverá penas:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "de caráter perpétuo;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "c",
+            "texto": "de trabalhos forçados;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "d",
+            "texto": "de banimento;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "e",
+            "texto": "cruéis;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLVIII",
+        "texto": "a pena será cumprida em estabelecimentos distintos, de acordo com a natureza do delito, a idade e o sexo do apenado;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XLIX",
+        "texto": "é assegurado aos presos o respeito à integridade física e moral;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "L",
+        "texto": "às presidiárias serão asseguradas condições para que possam permanecer com seus filhos durante o período de amamentação;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LI",
+        "texto": "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado antes da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LII",
+        "texto": "não será concedida extradição de estrangeiro por crime político ou de opinião;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LIII",
+        "texto": "ninguém será processado nem sentenciado senão pela autoridade competente;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LIV",
+        "texto": "ninguém será privado da liberdade ou de seus bens sem o devido processo legal;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LV",
+        "texto": "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e a ampla defesa, com os meios e recursos a ela inerentes;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LVI",
+        "texto": "são inadmissíveis, no processo, as provas obtidas por meios ilícitos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LVII",
+        "texto": "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LVIII",
+        "texto": "o civilmente identificado não será submetido a identificação criminal, salvo nas hipóteses previstas em lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LIX",
+        "texto": "será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LX",
+        "texto": "a lei só poderá restringir a publicidade dos atos processuais quando a defesa da intimidade ou o interesse social o exigirem;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXI",
+        "texto": "ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, salvo nos casos de transgressão militar ou crime propriamente militar, definidos em lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXII",
+        "texto": "a prisão de qualquer pessoa e o local onde se encontre serão comunicados imediatamente ao juiz competente e à família do preso ou à pessoa por ele indicada;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXIII",
+        "texto": "o preso será informado de seus direitos, entre os quais o de permanecer calado, sendo-lhe assegurada a assistência da família e de advogado;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXIV",
+        "texto": "o preso tem direito à identificação dos responsáveis por sua prisão ou por seu interrogatório policial;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXV",
+        "texto": "a prisão ilegal será imediatamente relaxada pela autoridade judiciária;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXVI",
+        "texto": "ninguém será levado à prisão ou nela mantido quando a lei admitir a liberdade provisória, com ou sem fiança;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXVII",
+        "texto": "não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXVIII",
+        "texto": "conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXIX",
+        "texto": "conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do poder público;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXX",
+        "texto": "o mandado de segurança coletivo pode ser impetrado por:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "partido político com representação no Congresso Nacional;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há pelo menos um ano, em defesa dos interesses de seus membros ou associados;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXI",
+        "texto": "conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXII",
+        "texto": "conceder-se-á habeas data:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "para a retificação de dados, quando não se prefira fazê-lo por processo sigiloso, judicial ou administrativo;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXIII",
+        "texto": "qualquer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXIV",
+        "texto": "o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXV",
+        "texto": "o Estado indenizará o condenado por erro judiciário, assim como o que ficar preso além do tempo fixado na sentença;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXVI",
+        "texto": "são gratuitos para os reconhecidamente pobres, na forma da lei:",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "o registro civil de nascimento;"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "a certidão de óbito;"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXVII",
+        "texto": "são gratuitas as ações de habeas corpus e habeas data, e, na forma da lei, os atos necessários ao exercício da cidadania.",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXVIII",
+        "texto": "a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. (Inciso acrescido pela Emenda Constitucional nº 45, de 2004)",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "LXXIX",
+        "texto": "é assegurado, nos termos da lei, o direito à proteção dos dados pessoais, inclusive nos meios digitais. (Inciso acrescido pela Emenda Constitucional nº 115, de 2022)",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "§ 1º",
+        "texto": "As normas definidoras dos direitos e garantias fundamentais têm aplicação imediata.",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "§ 2º",
+        "texto": "Os direitos e garantias expressos nesta Constituição não excluem outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados internacionais em que a República Federativa do Brasil seja parte.",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "§ 3º",
+        "texto": "Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais. (Parágrafo acrescido pela Emenda Constitucional nº 45, de 2004)",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "§ 4º",
+        "texto": "O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. (Parágrafo acrescido pela Emenda Constitucional nº 45, de 2004) CAPÍTULO II DOS DIREITOS SOCIAIS",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "6º",
+    "texto": "São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição. (Artigo com redação dada pela Emenda Constitucional nº 90, de 2015)",
+    "itens": [
+      {
+        "tipo": "paragrafo",
+        "rotulo": "Parágrafo único",
+        "texto": "Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária. (Parágrafo único acrescido pela Emenda Constitucional nº 114, de 2021)",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "7º",
+    "texto": "São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social:",
+    "itens": [
+      {
+        "tipo": "inciso",
+        "rotulo": "I",
+        "texto": "relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "II",
+        "texto": "seguro-desemprego, em caso de desemprego involuntário;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "III",
+        "texto": "fundo de garantia do tempo de serviço;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IV",
+        "texto": "salário mínimo, fixado em lei, nacionalmente unificado, capaz de atender às suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, higiene, transporte e previdência social, com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "V",
+        "texto": "piso salarial proporcional à extensão e à complexidade do trabalho;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VI",
+        "texto": "irredutibilidade do salário, salvo o disposto em convenção ou acordo coletivo;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VII",
+        "texto": "garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VIII",
+        "texto": "décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IX",
+        "texto": "remuneração do trabalho noturno superior à do diurno;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "X",
+        "texto": "proteção do salário na forma da lei, constituindo crime sua retenção dolosa;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XI",
+        "texto": "participação nos lucros, ou resultados, desvinculada da remuneração, e, excepcionalmente, participação na gestão da empresa, conforme definido em lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XII",
+        "texto": "salário-família pago em razão do dependente do trabalhador de baixa renda nos termos da lei; (Inciso com redação dada pela Emenda Constitucional nº 20, de 1998)",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XIII",
+        "texto": "duração do trabalho normal não superior a oito horas diárias e quarenta e quatro semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XIV",
+        "texto": "jornada de seis horas para o trabalho realizado em turnos ininterruptos de revezamento, salvo negociação coletiva;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XV",
+        "texto": "repouso semanal remunerado, preferencialmente aos domingos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XVI",
+        "texto": "remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XVII",
+        "texto": "gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XVIII",
+        "texto": "licença à gestante, sem prejuízo do emprego e do salário, com a duração de cento e vinte dias;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XIX",
+        "texto": "licença-paternidade, nos termos fixados em lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XX",
+        "texto": "proteção do mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXI",
+        "texto": "aviso prévio proporcional ao tempo de serviço, sendo no mínimo de trinta dias, nos termos da lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXII",
+        "texto": "redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXIII",
+        "texto": "adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXIV",
+        "texto": "aposentadoria;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXV",
+        "texto": "assistência gratuita aos filhos e dependentes desde o nascimento até 5 (cinc",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "o",
+            "texto": "anos de idade em creches e pré-escolas; (Inciso com redação dada pela Emenda Constitucional nº 53, de 2006)"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXVI",
+        "texto": "reconhecimento das convenções e acordos coletivos de trabalho;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXVII",
+        "texto": "proteção em face da automação, na forma da lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXVIII",
+        "texto": "seguro contra acidentes de trabalho, a cargo do empregador, sem excluir a indenização a que este está obrigado, quando incorrer em dolo ou culpa;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXIX",
+        "texto": "ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho; (Inciso com redação dada pela Emenda Constitucional nº 28, de 2000)",
+        "itens": [
+          {
+            "tipo": "alinea",
+            "rotulo": "a",
+            "texto": "(Alínea revogada pela Emenda Constitucional nº 28, de 2000)"
+          },
+          {
+            "tipo": "alinea",
+            "rotulo": "b",
+            "texto": "(Alínea revogada pela Emenda Constitucional nº 28, de 2000)"
+          }
+        ]
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXX",
+        "texto": "proibição de diferença de salários, de exercício de funções e de critério de admissão por motivo de sexo, idade, cor ou estado civil;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXI",
+        "texto": "proibição de qualquer discriminação no tocante a salário e critérios de admissão do trabalhador portador de deficiência;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXII",
+        "texto": "proibição de distinção entre trabalho manual, técnico e intelectual ou entre os profissionais respectivos;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXIII",
+        "texto": "proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatorze anos; (Inciso com redação dada pela Emenda Constitucional nº 20, de 1998)",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "XXXIV",
+        "texto": "igualdade de direitos entre o trabalhador com vínculo empregatício permanente e o trabalhador avulso.",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "Parágrafo único",
+        "texto": "São assegurados à categoria dos trabalhadores domésticos os direitos previstos nos incisos IV, VI, VII, VIII, X, XIII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIV, XXVI, XXX, XXXI e XXXIII e, atendidas as condições estabelecidas em lei e observada a simplificação do cumprimento das obrigações tributárias, principais e acessórias, decorrentes da relação de trabalho e suas peculiaridades, os previstos nos incisos I, II, III, IX, XII, XXV e XXVIII, bem como a sua integração à previdência social. (Parágrafo único com redação dada pela Emenda Constitucional nº 72, de 2013)",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "8º",
+    "texto": "É livre a associação profissional ou sindical, observado o seguinte:",
+    "itens": [
+      {
+        "tipo": "inciso",
+        "rotulo": "I",
+        "texto": "a lei não poderá exigir autorização do Estado para a fundação de sindicato, ressalvado o registro no órgão competente, vedadas ao poder público a interferência e a intervenção na organização sindical;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "II",
+        "texto": "é vedada a criação de mais de uma organização sindical, em qualquer grau, representativa de categoria profissional ou econômica, na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "III",
+        "texto": "ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "IV",
+        "texto": "a assembléia geral fixará a contribuição que, em se tratando de categoria profissional, será descontada em folha, para custeio do sistema confederativo da representação sindical respectiva, independentemente da contribuição prevista em lei;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "V",
+        "texto": "ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VI",
+        "texto": "é obrigatória a participação dos sindicatos nas negociações coletivas de trabalho;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VII",
+        "texto": "o aposentado filiado tem direito a votar e ser votado nas organizações sindicais;",
+        "itens": []
+      },
+      {
+        "tipo": "inciso",
+        "rotulo": "VIII",
+        "texto": "é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei.",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "Parágrafo único",
+        "texto": "As disposições deste artigo aplicam-se à organização de sindicatos rurais e de colônias de pescadores, atendidas as condições que a lei estabelecer.",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "9º",
+    "texto": "É assegurado o direito de greve, competindo aos trabalhadores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender.",
+    "itens": [
+      {
+        "tipo": "paragrafo",
+        "rotulo": "§ 1º",
+        "texto": "A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade.",
+        "itens": []
+      },
+      {
+        "tipo": "paragrafo",
+        "rotulo": "§ 2º",
+        "texto": "Os abusos cometidos sujeitam os responsáveis às penas da lei.",
+        "itens": []
+      }
+    ]
+  },
+  {
+    "tipo": "artigo",
+    "rotulo": "10",
+    "texto": "É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.",
+    "itens": []
+  }
+]
