@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-02-09T00:00:00Z",
+  "source": {
+    "documento": "CF/88",
+    "base_file": "Projeto PELS/constituicao_preview.json",
+    "observacao": "Exemplo de estrutura ideal para consumo no app PELS (cards + SRS + diff + indexação temática)."
+  },
+  "taxonomy": {
+    "titulos": [
+      {
+        "id": "cf88_t1",
+        "label": "Título I - Dos Princípios Fundamentais",
+        "ordem": 1
+      }
+    ],
+    "tags_globais": [
+      "princípios fundamentais",
+      "república federativa",
+      "objetivos fundamentais",
+      "separação de poderes"
+    ]
+  },
+  "law_items": [
+    {
+      "id": "cf88_t1_art1",
+      "tipo": "artigo",
+      "rotulo": "1º",
+      "path": {
+        "documento": "CF/88",
+        "titulo_id": "cf88_t1",
+        "titulo_label": "Título I - Dos Princípios Fundamentais",
+        "artigo": "1º"
+      },
+      "texto_vigente": "A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado democrático de direito e tem como fundamentos:",
+      "children_ids": [
+        "cf88_t1_art1_inc1",
+        "cf88_t1_art1_inc2",
+        "cf88_t1_art1_inc3",
+        "cf88_t1_art1_inc4",
+        "cf88_t1_art1_inc5",
+        "cf88_t1_art1_pu"
+      ],
+      "indexed_terms": [
+        "república federativa",
+        "estado democrático de direito",
+        "fundamentos"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "cf88_t1_art3_inc1",
+      "tipo": "inciso",
+      "rotulo": "I",
+      "path": {
+        "documento": "CF/88",
+        "titulo_id": "cf88_t1",
+        "titulo_label": "Título I - Dos Princípios Fundamentais",
+        "artigo": "3º",
+        "inciso": "I"
+      },
+      "texto_vigente": "construir uma sociedade livre, justa e solidária;",
+      "indexed_terms": [
+        "sociedade livre",
+        "sociedade justa",
+        "sociedade solidária"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "cf88_t1_art2",
+      "tipo": "artigo",
+      "rotulo": "2º",
+      "path": {
+        "documento": "CF/88",
+        "titulo_id": "cf88_t1",
+        "titulo_label": "Título I - Dos Princípios Fundamentais",
+        "artigo": "2º"
+      },
+      "texto_vigente": "São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+      "children_ids": [],
+      "indexed_terms": [
+        "poderes da união",
+        "legislativo",
+        "executivo",
+        "judiciário"
+      ],
+      "status": "active"
+    }
+  ],
+  "card_templates": [
+    {
+      "card_id": "card_cf88_t1_art3_inc1_v001",
+      "law_item_id": "cf88_t1_art3_inc1",
+      "deck": "lei_seca_cf88",
+      "mode": "alteracao_textual",
+      "frente": {
+        "pergunta": "Qual versão está correta do inciso I do art. 3º da CF/88?",
+        "texto_original": "construir uma sociedade livre, justa e solidária;",
+        "texto_alterado": "construir uma sociedade livre, justa e igualitária;"
+      },
+      "verso": {
+        "gabarito": "texto_original",
+        "explicacao": "A redação vigente do inciso I usa a expressão 'solidária'."
+      },
+      "diff": {
+        "algorithm": "word_lcs",
+        "operations": [
+          {
+            "op": "equal",
+            "text": "construir uma sociedade livre, justa e "
+          },
+          {
+            "op": "delete",
+            "text": "solidária"
+          },
+          {
+            "op": "insert",
+            "text": "igualitária"
+          },
+          {
+            "op": "equal",
+            "text": ";"
+          }
+        ],
+        "changed_tokens": [
+          "solidária",
+          "igualitária"
+        ]
+      },
+      "difficulty": "medium",
+      "source_type": "synthetic_ai",
+      "review_required": true,
+      "tags": [
+        "troca_de_palavra",
+        "pegadinha_semantica",
+        "cf88_t1"
+      ]
+    },
+    {
+      "card_id": "card_cf88_t1_art2_v001",
+      "law_item_id": "cf88_t1_art2",
+      "deck": "lei_seca_cf88",
+      "mode": "alteracao_textual",
+      "frente": {
+        "pergunta": "Identifique a alteração incorreta no art. 2º:",
+        "texto_original": "São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+        "texto_alterado": "São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e não o Judiciário."
+      },
+      "verso": {
+        "gabarito": "texto_original",
+        "explicacao": "A inclusão de 'não' altera completamente o sentido do dispositivo."
+      },
+      "diff": {
+        "algorithm": "diff_match_patch",
+        "operations": [
+          {
+            "op": "equal",
+            "text": "São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e "
+          },
+          {
+            "op": "insert",
+            "text": "não "
+          },
+          {
+            "op": "equal",
+            "text": "o Judiciário."
+          }
+        ],
+        "changed_tokens": [
+          "não"
+        ]
+      },
+      "difficulty": "hard",
+      "source_type": "synthetic_ai",
+      "review_required": true,
+      "tags": [
+        "negacao",
+        "alto_risco_de_erro",
+        "cf88_t1"
+      ]
+    }
+  ],
+  "review_state": [
+    {
+      "card_id": "card_cf88_t1_art3_inc1_v001",
+      "repetition": 0,
+      "ease_factor": 2.5,
+      "interval_days": 0,
+      "due_at": "2026-02-09T00:00:00Z",
+      "lapses": 0,
+      "last_grade": null,
+      "consecutive_correct_in_error_deck": 0,
+      "learning_state": "new"
+    },
+    {
+      "card_id": "card_cf88_t1_art2_v001",
+      "repetition": 2,
+      "ease_factor": 2.36,
+      "interval_days": 3,
+      "due_at": "2026-02-12T00:00:00Z",
+      "lapses": 1,
+      "last_grade": 4,
+      "consecutive_correct_in_error_deck": 1,
+      "learning_state": "review"
+    }
+  ],
+  "review_log": [
+    {
+      "id": "log_0001",
+      "card_id": "card_cf88_t1_art2_v001",
+      "answered_at": "2026-02-08T11:42:00Z",
+      "grade": 2,
+      "result": "wrong",
+      "previous_due_at": "2026-02-08T00:00:00Z",
+      "next_due_at": "2026-02-09T00:00:00Z",
+      "moved_to_error_deck": true
+    },
+    {
+      "id": "log_0002",
+      "card_id": "card_cf88_t1_art2_v001",
+      "answered_at": "2026-02-09T09:10:00Z",
+      "grade": 4,
+      "result": "correct",
+      "previous_due_at": "2026-02-09T00:00:00Z",
+      "next_due_at": "2026-02-12T00:00:00Z",
+      "moved_to_error_deck": false
+    }
+  ],
+  "error_deck": {
+    "id": "error_deck_default",
+    "name": "Deck de Erros",
+    "entry_rule": "grade < 3",
+    "exit_rule": "2 acertos consecutivos",
+    "member_card_ids": [
+      "card_cf88_t1_art2_v001"
+    ]
+  }
+}
