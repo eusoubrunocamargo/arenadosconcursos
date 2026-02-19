@@ -1,6 +1,8 @@
 import json
 import psycopg
 import sys
+import os
+import random
 from collections import defaultdict
 
 # =============================================================================
@@ -14,7 +16,6 @@ DB_CONFIG = {
     'password': 'root'
 }
 
-# Distribuição solicitada no Edital (Total: 180 questões)
 DISTRIBUICAO = {
     "basicos": {
         "lingua_portuguesa": {"total": 25, "interpretacao": 15, "gramatica": 10},
@@ -31,25 +32,19 @@ DISTRIBUICAO = {
     }
 }
 
-# Mapeamento: "Nome no Edital" -> ["Nomes Exatos no Banco de Dados (arvore_final)"]
 MAPA_DB = {
     "lingua_portuguesa": ["Língua Portuguesa (Português)"],
     "lingua_inglesa": ["Língua Inglesa (Inglês)"],
     "raciocinio_logico": ["Raciocínio Lógico", "Matemática", "Estatística"],
     "direito_administrativo": ["Direito Administrativo (Doutrina e Leis Federais)"],
     "administracao_publica": ["Administração Geral e Pública"],
-    
-    # Agrupando tudo que cheira a Regimento/Ética/Legislação do Senado/Câmara
     "regimentos_etica": [
         "Legislação das Casas Legislativas", 
         "Legislação Geral Federal",
         "Redação Oficial"
     ],
-    
     "direito_constitucional": ["Direito Constitucional (CF/1988 e Doutrina)"],
-    "ciencia_politica": ["Ciências Políticas"], # Estava no plural no DB
-    
-    # Agrupando Informática Básica + TI Avançada
+    "ciencia_politica": ["Ciências Políticas"],
     "informatica": [
         "Informática",
         "TI - Ciência de Dados e Inteligência Artificial", 
@@ -65,12 +60,13 @@ MAPA_DB = {
 def buscar_questoes(cursor, materias_db, limite, tipo_filtro=None):
     """
     Busca questões aleatórias no banco baseadas na matéria e num filtro de assunto.
-    tipo_filtro: 'interpretacao' (apenas assuntos com essa palavra) ou 'gramatica' (exclui interpretação)
     """
+    if not materias_db or limite == 0:
+        return []
+
     placeholders_materia = ', '.join(['%s'] * len(materias_db))
     parametros = list(materias_db)
 
-    # Base da Query
     query = f"""
         SELECT q.id_tec, m.nome as materia, a.nome as assunto, q.comando, q.enunciado, q.gabarito, q.imagem_url
         FROM questao q
@@ -79,15 +75,13 @@ def buscar_questoes(cursor, materias_db, limite, tipo_filtro=None):
         WHERE q.ativo = true AND m.nome IN ({placeholders_materia})
     """
 
-    # Filtros Especiais para Línguas (Interpretação vs Gramática)
     if tipo_filtro == 'interpretacao':
         query += " AND a.nome ILIKE %s "
-        parametros.append('%Interpretação%') # O % fica no parâmetro, não na query
+        parametros.append('%Interpretação%')
     elif tipo_filtro == 'gramatica':
         query += " AND a.nome NOT ILIKE %s "
         parametros.append('%Interpretação%')
 
-    # Ordenação Aleatória e Limite
     query += " ORDER BY RANDOM() LIMIT %s;"
     parametros.append(limite)
 
@@ -103,10 +97,18 @@ def buscar_questoes(cursor, materias_db, limite, tipo_filtro=None):
 # =============================================================================
 # 3. ALGORITMO GERADOR DO SIMULADO
 # =============================================================================
-def gerar_simulado():
-    print("🚀 Iniciando geração do Simulado (180 Questões)...")
+def gerar_simulado(numero_simulado, pasta_saida):
+    """
+    Gera um único simulado e salva na pasta de saída com o número indicado.
+    """
+    print(f"🔄 Gerando Simulado #{numero_simulado}...")
     simulado = {
-        "metadados": {"total_questoes": 0, "basicos": 0, "especificos": 0},
+        "metadados": {
+            "numero_simulado": numero_simulado,
+            "total_questoes": 0, 
+            "basicos": 0, 
+            "especificos": 0
+        },
         "caderno_basico": [],
         "caderno_especifico": []
     }
@@ -116,53 +118,72 @@ def gerar_simulado():
             with conn.cursor() as cursor:
 
                 # --- PARTE 1: CONHECIMENTOS BÁSICOS ---
-                print("📚 Buscando Conhecimentos Básicos (90 q)...")
                 for disciplina, regras in DISTRIBUICAO["basicos"].items():
                     materias_alvo = MAPA_DB.get(disciplina, [])
                     questoes_temp = []
 
-                    # Tratamento Especial para Línguas (Port/Inglês)
                     if "interpretacao" in regras:
-                        # Pega a cota de Interpretação
                         q_int = buscar_questoes(cursor, materias_alvo, regras["interpretacao"], 'interpretacao')
-                        # Pega a cota de Gramática (o resto)
                         q_gram = buscar_questoes(cursor, materias_alvo, regras["gramatica"], 'gramatica')
                         questoes_temp.extend(q_int + q_gram)
                     else:
-                        # Demais matérias básicas
                         questoes_temp.extend(buscar_questoes(cursor, materias_alvo, regras["total"]))
 
-                    print(f"   ✓ {disciplina}: {len(questoes_temp)}/{regras['total']} encontradas.")
                     simulado["caderno_basico"].extend(questoes_temp)
 
                 # --- PARTE 2: CONHECIMENTOS ESPECÍFICOS ---
-                print("🔬 Buscando Conhecimentos Específicos (90 q)...")
                 for disciplina, regras in DISTRIBUICAO["especificos"].items():
                     materias_alvo = MAPA_DB.get(disciplina, [])
-                    
                     questoes_temp = buscar_questoes(cursor, materias_alvo, regras["total"])
-                    
-                    print(f"   ✓ {disciplina}: {len(questoes_temp)}/{regras['total']} encontradas.")
                     simulado["caderno_especifico"].extend(questoes_temp)
 
-        # --- FINALIZAÇÃO E METADADOS ---
+        # --- FINALIZAÇÃO ---
         simulado["metadados"]["basicos"] = len(simulado["caderno_basico"])
         simulado["metadados"]["especificos"] = len(simulado["caderno_especifico"])
         simulado["metadados"]["total_questoes"] = simulado["metadados"]["basicos"] + simulado["metadados"]["especificos"]
 
-        # Salva o arquivo JSON final
-        nome_arquivo = "simulado_pronto_180q.json"
-        with open(nome_arquivo, 'w', encoding='utf-8') as f:
+        # Caminho e nome do arquivo
+        nome_arquivo = f"simulado_pronto_numero_{numero_simulado}.json"
+        caminho_completo = os.path.join(pasta_saida, nome_arquivo)
+
+        with open(caminho_completo, 'w', encoding='utf-8') as f:
             json.dump(simulado, f, indent=4, ensure_ascii=False)
 
-        print("-" * 50)
-        print(f"✅ SIMULADO GERADO COM SUCESSO!")
-        print(f"   Total Real: {simulado['metadados']['total_questoes']} questões")
-        print(f"   Arquivo: {nome_arquivo}")
-        print("-" * 50)
+        print(f"   ✅ Salvo: {nome_arquivo} ({simulado['metadados']['total_questoes']} questões)")
 
     except psycopg.Error as e:
-        print(f"❌ Erro no Banco de Dados: {e}")
+        print(f"   ❌ Erro no Banco de Dados ao gerar simulado #{numero_simulado}: {e}")
+    except Exception as e:
+        print(f"   ❌ Erro inesperado: {e}")
 
+# =============================================================================
+# 4. EXECUÇÃO PRINCIPAL
+# =============================================================================
 if __name__ == "__main__":
-    gerar_simulado()
+    # 1. Identificar quantidade de simulados via argumento (ex: --30)
+    qtd_simulados = 1 # Valor padrão
+    
+    for arg in sys.argv:
+        if arg.startswith("--") and arg[2:].isdigit():
+            qtd_simulados = int(arg[2:])
+            break
+            
+    print("=" * 60)
+    print(f"🚀 INICIANDO GERAÇÃO EM LOTE")
+    print(f"   Quantidade solicitada: {qtd_simulados}")
+    print("=" * 60)
+
+    # 2. Criar pasta de saída se não existir
+    PASTA_SAIDA = "generated_simulados"
+    if not os.path.exists(PASTA_SAIDA):
+        os.makedirs(PASTA_SAIDA)
+        print(f"📂 Pasta criada: {PASTA_SAIDA}")
+    else:
+        print(f"📂 Pasta selecionada: {PASTA_SAIDA}")
+
+    # 3. Loop de geração
+    for i in range(1, qtd_simulados + 1):
+        gerar_simulado(i, PASTA_SAIDA)
+
+    print("=" * 60)
+    print("🏁 PROCESSO CONCLUÍDO.")
