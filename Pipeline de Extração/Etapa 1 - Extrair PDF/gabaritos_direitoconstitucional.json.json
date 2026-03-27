@@ -1,0 +1,10326 @@
+[
+    {
+        "id_tec": "3440688",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157171",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1403084",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495833",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3546935",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3552591",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599507",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625422",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875889",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3075533",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3101805",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3118198",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3118202",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3202212",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367836",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2497801",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2503611",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2520681",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2589000",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2637602",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509429",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1656971",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1796682",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1143350",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "844648",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693574",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694174",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694412",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705318",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534500",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534502",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534510",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2503607",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1908078",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157169",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545614",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2369218",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157862",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509477",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3606593",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3082939",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3082977",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497790",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1908075",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "589436",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596607",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534112",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841952",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841955",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3341604",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3348031",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3450417",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495086",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3499534",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3501275",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3514030",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545625",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3545629",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3599486",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599487",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3606586",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3606591",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3661436",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3661438",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3661440",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2779625",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2980595",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2988117",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3074899",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3074900",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497793",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2497799",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2503609",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2601544",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2609053",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609054",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609055",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613740",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613743",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2614674",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761090",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2761096",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990053",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2007337",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2028018",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2028019",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2035879",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509700",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545616",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624311",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1624313",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624314",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1718295",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730634",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "955651",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "595196",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684182",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684183",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684184",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693360",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "763091",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "767787",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474435",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "530949",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534106",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3249796",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290531",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3315017",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3348021",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438933",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3438935",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3453941",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3492594",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599492",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2775391",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2841465",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875305",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875313",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2890611",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2933927",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2972973",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2992766",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995274",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2996036",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2996040",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3008042",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3172490",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3202211",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206588",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2338711",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400291",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421659",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637597",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689984",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689985",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2714844",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1968186",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1990057",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012064",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012066",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012167",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157861",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157863",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208408",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208410",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208412",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1505976",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509480",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718296",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718506",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1718507",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1718508",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1783903",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1837235",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896482",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143311",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1143315",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143318",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1439172",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625396",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625398",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628527",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684187",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694164",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "464514",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841951",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841953",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3841954",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857464",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857467",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857468",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3447965",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495831",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3514029",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3625425",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2779627",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2779629",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2934997",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2934998",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041230",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3172481",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367839",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497796",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2503610",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2689992",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716617",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1997426",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2214888",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509703",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545618",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545619",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1783901",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625400",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "665873",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "665876",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684181",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474306",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534114",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534487",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497794",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545620",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625409",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "696281",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474302",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474307",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271511",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290409",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290411",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3450413",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875830",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875834",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935000",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883963",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1908074",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990059",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2101864",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156872",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157174",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157176",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157177",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509701",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509702",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509719",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545613",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545615",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545617",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1751157",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625408",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "628533",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2497838",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101862",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509698",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545626",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "955655",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249794",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271515",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3341598",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361405",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3499532",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3529687",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3529688",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3545739",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545740",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599489",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599493",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3606601",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2890591",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2933928",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2980599",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3075535",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206587",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2341794",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367842",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2396013",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2520651",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2601528",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2601539",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2601542",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609052",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2609056",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609057",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613741",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613742",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2614677",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2614679",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689983",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1917647",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1973753",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2003360",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2012063",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2035534",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2035883",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157867",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157868",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208325",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613260",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1503483",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509720",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1439174",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "843824",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "576531",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "577017",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "577018",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "577019",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "577020",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694490",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694491",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694894",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534894",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551445",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249763",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3252195",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3252197",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258863",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3284192",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495079",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3501280",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3514032",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2841466",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2933926",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367841",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367844",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2369212",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2601554",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2601557",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2601559",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2609059",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2614687",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2637598",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1968189",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1968190",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2007345",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1698811",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730799",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1751146",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1751147",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751148",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751149",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1796675",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2313415",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2313416",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2313417",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1143323",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1190929",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1190931",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1190932",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922551",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922553",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1043301",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "577015",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "593673",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "593675",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "593677",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "593679",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "623810",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249762",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3255556",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258868",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3501285",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041228",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3202214",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1698912",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "955652",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857469",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249793",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3255599",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3255600",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3312853",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3341592",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3346149",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3374005",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438934",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454183",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454184",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3492591",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495075",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3499542",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3501282",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544360",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3546932",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3552586",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3606599",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2775385",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2778648",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2778692",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2778694",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2779633",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2793990",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2793993",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794142",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2817080",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2854356",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854358",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875303",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875304",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875831",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935171",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935172",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972409",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2972410",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2972411",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972972",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2975129",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2975130",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2975132",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2975172",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2981567",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2981570",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2981574",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2981576",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2981579",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2987918",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2987919",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2987920",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2988119",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2988121",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3007766",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3039192",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3074902",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3075608",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3101798",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3101801",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3118191",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3118193",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3118216",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3172489",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206745",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206746",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206747",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367845",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2369219",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2369222",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2369225",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2369226",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395731",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2395732",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2395733",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395734",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395735",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2396024",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2396025",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2503612",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2503616",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2588951",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609062",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609064",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613744",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613745",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613746",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613747",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2614683",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2614684",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689989",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706439",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706445",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706447",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716613",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716614",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1917648",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982173",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990061",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2003515",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2007342",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2035526",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2035532",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2101867",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2101877",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156952",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208323",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2224788",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2224789",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2224790",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2224791",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2252185",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2252192",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613078",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509475",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509476",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1616372",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624317",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624318",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1624320",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1654953",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1656965",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1692471",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1692473",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1698806",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1698903",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1698938",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718411",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730790",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1730793",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740468",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740471",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740699",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740700",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740702",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740703",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740704",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1796676",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1796678",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1837231",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1837237",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896366",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896368",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1897241",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1125450",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1125452",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143321",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1191529",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1191531",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "778200",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "778203",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "778236",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "778240",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "843827",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922552",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922557",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1041120",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1041124",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "576530",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "576532",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "593670",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596613",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "616240",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "623847",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684348",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "686661",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "686936",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "686937",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693368",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693369",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693598",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694165",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694474",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694478",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694492",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694896",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "699062",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699064",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "699202",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "699214",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705319",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705320",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "705322",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "763092",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "769486",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "464512",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474298",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474305",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534499",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534501",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534773",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534774",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534896",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534897",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534898",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534900",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "551399",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "551410",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "552263",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561965",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "561990",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "563173",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319372",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2817079",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935004",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2987917",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3172492",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2338710",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2503614",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740705",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "623850",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474299",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "551412",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319356",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361106",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3450467",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495083",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995278",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2588952",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637595",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1908081",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1968264",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012181",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2064794",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157801",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1505977",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "955650",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1041123",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694480",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474301",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562815",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258628",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3319350",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935002",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3192097",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883958",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2064795",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628543",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "628544",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "628545",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474296",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716615",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2064796",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157802",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1611281",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751150",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "533956",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534120",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3312854",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361105",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3450393",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545712",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2890620",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2933933",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2980604",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1968258",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2150748",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "596736",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694479",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534899",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935790",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2988118",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1616374",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1439173",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3827496",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3828673",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857471",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3284190",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3284193",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3284195",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3348018",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495090",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2777518",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2777519",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2777520",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2777521",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2777522",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2777523",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875309",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2972977",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2973106",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2980605",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2980658",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3008091",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206585",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206724",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397441",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400271",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2761462",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1908083",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2003517",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2028020",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208330",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2252193",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613084",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509472",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1616373",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740708",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534903",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3828670",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857470",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3453939",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3499545",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2775381",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3008092",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2020055",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2252196",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1654955",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534121",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534778",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3514033",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2846442",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2980601",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2341800",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982175",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1982180",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2020056",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2252201",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1730789",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740470",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1751152",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "620701",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "620703",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "620705",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694475",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534132",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534779",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3296849",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3378386",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3499540",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545741",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397445",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613748",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2614689",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2150746",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2224793",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1191530",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684349",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534904",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3249795",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361399",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3447963",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3499549",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3501288",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3501292",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625438",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3664872",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3101796",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3118188",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2035530",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1727771",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740724",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3499547",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1625128",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896365",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "686660",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561987",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271520",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3501290",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3502071",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544357",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544358",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3664871",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972975",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972981",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2980602",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3118195",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2503613",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706443",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1982169",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982171",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2035528",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2210293",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1611279",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1727776",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1730795",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1191532",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "778202",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "874839",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596769",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "620708",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694166",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694476",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699220",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534117",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "551408",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3378382",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495092",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3172491",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206586",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2252199",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1796677",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "955653",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "686663",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694167",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694897",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699217",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534780",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534901",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551407",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551409",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561992",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544350",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3544352",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3664870",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2775387",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2996026",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041229",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206480",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397442",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421499",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421562",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2614686",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982176",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2007339",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2020025",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156880",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2224792",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1656970",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740726",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "843829",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "620706",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "686662",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694477",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3546929",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854357",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3186027",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3202213",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421501",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2503615",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990063",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2150744",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684188",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694168",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699223",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534777",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534902",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3318006",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935144",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3078635",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206590",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395736",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2396026",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2589007",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1883957",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1990065",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2012187",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101866",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2159469",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2207629",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208590",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208591",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208592",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208593",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1503487",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1718503",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718504",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1718505",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1730785",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1143328",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1190934",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628650",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693364",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694486",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694487",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694489",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534781",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "552268",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562958",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3827102",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841958",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841959",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3318018",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3318019",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319349",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3346152",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3348014",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3349967",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438915",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3438920",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3453938",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3453948",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3514036",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3569270",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3569272",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3606609",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3606610",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3606612",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3606615",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3664873",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2775394",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2775396",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2779644",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2789209",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2841471",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854355",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2854591",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2855337",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875308",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2890583",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2933931",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2996046",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3039193",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041481",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3082343",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2271323",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2271324",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2271325",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2305156",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367846",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395740",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421554",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421660",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497835",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2588955",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2588957",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716605",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1897303",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1897305",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1897617",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1972682",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982187",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1997414",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2003516",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2007351",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012185",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012200",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2159459",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2159460",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2159470",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2159471",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2159472",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2207610",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2207611",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208326",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2214889",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2292556",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613081",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509790",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1616377",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1730791",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896373",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1125399",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143333",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1143349",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1403008",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922233",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922547",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922548",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "955749",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "576533",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "576534",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "595195",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596733",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "616245",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "616246",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "664242",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "664243",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "666996",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "666998",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684193",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693361",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693584",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694189",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694403",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "695247",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699058",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705323",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "705324",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705325",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "464516",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474312",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "530932",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "530933",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534125",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534782",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534908",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "552269",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562784",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562785",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562957",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562959",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562960",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3249798",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3377450",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3450483",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3078634",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3186030",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2271322",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395739",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2396027",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2520682",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1997417",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2007354",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2150964",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157865",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922234",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1041118",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "666997",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "530930",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534906",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625439",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3664875",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935143",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935146",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935150",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935169",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935170",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075548",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2395737",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2590652",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2590654",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2066347",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156961",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208324",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1505980",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1616380",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896371",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1041115",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "576535",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "576536",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "576537",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628530",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "628531",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628652",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "664244",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693579",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474295",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562783",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361407",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438913",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438917",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3450486",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3502072",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875844",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3171528",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198748",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198751",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012189",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536646",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "844645",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "874844",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694488",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3370858",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3492595",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495832",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625440",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935007",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935008",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935142",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3173311",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206723",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367853",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2101868",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2207630",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2207631",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545625",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "874845",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922235",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "955658",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "596614",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "596615",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628651",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694902",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699231",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474310",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "530937",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3827128",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827499",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3828671",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3828674",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857472",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857474",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857482",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3312858",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3319347",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3341601",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3341690",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361101",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3374017",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3438929",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3492588",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495097",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495100",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625460",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3661461",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935174",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935175",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2975178",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2980590",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2980592",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2981584",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2981590",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2987922",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2987923",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2987924",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2987926",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2988123",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2992756",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3008046",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3008093",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075545",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075590",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3106896",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198762",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198766",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206496",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2271328",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367849",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2396028",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2396029",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2396031",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2609066",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609067",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613749",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613750",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982191",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2035537",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2101870",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2159458",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2159468",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2224794",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2224795",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2224796",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2252203",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2252205",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2252206",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730803",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1751138",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751139",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896377",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896483",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1190937",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "843807",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "843833",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "843957",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "844643",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1043621",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1043624",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1043626",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "577024",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "596811",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "615342",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625546",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625548",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625550",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625611",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625612",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625616",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684186",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699234",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705326",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "767789",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "769484",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474326",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "530945",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "530947",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534266",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534752",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534776",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534876",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561962",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562950",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562951",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3828672",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3841956",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249800",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3289768",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3289783",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3289785",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290534",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361099",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495102",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3514037",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935149",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935173",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2972413",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2973164",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2975171",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2975174",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2981582",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2981593",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2981594",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2987921",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2987925",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2988124",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2988125",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2996031",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3039194",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3199309",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3199322",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2271327",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421510",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2498007",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2609065",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982190",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1982193",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2028022",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2028028",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2035539",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2210292",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2224798",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2252207",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613262",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751141",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1144359",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "843835",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "844649",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "767790",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "767796",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474324",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474327",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "561961",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562949",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101876",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551393",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551396",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "551402",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551403",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551404",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "551405",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "551406",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "552267",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361103",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841961",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3841962",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3599505",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3348008",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2781688",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2341796",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2396033",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637601",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1982182",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2207614",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "874827",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694481",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290422",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3492597",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3552597",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3661446",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2781680",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781692",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2846443",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854360",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198757",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304764",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395738",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2396035",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2520654",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2520655",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2714855",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1937228",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1937938",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208396",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208398",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1837182",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922202",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "620709",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "666999",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693367",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694485",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705327",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "530935",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534421",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534422",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534783",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534920",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857475",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613263",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509450",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143365",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "530938",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249799",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545611",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613095",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509699",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "955928",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693366",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561997",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3447970",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3661449",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2972980",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206479",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2396034",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883964",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1883965",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2003519",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1190994",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "615351",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562789",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781696",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397454",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3315015",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544670",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781676",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2841470",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2846451",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3172494",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206594",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304766",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421644",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1990069",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1997413",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208401",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208404",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208405",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1536648",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718417",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718498",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718499",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718501",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1718502",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143359",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1439178",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1041116",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "577022",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "705078",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705079",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "464517",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534504",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534913",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857269",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2781678",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781684",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883962",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990051",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1997420",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2003365",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101865",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156874",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208594",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2214885",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509478",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545621",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730636",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1125451",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "955656",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "664246",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693371",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693591",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694484",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534018",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534785",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534921",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3661442",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694493",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857265",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545607",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781694",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2846448",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3039195",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421511",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421650",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2590663",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2590664",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2590665",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208595",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "667000",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534775",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534909",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561978",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781701",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827117",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3827127",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857264",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857267",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249797",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781698",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2781702",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875845",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3008044",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3172495",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3202220",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2338716",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2397455",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400435",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1883969",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883970",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1937232",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208596",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1505979",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536644",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1837227",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596610",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693370",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "530934",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534786",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562788",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827111",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3827123",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857271",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857287",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857476",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857483",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3374019",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2781679",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781681",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781695",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2781705",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857283",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857284",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3319319",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3346143",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361410",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3664157",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2846449",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854361",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2876123",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2891753",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2934922",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075549",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3078526",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3078533",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3199222",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304767",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304770",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304778",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2369184",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497973",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689920",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2003518",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012193",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012195",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156780",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156801",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156808",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157798",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157804",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509453",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509479",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536645",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1784124",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1784126",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1837228",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143362",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1439176",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "577021",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "577023",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534719",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "561977",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "561998",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3441917",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079260",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2714858",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536647",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536677",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "577032",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693635",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534419",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534715",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534838",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2590657",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156782",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156784",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156792",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156793",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156809",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156813",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157792",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157795",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2214883",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509696",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1784003",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1784119",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "843831",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694177",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534260",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534503",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534714",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534790",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534837",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3374013",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3599513",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2779646",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3202217",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2395741",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1982184",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2007366",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "616251",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "664249",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693365",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "530936",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3350068",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438922",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3441953",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3492600",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2794251",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2794259",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794262",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2890608",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935141",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3039383",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3039384",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206593",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2423848",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2520656",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613751",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2012191",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208399",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1837229",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896494",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1143366",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1439177",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "616253",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "664248",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "664250",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "667001",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693634",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534784",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534787",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534907",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561975",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561981",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438932",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3202219",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2271319",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2271320",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2271321",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2338712",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2503618",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2690002",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706446",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990066",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1654956",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "667002",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694482",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694904",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "464518",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534505",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "561994",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3502070",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875842",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2207616",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896490",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3450493",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3625441",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730800",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "844647",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "616250",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561995",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2992760",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3192100",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2341798",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208598",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "843944",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3341659",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3347993",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2779645",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2841468",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206591",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2397449",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208329",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1041108",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875839",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367851",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761046",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1982185",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2007376",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012197",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1041109",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625554",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249801",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3606603",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395742",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990068",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "664253",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "667004",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "464515",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561966",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3341615",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562956",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827103",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1041110",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562005",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562780",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1143364",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827707",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271523",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625437",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794536",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995280",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3199224",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2397446",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637606",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1972687",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2207615",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2214893",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545656",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1705323",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "844005",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "844007",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596609",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625052",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561968",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562952",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3341679",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3378380",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3039387",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3172498",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2395744",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421529",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421530",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637615",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2007368",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157803",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208599",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613264",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536643",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1624332",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1624333",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730635",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1191536",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "843949",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1043614",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "616256",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "667003",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "705085",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562954",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367840",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1790261",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474292",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562782",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3249802",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3346116",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3347994",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3599496",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2846450",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2992758",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2996023",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2996024",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3202215",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1997418",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2003520",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2210296",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509481",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1509695",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896488",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1190946",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1191538",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "874847",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "874850",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "664251",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693636",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705083",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "705087",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534792",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534922",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534926",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561970",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3546720",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3546721",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3546722",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2777805",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995279",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3186032",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3188029",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198950",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2395745",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2396019",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2423844",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208597",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509694",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536649",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1043610",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625401",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625552",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694906",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "705329",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534124",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534923",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534925",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "561999",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562953",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3249803",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3249804",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3378381",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3440848",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599500",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3625436",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2995277",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "596608",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684191",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562955",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3341606",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3341662",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3347997",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935776",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935780",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2497978",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "595197",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "595198",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "596768",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596770",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2497988",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1043613",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2972979",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3008048",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3192099",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562781",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2890602",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2064800",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2101869",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730638",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2846444",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2846447",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3186031",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2368793",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400288",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400431",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421561",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101873",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613101",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922564",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1041105",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "616254",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684192",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "693616",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474315",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562787",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3828667",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3440852",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2890594",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157796",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536650",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1190943",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1043616",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1043618",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693612",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694483",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3039199",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3172496",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3202216",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1191533",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "874856",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694910",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "705330",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534507",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198687",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198688",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156785",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1505981",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1751144",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534797",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2841473",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2338715",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421512",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421651",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421652",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421655",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2007380",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157161",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157163",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157165",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2159465",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2159466",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2159467",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1190942",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694909",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "561969",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2714862",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "844642",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "874854",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3828663",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3828666",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3370881",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3514035",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2064801",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156873",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2208331",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3828664",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3828669",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361409",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3440853",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2846445",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2341797",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1937940",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2003521",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2003522",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2007386",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2064804",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1624334",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1191534",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "843956",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1041106",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "596611",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "665879",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "665880",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "464513",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474316",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534795",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3828665",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857258",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3625431",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2846446",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206592",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2395743",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400289",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400432",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1968154",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2007382",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2064802",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156865",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2159461",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2159462",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2159463",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2210295",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751143",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1790270",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896484",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896486",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922549",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922550",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "693608",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694912",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "705089",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474313",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474317",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534122",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534498",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534796",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857259",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972989",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3192098",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2396032",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562786",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3008047",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857478",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495838",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625434",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935006",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935009",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935010",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972984",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3101802",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2339359",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2339368",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883955",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2208394",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1727783",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1727789",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "615347",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "615352",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "552273",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "552275",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3450421",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883956",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1727785",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1727787",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "552265",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "552271",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3492601",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495830",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3546925",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3552593",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3552598",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972526",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3118206",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2339366",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1883967",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624322",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624329",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1654958",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1656968",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1692464",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1698826",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1727781",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1730805",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740444",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740472",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740473",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740484",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740508",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740510",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740727",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740730",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1796683",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1796684",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896375",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896376",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1896476",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1896477",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "778201",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "778204",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "615348",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "616255",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684194",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684195",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "686168",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "686169",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "699055",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "699056",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "699057",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699059",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699238",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "699240",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "552272",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3289784",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3290523",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3314973",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361104",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3446315",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305152",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305153",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637719",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637720",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2690081",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474319",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3314971",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3314972",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599516",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794503",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794506",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305148",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305150",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2521321",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1972614",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2214886",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827690",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3604346",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3102868",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495839",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041257",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3102873",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637721",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3514039",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2637723",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2637725",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156912",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3502075",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3199218",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2305094",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305098",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2591301",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474318",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857285",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271618",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3441957",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3502074",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794527",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794529",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2794533",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2876090",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305122",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367852",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972683",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1972684",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2012199",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2214890",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2214891",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2214892",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1624907",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1705325",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1190939",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922238",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "665886",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361107",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361108",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3454657",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454658",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3454659",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3454660",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3454661",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454662",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454663",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2789213",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2818584",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2818586",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2818587",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2818591",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2854587",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854590",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3039202",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3101807",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3101810",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2305030",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305031",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2305033",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2305034",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2305035",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2305038",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2305041",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2395724",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2591297",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716607",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2207612",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2207613",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2207632",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2207633",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2292479",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1506034",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545682",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545683",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545686",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545687",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545688",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545689",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545690",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1616394",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1718414",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1125454",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1125455",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1125459",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "667006",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3318021",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3318024",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3450831",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454664",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454665",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3454666",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041239",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041241",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2397531",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041240",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421509",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497995",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2591078",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2591083",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2591085",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2064950",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1439184",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "908244",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454667",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3454669",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3545617",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3101809",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290502",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2875827",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2983050",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041480",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3199288",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3199298",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1990727",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2020064",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156959",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1510042",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1510044",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1616379",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1796679",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1144360",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "647795",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "686935",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1976316",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290500",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2983047",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2983054",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2983763",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3008877",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2369243",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101878",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751151",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1043299",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "647796",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "647797",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1956966",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1956968",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1976318",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1976319",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474309",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534127",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534130",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "592200",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3284196",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3289767",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3289771",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3502076",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3514038",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2451544",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1908084",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718415",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "686934",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400385",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "980784",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3241870",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3296811",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3296848",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3296850",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3296852",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3305213",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3305218",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3305220",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3305223",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3374022",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3377197",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3498279",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3498280",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3514059",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2795598",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2795616",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2846174",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2976402",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2976406",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2976417",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2981557",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3039200",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3076331",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3076332",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079265",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079268",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400273",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2531745",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2637612",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2066344",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2153587",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2153591",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1439182",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "694404",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "697053",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "697057",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "726092",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1974367",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "460238",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "460664",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "460666",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474311",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562933",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3349953",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2855335",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2855336",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "615353",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "615356",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "615360",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148261",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148262",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148264",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148265",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148266",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3148267",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148268",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148269",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3148270",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3148271",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3148272",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2613099",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922556",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544335",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3544344",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544347",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3546773",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3552594",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2789210",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854569",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2854570",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2854571",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935113",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2983192",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041296",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3118213",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421555",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421556",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2498000",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761060",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1897319",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1897618",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1897627",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2020065",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1654961",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1796680",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1403443",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "596612",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "620710",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "620711",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "623868",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3374024",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3374026",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400272",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400387",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1654962",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "980788",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3346139",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3447973",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495834",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3544338",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3544342",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3545620",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2789212",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3007762",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3118211",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497998",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1897320",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1796681",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "696204",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1611277",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624325",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075551",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "615341",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3289786",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3290517",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3438928",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1908365",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1908379",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1908385",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2224932",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "616262",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "534109",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258631",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319338",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3447968",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2972987",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3008051",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367863",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497836",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883966",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545663",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624335",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1624337",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1624338",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1041113",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562779",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3346131",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3172479",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367862",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421500",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1997425",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625050",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474289",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3448100",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495837",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3008049",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3039190",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3039386",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041235",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761047",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761049",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1883960",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972606",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2150759",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2150762",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1730637",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751156",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628536",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "684189",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "684190",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "530943",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "562002",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "562006",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3346108",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3545591",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2339373",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2637610",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "694175",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3192104",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2497991",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2503608",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3319334",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3346122",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3448086",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495836",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625429",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2367864",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761045",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1705237",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1751154",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1751155",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3448105",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041236",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716619",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545658",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545662",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922237",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827099",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3495835",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3625428",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041237",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3192101",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3192102",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3192103",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101863",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628534",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474304",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3255588",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258891",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258892",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3290405",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3316543",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319352",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319357",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319359",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3319365",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3450472",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3450476",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3502068",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545602",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3546716",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3661460",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2779630",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2793966",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2793967",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2875829",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995402",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995403",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995405",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3007759",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3074901",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3075538",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3075540",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3076391",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3079258",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079266",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3186028",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3192096",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206474",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206475",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206477",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206478",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2369217",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2397443",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2521364",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2521368",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2601552",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2689987",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716616",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012168",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2012180",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2012183",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509474",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545623",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1611276",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1611316",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1611317",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1692458",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1692466",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1692476",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718412",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1727769",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740465",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740466",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1740467",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1740469",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "874825",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "874826",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "616242",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "616243",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "623848",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625391",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841957",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258630",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3346113",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3453944",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2779631",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2975131",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400295",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400440",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400441",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157800",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545562",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545622",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1692469",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1727779",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922558",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922560",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "922561",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625043",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625392",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271510",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545595",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2841467",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2973109",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2421508",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2690001",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2714847",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716622",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761054",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1908089",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1536663",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1727772",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1937948",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1611278",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625045",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3007765",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2689991",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545624",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3828668",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079262",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206481",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2521361",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689995",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258894",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271519",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271525",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3361100",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361102",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3438919",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3438936",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3450490",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3502069",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3546718",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2854359",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041297",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304826",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304838",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689993",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2714851",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2714852",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716606",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716621",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1883961",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1908090",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012188",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2214884",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509616",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1705231",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1705233",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1705234",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2521346",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972620",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101872",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258638",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271518",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271545",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3284202",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3290428",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3341599",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3502073",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2779635",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2934991",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2934993",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2980556",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3075539",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075543",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075546",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3075547",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3078636",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3078637",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3102836",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3172458",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198768",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206725",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400439",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2498028",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2503617",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2689998",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706438",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706440",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706442",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706444",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706449",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706450",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706451",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706452",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2706453",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706454",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706455",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706456",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2706457",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716623",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1937922",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1937924",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1937936",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972622",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1997421",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2028026",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101875",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157797",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2613258",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1698917",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1718413",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1783900",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "628524",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628526",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628529",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474323",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3315020",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3529659",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3079270",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258900",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3545608",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3661452",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400436",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2012192",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156835",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857248",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3361109",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "628537",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "628540",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "628542",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827125",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258624",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258903",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271517",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3290420",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3441948",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3545605",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2841474",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206484",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2304834",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400290",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2497993",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1937945",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1937949",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2101874",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3440690",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3075550",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079264",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3079273",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3106895",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3106897",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198660",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198662",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198670",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2304836",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2397453",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2689921",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2690004",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2714859",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2715090",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2715092",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716609",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716612",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1937230",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1937929",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156786",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156788",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156789",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2156790",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2157794",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157799",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157807",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "534789",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400437",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716624",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2156871",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3599502",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3007758",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397451",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625049",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625051",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258626",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3546719",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2935148",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2995276",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3206485",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3206486",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2400438",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2714861",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1790269",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1790279",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1790280",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1790284",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "616249",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857247",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258888",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3258889",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258893",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271527",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3315019",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3315021",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3374028",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3440855",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421642",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2497981",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2637604",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2714742",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1884151",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1884156",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1968296",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1997427",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2157805",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1509697",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1545659",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545660",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545661",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1790267",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1790272",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922565",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857250",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3857252",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3447974",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198761",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2503620",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545628",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3827694",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3827701",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3841960",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2794515",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2794518",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3041256",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041259",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3102857",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3102877",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1908086",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972613",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1545657",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "474322",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3661455",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198759",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2421507",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716608",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3041238",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "474520",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1972617",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972626",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3374015",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3495722",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2761052",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "922562",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "623811",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "625044",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3827105",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258637",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271514",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271529",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3271531",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3315016",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3315018",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3374003",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3374008",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3606608",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079255",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3198750",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3198940",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2339369",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2339371",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367837",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397447",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397448",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400293",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2400434",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2716618",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2716620",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972608",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1972610",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2150756",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1705235",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "1790262",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1790265",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "616263",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "625406",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3857262",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3625361",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2777806",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2304829",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2397444",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "1937942",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3258899",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "3271526",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2935110",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "3079257",
+        "gabarito": "Certo"
+    },
+    {
+        "id_tec": "2367861",
+        "gabarito": "Errado"
+    },
+    {
+        "id_tec": "2397452",
+        "gabarito": "Certo"
+    }
+]

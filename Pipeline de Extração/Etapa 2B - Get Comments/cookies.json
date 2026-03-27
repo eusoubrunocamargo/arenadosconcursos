@@ -1,1 +1,102 @@
-[{"domain":".tecconcursos.com.br","expirationDate":1803504971.270914,"hostOnly":false,"httpOnly":false,"name":"_ga","path":"/","sameSite":"unspecified","secure":false,"session":false,"storeId":"0","value":"GA1.1.1140343408.1768944971"},{"domain":".tecconcursos.com.br","expirationDate":1805474412,"hostOnly":false,"httpOnly":false,"name":"_clck","path":"/","sameSite":"unspecified","secure":false,"session":false,"storeId":"0","value":"u81xs2%5E2%5Eg4h%5E0%5E2211"},{"domain":".tecconcursos.com.br","expirationDate":1776720971,"hostOnly":false,"httpOnly":false,"name":"_gcl_au","path":"/","sameSite":"unspecified","secure":false,"session":false,"storeId":"0","value":"1.1.1844552445.1768944971.390545305.1773938473.1773938473"},{"domain":"www.tecconcursos.com.br","hostOnly":true,"httpOnly":true,"name":"JSESSIONID","path":"/","sameSite":"no_restriction","secure":true,"session":true,"storeId":"0","value":"556FE1BC0AE5DF600244A377324F4722"},{"domain":"www.tecconcursos.com.br","expirationDate":1775148073.927503,"hostOnly":true,"httpOnly":true,"name":"TecPermanecerLogado","path":"/","sameSite":"unspecified","secure":true,"session":false,"storeId":"0","value":"MjJjYWM4ZjItNTE4OC00ODg4LTk1NzItYWYxOTY0NWE5N2Rh"},{"domain":".tecconcursos.com.br","expirationDate":1808498474.510545,"hostOnly":false,"httpOnly":false,"name":"_ga_1LNYCM2MLB","path":"/","sameSite":"unspecified","secure":false,"session":false,"storeId":"0","value":"GS2.1.s1773938416$o13$g1$t1773938474$j2$l0$h1975021722"},{"domain":"www.tecconcursos.com.br","expirationDate":1774543274.846168,"hostOnly":true,"httpOnly":false,"name":"AWSALB","path":"/","sameSite":"unspecified","secure":false,"session":false,"storeId":"0","value":"FUcimFqIFlvUbZAqyy2T1v03q1X1Hoc7obk01wOG24nLmR4q5W8KlfQallnh12pdF2IS81rK1e67Fwi9DazCKny7Tdb/usKjT+tRTYPdJotwcqSyloX1EzMh5OW7+J8QyBfupCH9ja9MxflghJMKXa0M86vT6YWd+gwD24EXqFf+LEcwXJhZaVa8h9w0iw=="},{"domain":"www.tecconcursos.com.br","expirationDate":1774543274.846282,"hostOnly":true,"httpOnly":false,"name":"AWSALBCORS","path":"/","sameSite":"no_restriction","secure":true,"session":false,"storeId":"0","value":"FUcimFqIFlvUbZAqyy2T1v03q1X1Hoc7obk01wOG24nLmR4q5W8KlfQallnh12pdF2IS81rK1e67Fwi9DazCKny7Tdb/usKjT+tRTYPdJotwcqSyloX1EzMh5OW7+J8QyBfupCH9ja9MxflghJMKXa0M86vT6YWd+gwD24EXqFf+LEcwXJhZaVa8h9w0iw=="},{"domain":".tecconcursos.com.br","expirationDate":1774024874,"hostOnly":false,"httpOnly":false,"name":"_clsk","path":"/","sameSite":"unspecified","secure":false,"session":false,"storeId":"0","value":"phl6y9%5E1773938474866%5E4%5E0%5Ey.clarity.ms%2Fcollect"}]
+[
+  {
+    "name": "_clck",
+    "value": "u81xs2%5E2%5Eg4m%5E0%5E2211",
+    "domain": ".tecconcursos.com.br",
+    "path": "/",
+    "expires": 1805905392,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_clsk",
+    "value": "1eppy5f%5E1774370049452%5E5%5E1%5Ey.clarity.ms%2Fcollect",
+    "domain": ".tecconcursos.com.br",
+    "path": "/",
+    "expires": 1774456449,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.1140343408.1768944971",
+    "domain": ".tecconcursos.com.br",
+    "path": "/",
+    "expires": 1803504971,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_1LNYCM2MLB",
+    "value": "GS2.1.s1774370034$o18$g1$t1774370049$j45$l0$h395543248",
+    "domain": ".tecconcursos.com.br",
+    "path": "/",
+    "expires": 1808930049,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1844552445.1768944971.612267198.1774370044.1774370044",
+    "domain": ".tecconcursos.com.br",
+    "path": "/",
+    "expires": 1776720971,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALB",
+    "value": "Bdjh6K3Azu/DlSTjOsNVbG/gvynedWzhHY4EdK/u6Kd/r/cB7ySOhSNFBl5UeD1+K2W0ta9mwFpBTYOXkXKJO1Lz0XbZq3CE1Gw5hbkie9gJLZlCaneoqRO9I3UJuHAbXjG/yN/z1VRr+Pwm+CxEqUOiZ1x1/G7BVW64smFTKaJr33ZUF4qKAgTYA40RBg==",
+    "domain": "www.tecconcursos.com.br",
+    "path": "/",
+    "expires": 1774975303,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "AWSALBCORS",
+    "value": "Bdjh6K3Azu/DlSTjOsNVbG/gvynedWzhHY4EdK/u6Kd/r/cB7ySOhSNFBl5UeD1+K2W0ta9mwFpBTYOXkXKJO1Lz0XbZq3CE1Gw5hbkie9gJLZlCaneoqRO9I3UJuHAbXjG/yN/z1VRr+Pwm+CxEqUOiZ1x1/G7BVW64smFTKaJr33ZUF4qKAgTYA40RBg==",
+    "domain": "www.tecconcursos.com.br",
+    "path": "/",
+    "expires": 1774975303,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "JSESSIONID",
+    "value": "0F5E5F6E274091CC871F6C4C701AC9EA",
+    "domain": "www.tecconcursos.com.br",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUID",
+    "value": "1BBE7CC7EBB06E2F28A46A07EA016F05",
+    "domain": ".clarity.ms",
+    "path": "/",
+    "expires": 1808066035,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "TecPermanecerLogado",
+    "value": "M2U5Yzk4YjUtOTdmNi00ZTFlLWI1MTQtOThjZTBmOWU0ZGFi",
+    "domain": "www.tecconcursos.com.br",
+    "path": "/",
+    "expires": 1775579645,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

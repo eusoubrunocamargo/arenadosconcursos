@@ -111,8 +111,13 @@ _RE_REF_LEGAL = re.compile(
 
 # --- Heuristicas tipo_cobranca ---
 _RE_JURISPRUDENCIA = re.compile(
-    r'\bjurisprud[eê]ncia\b|stf\b|stj\b|tse\b|tcu\b|'
-    r's[uú]mula\s*(?:vinculante\s*)?\d+|\bprecedente\b|\bac[oó]rd[aã]o\b',
+    r'\bjurisprud[eê]ncia\b|'
+    r'\bstf\b|\bstj\b|\btse\b|\btcu\b|\bstm\b|\bcnj\b|'
+    r's[uú]mula\s*(?:vinculante\s*)?\d+|'
+    r'\bac[oó]rd[aã]o\b|'
+    # "precedente" isolado e ambiguo — captura SOMENTE quando
+    # explicitamente vinculado a um tribunal (precedente do STF, etc.)
+    r'\bprecedente\s+(?:do\s+)?(?:stf|stj|tse|tcu|stm|cnj|tribunal)',
     re.IGNORECASE
 )
 _RE_REF_LEI_HEUR = re.compile(
@@ -263,9 +268,10 @@ def separar_componentes(html):
 # --- Auxiliares internos ---
 
 def _construir_a_partir_do_gatilho(html, texto, m, tem_img, img_url, padrao):
-    antes    = texto[:m.start()].strip()
-    cmd_txt  = m.group(0).strip()
-    enum_txt = re.sub(r'^[\s.,;:]+', '', texto[m.end():]).strip()
+    antes      = texto[:m.start()].strip()
+    # Usa _split_cmd_enunciado para capturar o tail do comando
+    # (ex: 'subsecutivo', 'seguinte, relativo ao texto', etc.)
+    cmd_txt, enum_txt = _split_cmd_enunciado(texto, m)
     tem_apoio  = len(antes) > 80
     apoio_html = _reconstruir_apoio(html, antes) if tem_apoio else None
     return _resultado(
@@ -277,13 +283,61 @@ def _construir_a_partir_do_gatilho(html, texto, m, tem_img, img_url, padrao):
     )
 
 
+def _split_cmd_enunciado(texto_completo, m_gatilho):
+    """
+    Dado o match do gatilho e o texto completo, retorna (cmd, enunciado)
+    consumindo o tail do comando que o regex nao captura.
+
+    Problema corrigido: o regex de gatilho termina no token canonico
+    ('item', 'a seguir', etc.) mas o comando CEBRASPE frequentemente
+    continua com palavras adicionais ate o ponto final:
+
+      'julgue o item subsecutivo.'   - cmd completo
+      'julgue o item a seguir'       - cmd sem ponto, ja ok
+
+    Regra de corte: o enunciado comeca sempre com letra maiuscula
+    apos whitespace/quebra de linha.
+
+    Casos tratados:
+      1. tail comeca imediatamente com maiuscula (cmd ja esta completo)
+      2. tail tem extensao do cmd ate ponto + quebra + maiuscula
+    """
+    pos  = m_gatilho.end()
+    tail = texto_completo[pos:]
+
+    # Caso 1: o gatilho ja capturou o comando completo;
+    # tail comeca com espaco/quebra seguido de maiuscula.
+    if re.match(r'^[\s\r\n]*[A-Z\xc0-\xde]', tail):
+        cmd = m_gatilho.group(0).strip().rstrip('.:,')
+        return cmd, tail.lstrip()
+
+    # Caso 2: tail contem extensao do comando
+    # (ex: 'subsecutivo, relativo ao texto.')
+    # seguida de quebra de linha + maiuscula (inicio do enunciado).
+    m_corte = re.search(
+        r'^(.*?[.!?])\s*[\r\n]+\s*([A-Z\xc0-\xde])',
+        tail,
+        re.DOTALL
+    )
+    if m_corte:
+        extensao  = m_corte.group(1).strip()
+        gatilho   = m_gatilho.group(0).rstrip('.').strip()
+        cmd       = (gatilho + ' ' + extensao).rstrip('.').strip()
+        enunciado = tail[m_corte.start(2):].strip()
+        return cmd, enunciado
+
+    # Fallback: comportamento anterior
+    cmd = m_gatilho.group(0).strip()
+    enunciado = re.sub(r'^[\s.,;:]+', '', tail).strip()
+    return cmd, enunciado
+
+
 def _dividir_pelo_gatilho(html):
     texto = html_para_texto(html) or ""
     for regex in (_RE_GATILHO_PRIMARIO, _RE_GATILHO_TYPO):
         m = regex.search(texto)
         if m:
-            cmd_txt  = m.group(0).strip()
-            enum_txt = re.sub(r'^[\s.,;:]+', '', texto[m.end():]).strip()
+            cmd_txt, enum_txt = _split_cmd_enunciado(texto, m)
             return f"<p>{cmd_txt}</p>", f"<p>{enum_txt}</p>"
     return html, ""
 
@@ -337,14 +391,113 @@ def _fallback(html, motivo):
 
 
 # =============================================================================
+# 3b. SEPARACAO PARA MULTIPLA ESCOLHA
+# =============================================================================
+
+def separar_componentes_me(html):
+    """
+    Para questoes de multipla escolha a estrutura e mais simples:
+      - Nao ha "julgue o item" — o enunciado_tec_html IS o stem da pergunta.
+      - <article class='textoassociado'> ainda pode existir como texto_apoio,
+        mas no dataset atual nenhuma ME o possui.
+      - comando_html fica sempre nulo (sem semantica equivalente para ME).
+
+    Retorna o mesmo dict de _resultado, mas com:
+      comando_html/texto = None
+      _padrao            = "me_direto" | "me_com_article"
+    """
+    if not html or not html.strip():
+        return _fallback(html, "html_vazio")
+
+    soup    = BeautifulSoup(html, "html.parser")
+    img     = soup.find("img")
+    tem_img = img is not None
+    img_url = img.get("src") if img else None
+
+    # Texto_apoio via <article> (raro em ME, mas defensivo)
+    article = soup.find("article", class_=re.compile(r"textoassociado", re.I))
+    if article:
+        apoio_html = _limpar(str(article))
+        article.decompose()
+        for p in soup.find_all("p", class_="container-textoassociado"):
+            p.decompose()
+        enum_html = _limpar(soup.decode_contents()).strip() or None
+        padrao    = "me_com_article"
+    else:
+        apoio_html = None
+        enum_html  = _limpar(html).strip() or None
+        padrao     = "me_direto"
+
+    if not enum_html:
+        return _fallback(html, "me_sem_stem")
+
+    return {
+        "texto_apoio_html":  apoio_html,
+        "texto_apoio_texto": html_para_texto(apoio_html),
+        "comando_html":      None,
+        "comando_texto":     None,
+        "enunciado_html":    enum_html,
+        "enunciado_texto":   html_para_texto(enum_html),
+        "tem_imagem":        tem_img,
+        "imagem_url_tec":    img_url,
+        "_padrao":           padrao,
+    }
+
+
+# =============================================================================
+# 3c. PROCESSAMENTO DE ALTERNATIVAS (MULTIPLA ESCOLHA)
+# =============================================================================
+
+# Letras canonicas na ordem do TEC
+_LETRAS_ME = ["a", "b", "c", "d", "e"]
+
+def processar_alternativas(alternativas_raw):
+    """
+    Recebe a lista bruta de strings HTML do campo 'alternativas' da API
+    e devolve dois campos paralelos:
+
+      alternativas_html  : lista de strings HTML limpas, indexadas 0–4
+      alternativas_texto : lista de strings texto puro, indexadas 0–4
+
+    Cada item corresponde a uma letra (a=0, b=1, ...).
+    Se a lista vier vazia ou ausente, retorna duas listas vazias.
+    """
+    if not alternativas_raw or not isinstance(alternativas_raw, list):
+        return [], []
+
+    html_list  = []
+    texto_list = []
+
+    for item in alternativas_raw:
+        h = (item or "").strip()
+        html_list.append(h if h else None)
+        texto_list.append(html_para_texto(h))
+
+    return html_list, texto_list
+
+
+# =============================================================================
 # 4. AVALIACAO DE QUALIDADE
 # =============================================================================
 
-def avaliar_qualidade(comp):
+def avaliar_qualidade(comp, tipo_questao="CERTO_ERRADO"):
+    """
+    Para CERTO_ERRADO: logica original (fallback -> REQUER_REVISAO_MANUAL).
+    Para MULTIPLA_ESCOLHA: stem presente com >= 5 palavras = PERFEITA.
+      O conteudo das alternativas nao e avaliado aqui — o sanitizador
+      apenas preserva o HTML original; a curadoria e responsabilidade da Etapa 4.
+    """
+    enum_txt = (comp.get("enunciado_texto") or "").strip()
+
+    if tipo_questao == "MULTIPLA_ESCOLHA":
+        if not enum_txt or len(enum_txt.split()) < 5:
+            return "REQUER_REVISAO_MANUAL"
+        return "PERFEITA"
+
+    # CERTO_ERRADO — logica original
     if comp["_padrao"].startswith("fallback"):
         return "REQUER_REVISAO_MANUAL"
-    enum_txt = (comp.get("enunciado_texto") or "").strip()
-    cmd_txt  = (comp.get("comando_texto")   or "").strip()
+    cmd_txt = (comp.get("comando_texto") or "").strip()
     if not enum_txt or len(enum_txt.split()) < 5:
         return "REQUER_REVISAO_MANUAL"
     if len(enum_txt) < 20:
@@ -385,12 +538,22 @@ def extrair_referencia_legal(texto):
 # =============================================================================
 
 def sanitizar(bruto):
-    banca_info = parse_banca(bruto.get("banca_sigla", ""))
-    comp       = separar_componentes(bruto.get("enunciado_tec_html", ""))
-    qualidade  = avaliar_qualidade(comp)
-    tipo       = inferir_tipo_cobranca(comp)
-    ref_legal  = extrair_referencia_legal(comp.get("enunciado_texto"))
-    gabarito   = (bruto.get("gabarito") or "").upper() or None
+    tipo_questao = bruto.get("tipo_questao", "CERTO_ERRADO")
+    banca_info   = parse_banca(bruto.get("banca_sigla", ""))
+    gabarito     = (bruto.get("gabarito") or "").upper() or None
+
+    # Separacao de componentes — estrategia depende do tipo
+    if tipo_questao == "MULTIPLA_ESCOLHA":
+        comp = separar_componentes_me(bruto.get("enunciado_tec_html", ""))
+        alt_html, alt_texto = processar_alternativas(bruto.get("alternativas", []))
+    else:
+        comp      = separar_componentes(bruto.get("enunciado_tec_html", ""))
+        alt_html  = []
+        alt_texto = []
+
+    qualidade = avaliar_qualidade(comp, tipo_questao)
+    tipo      = inferir_tipo_cobranca(comp)
+    ref_legal = extrair_referencia_legal(comp.get("enunciado_texto"))
 
     return {
         # Identidade
@@ -405,6 +568,7 @@ def sanitizar(bruto):
         "cargo":             bruto.get("cargo_sigla")   or None,
         "concurso_area":     bruto.get("concurso_area") or None,
         # Classificacao
+        "tipo_questao":      tipo_questao,
         "id_materia_nome":   bruto.get("nome_materia")  or None,
         "id_assunto_nome":   bruto.get("nome_assunto")  or None,
         # Conteudo
@@ -414,6 +578,9 @@ def sanitizar(bruto):
         "comando_texto":     comp["comando_texto"],
         "enunciado_html":    comp["enunciado_html"],
         "enunciado_texto":   comp["enunciado_texto"],
+        # Alternativas (listas vazias para C/E)
+        "alternativas_html":  alt_html,
+        "alternativas_texto": alt_texto,
         # Resposta
         "gabarito":          gabarito,
         # Midia
@@ -465,17 +632,24 @@ def main():
     contadores = {}
     padroes    = {}
     tipos      = {}
+    tipo_q     = {"CERTO_ERRADO": 0, "MULTIPLA_ESCOLHA": 0}
 
     for bruto in brutos:
-        obj  = sanitizar(bruto)
-        comp = separar_componentes(bruto.get("enunciado_tec_html", ""))
+        obj = sanitizar(bruto)
+        # Recupera o padrao real do componente ja processado
+        tq = obj.get("tipo_questao", "CERTO_ERRADO")
+        if tq == "MULTIPLA_ESCOLHA":
+            comp_padrao = "me_direto"   # aproximacao; nao re-processa
+        else:
+            comp = separar_componentes(bruto.get("enunciado_tec_html", ""))
+            comp_padrao = comp["_padrao"]
         resultados.append(obj)
         q = obj["qualidade_extracao"]
         contadores[q] = contadores.get(q, 0) + 1
-        p = comp["_padrao"]
-        padroes[p] = padroes.get(p, 0) + 1
+        padroes[comp_padrao] = padroes.get(comp_padrao, 0) + 1
         t = obj["tipo_cobranca"]
         tipos[t] = tipos.get(t, 0) + 1
+        tipo_q[tq] = tipo_q.get(tq, 0) + 1
 
     with open(args.saida, "w", encoding="utf-8") as f:
         json.dump(resultados, f, ensure_ascii=False, indent=2)
@@ -485,6 +659,8 @@ def main():
     print(f"RELATORIO DA ETAPA 3 - SANITIZACAO")
     print(f"{'='*60}")
     print(f"Registros:               {total}")
+    print(f"  Certo/Errado:          {tipo_q.get('CERTO_ERRADO', 0)}")
+    print(f"  Multipla Escolha:      {tipo_q.get('MULTIPLA_ESCOLHA', 0)}")
     print()
     print("QUALIDADE:")
     for k, v in sorted(contadores.items()):

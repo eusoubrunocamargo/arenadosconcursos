@@ -6,19 +6,23 @@ Consome a API do caderno sequencialmente (posicao 1 ate N),
 cruza cada questao com o mapa de gabaritos da Etapa 1,
 e produz o dataset bruto enriquecido para a Etapa 3 (sanitizador).
 
+Suporta dois formatos de questao:
+  - CERTO_ERRADO    : tipoQuestao == "CERTO_ERRADO"  | gabarito: "C" ou "E"
+  - MULTIPLA_ESCOLHA: tipoQuestao == "MULTIPLA_ESCOLHA" | gabarito: "A".."E"
+
 Uso basico:
-    python scraper_api.py \
-        --gabaritos gabaritos_linguaportuguesa.json \
+    python fetcher.py \
+        --gabaritos gabaritos_lei8429.json \
         --caderno   90331308 \
-        --total     5411 \
+        --total     280 \
         --cookies   cookies.json \
-        --saida     dataset_bruto_linguaportuguesa.json
+        --saida     dataset_bruto_lei8429.json
 
 Modo de validacao (primeiras 20 questoes):
-    python scraper_api.py ... --limite 20
+    python fetcher.py ... --limite 20
 
 Modo de diagnostico (inspeciona estrutura da resposta da API):
-    python scraper_api.py ... --debug
+    python fetcher.py ... --debug
 
 Retomada automatica:
     Se o arquivo de saida ja existe, o script detecta o progresso
@@ -37,8 +41,6 @@ from pathlib import Path
 try:
     import requests
     import urllib3
-    # verify=False e necessario em ambientes Windows com antivirus ou proxy
-    # que fazem inspecao SSL (MITM). Para scraping local isso e aceitavel.
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     SSL_VERIFY = False
 except ImportError:
@@ -64,6 +66,12 @@ HEADERS = {
 INTERVALO_MIN = 0.8
 INTERVALO_MAX = 1.3
 CHECKPOINT_A_CADA = 50
+
+# Letras validas para multipla escolha (gabarito vindo do PDF)
+LETRAS_VALIDAS = {"A", "B", "C", "D", "E"}
+
+# Valores validos para certo/errado (gabarito vindo do PDF)
+CE_VALIDOS = {"C", "E", "CERTO", "ERRADO"}
 
 
 # =============================================================================
@@ -150,17 +158,14 @@ def extrair_questao(resposta_bruta):
       - Diretamente: {"idQuestao": 123, ...}
       - Encapsulado: {"questao": {"idQuestao": 123, ...}, ...}
 
-    Esta funcao normaliza os dois casos, retornando sempre o objeto
-    que contem 'idQuestao'. Retorna None se nao encontrar.
+    Retorna sempre o objeto que contem 'idQuestao', ou None.
     """
     if not isinstance(resposta_bruta, dict):
         return None
 
-    # Caso direto
     if "idQuestao" in resposta_bruta:
         return resposta_bruta
 
-    # Caso encapsulado: procura 'idQuestao' um nivel abaixo
     for chave, valor in resposta_bruta.items():
         if isinstance(valor, dict) and "idQuestao" in valor:
             return valor
@@ -168,23 +173,109 @@ def extrair_questao(resposta_bruta):
     return None
 
 
-def montar_objeto(tec, gabarito, posicao):
+def normalizar_gabarito(gabarito_raw):
+    """
+    Normaliza o gabarito vindo do PDF para um formato canonico:
+      - Certo/Errado: "C" ou "E"
+      - Multipla escolha: "A", "B", "C", "D" ou "E"
+
+    Retorna a string normalizada ou None se invalida.
+    """
+    if not gabarito_raw:
+        return None
+
+    g = str(gabarito_raw).strip().upper()
+
+    # Certo/Errado por extenso
+    if g in ("CERTO", "TRUE",  "V", "VERDADEIRO"):
+        return "C"
+    if g in ("ERRADO", "FALSE", "F", "FALSO"):
+        return "E"
+
+    # Ja esta em formato canonico (C, E, A, B, D)
+    if g in ("C", "E") or g in LETRAS_VALIDAS:
+        return g
+
+    return None
+
+
+def detectar_tipo_questao(tec):
+    """
+    Determina o tipo de questao com base nos campos da API.
+    Retorna: "CERTO_ERRADO" | "MULTIPLA_ESCOLHA" | "DESCONHECIDO"
+    """
+    tipo_api = tec.get("tipoQuestao", "").upper()
+
+    if "MULTIPLA" in tipo_api or "OBJETIVA" in tipo_api:
+        # Confirmacao adicional: tem alternativas preenchidas?
+        alternativas = tec.get("alternativas", [])
+        if isinstance(alternativas, list) and len(alternativas) > 0:
+            return "MULTIPLA_ESCOLHA"
+
+    if "CERTO" in tipo_api or "ERRADO" in tipo_api:
+        return "CERTO_ERRADO"
+
+    # Fallback: infere pelo gabarito ou presenca de alternativas
+    alternativas = tec.get("alternativas", [])
+    if isinstance(alternativas, list) and len(alternativas) > 0:
+        return "MULTIPLA_ESCOLHA"
+
+    return "CERTO_ERRADO"  # default historico do caderno original
+
+
+def gabarito_coerente(gabarito, tipo_questao):
+    """
+    Verifica se o gabarito normalizado e coerente com o tipo de questao.
+
+    Para CERTO_ERRADO: gabarito deve ser "C" ou "E".
+    Para MULTIPLA_ESCOLHA: gabarito deve ser "A".."E".
+
+    Retorna True se coerente, False caso contrario.
+    """
+    if gabarito is None:
+        return False
+
+    if tipo_questao == "CERTO_ERRADO":
+        return gabarito in ("C", "E")
+
+    if tipo_questao == "MULTIPLA_ESCOLHA":
+        return gabarito in LETRAS_VALIDAS
+
+    return True  # DESCONHECIDO: nao bloqueia
+
+
+def montar_objeto(tec, gabarito_raw, posicao, tipo_questao):
     """
     Combina dados da API com o gabarito do PDF.
 
+    Campos adicionados em relacao a versao anterior:
+      - tipo_questao     : "CERTO_ERRADO" | "MULTIPLA_ESCOLHA"
+      - formato_questao  : valor bruto do campo formatoQuestao da API
+      - alternativas     : lista de strings HTML (vazia para C/E)
+      - gabarito         : normalizado para C/E/A/B/D (nunca booleano)
+
     ATENCAO - 'enunciado_tec_html':
-        O campo 'enunciado' do TEC contem TODO o corpo da questao
-        (texto de apoio + comando + afirmacao misturados).
-        Renomeamos para deixar explicito que e a ENTRADA do sanitizador.
-        A Etapa 3 vai decompor em:
-          texto_apoio_html/texto | comando_html/texto | enunciado_html/texto
+        Contem TODO o corpo da questao (texto de apoio + comando misturados).
+        A Etapa 3 vai decompor em texto_apoio, comando e enunciado separados.
     """
+    alternativas = tec.get("alternativas", [])
+    if not isinstance(alternativas, list):
+        alternativas = []
+
     return {
         "id_tec":             str(tec["idQuestao"]),
         "link_tec":           f"https://www.tecconcursos.com.br/questoes/{tec['idQuestao']}",
-        "_posicao_caderno":   posicao,      # campo interno; removido pelo sanitizador
-        "gabarito":           gabarito,     # vem do PDF (Etapa 1)
+        "_posicao_caderno":   posicao,
+        # --- classificacao do formato ---
+        "tipo_questao":       tipo_questao,
+        "formato_questao":    tec.get("formatoQuestao", ""),
+        # --- gabarito normalizado ---
+        "gabarito":           normalizar_gabarito(gabarito_raw),
+        "gabarito_raw":       str(gabarito_raw).strip() if gabarito_raw else "",
+        # --- conteudo ---
         "enunciado_tec_html": tec.get("enunciado", ""),
+        "alternativas":       alternativas,  # lista HTML; vazia para C/E
+        # --- metadados ---
         "nome_materia":       tec.get("nomeMateria",          ""),
         "nome_assunto":       tec.get("nomeAssunto",          ""),
         "banca_sigla":        tec.get("bancaSigla",           ""),
@@ -204,7 +295,7 @@ def montar_objeto(tec, gabarito, posicao):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Etapa 2 - Scraper via API REST do TEC",
+        description="Etapa 2 - Scraper via API REST do TEC (C/E + Multipla Escolha)",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument("--gabaritos", required=True)
@@ -218,13 +309,12 @@ def main():
                         help="Inspeciona estrutura da API na posicao 1 e encerra")
     args = parser.parse_args()
 
-    # Sessao autenticada (usada em todos os modos)
     session = requests.Session()
     session.headers.update(HEADERS)
     session.cookies.update(carregar_cookies(args.cookies))
 
     # ------------------------------------------------------------------
-    # MODO DEBUG - fundamental para diagnosticar estrutura da resposta
+    # MODO DEBUG
     # ------------------------------------------------------------------
     if args.debug:
         print("=== MODO DEBUG: estrutura da resposta da API ===\n")
@@ -246,19 +336,29 @@ def main():
         print(f"\n--- Tentando extrair idQuestao ---")
         questao = extrair_questao(bruto)
         if questao:
-            print(f"  idQuestao:   {questao.get('idQuestao')}")
-            print(f"  nomeMateria: {questao.get('nomeMateria')}")
-            print(f"  bancaSigla:  {questao.get('bancaSigla')}")
-            print(f"  concursoAno: {questao.get('concursoAno')}")
-            preview = str(questao.get('enunciado', ''))[:120].replace("\n", " ")
-            print(f"  enunciado:   {preview}")
+            tipo = detectar_tipo_questao(questao)
+            print(f"  idQuestao:    {questao.get('idQuestao')}")
+            print(f"  tipoQuestao:  {questao.get('tipoQuestao')} -> detectado: {tipo}")
+            print(f"  formatoQuestao: {questao.get('formatoQuestao')}")
+            print(f"  nomeMateria:  {questao.get('nomeMateria')}")
+            print(f"  bancaSigla:   {questao.get('bancaSigla')}")
+            print(f"  concursoAno:  {questao.get('concursoAno')}")
+            alternativas = questao.get("alternativas", [])
+            print(f"  alternativas: {len(alternativas)} opcoes")
+            for i, alt in enumerate(alternativas[:3]):
+                preview = str(alt)[:80].replace("\n", " ")
+                print(f"    [{i}] {preview}")
+            if len(alternativas) > 3:
+                print(f"    ... (+{len(alternativas) - 3} mais)")
+            preview = str(questao.get("enunciado", ""))[:120].replace("\n", " ")
+            print(f"  enunciado:    {preview}")
         else:
             print("  FALHA: 'idQuestao' nao encontrado.")
             print(f"  Resposta completa:\n{str(bruto)[:1000]}")
         return
 
     # ------------------------------------------------------------------
-    # MODO NORMAL - carrega gabaritos e executa o loop de captura
+    # MODO NORMAL
     # ------------------------------------------------------------------
     with open(args.gabaritos, encoding="utf-8") as f:
         gabaritos_lista = json.load(f)
@@ -275,7 +375,8 @@ def main():
     else:
         print(f"Captura completa:      posicoes {pos_inicio} a {pos_fim}\n")
 
-    capturadas = ignoradas = erros = 0
+    # contadores separados por tipo
+    cap_ce = cap_me = ignoradas = erros = incoerentes = 0
 
     for posicao in range(pos_inicio, pos_fim + 1):
 
@@ -301,18 +402,38 @@ def main():
 
         if id_tec not in mapa_gabaritos:
             ignoradas += 1
-            print(f"   [pos {posicao}] ID {id_tec} sem gabarito no mapa. Ignorando.")
             time.sleep(random.uniform(INTERVALO_MIN, INTERVALO_MAX))
             continue
 
-        resultados[id_tec] = montar_objeto(objeto_tec, mapa_gabaritos[id_tec], posicao)
-        capturadas += 1
+        tipo_questao  = detectar_tipo_questao(objeto_tec)
+        gabarito_raw  = mapa_gabaritos[id_tec]
+        gabarito_norm = normalizar_gabarito(gabarito_raw)
 
-        if capturadas % 10 == 0 or posicao == pos_fim:
-            print(f"   [pos {posicao}/{pos_fim}] {capturadas} capturadas | "
-                  f"{ignoradas} ignoradas | {erros} erros")
+        # Gabarito incoerente com o tipo: registra mas sinaliza
+        if not gabarito_coerente(gabarito_norm, tipo_questao):
+            incoerentes += 1
+            print(
+                f"   [pos {posicao}] AVISO: gabarito '{gabarito_raw}' "
+                f"incoerente com tipo '{tipo_questao}' (id={id_tec}). "
+                f"Registrado assim mesmo para revisao manual."
+            )
 
-        if capturadas % CHECKPOINT_A_CADA == 0:
+        resultados[id_tec] = montar_objeto(objeto_tec, gabarito_raw, posicao, tipo_questao)
+
+        if tipo_questao == "MULTIPLA_ESCOLHA":
+            cap_me += 1
+        else:
+            cap_ce += 1
+
+        capturadas_total = cap_ce + cap_me
+        if capturadas_total % 10 == 0 or posicao == pos_fim:
+            print(
+                f"   [pos {posicao}/{pos_fim}] "
+                f"C/E: {cap_ce} | ME: {cap_me} | "
+                f"ignoradas: {ignoradas} | erros: {erros}"
+            )
+
+        if capturadas_total % CHECKPOINT_A_CADA == 0:
             salvar(resultados, args.saida)
             print(f"   Checkpoint salvo ({len(resultados)} questoes)")
 
@@ -320,16 +441,20 @@ def main():
 
     salvar(resultados, args.saida)
 
+    total_cap = cap_ce + cap_me
     print(f"\n{'='*60}")
     print(f"RELATORIO DA ETAPA 2")
     print(f"{'='*60}")
     print(f"Posicoes processadas:  {pos_fim - pos_inicio + 1}")
-    print(f"Questoes capturadas:   {capturadas}")
+    print(f"Questoes capturadas:   {total_cap}")
+    print(f"  -> Certo/Errado:     {cap_ce}")
+    print(f"  -> Multipla Escolha: {cap_me}")
+    print(f"Gabaritos incoerentes: {incoerentes}  (revisar manualmente)")
     print(f"Ignoradas (sem gab.):  {ignoradas}")
     print(f"Erros de rede/HTTP:    {erros}")
     print(f"Total no arquivo:      {len(resultados)}")
     print(f"Arquivo de saida:      {args.saida}")
-    if args.limite > 0 and capturadas > 0:
+    if args.limite > 0 and total_cap > 0:
         print(f"\nValidacao com --limite {args.limite} concluida.")
         print(f"Verifique '{args.saida}' antes de rodar sem --limite.")
     print(f"{'='*60}\n")
